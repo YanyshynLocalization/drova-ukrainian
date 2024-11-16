@@ -130,7 +130,7 @@ Title_FontAndDialog { Шрифт і діалоги }
 
 Toggle_PickUpsToQuickbar_Food { Їжа }
 
-Toggle_PickUpsToQuickbar_Throwables { Розкидачі }
+Toggle_PickUpsToQuickbar_Throwables { Метаючі предмети }
 
 Toggle_PickUpsToQuickbar_Torches { Факели }
 
