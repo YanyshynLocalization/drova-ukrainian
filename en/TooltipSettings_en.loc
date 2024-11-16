@@ -1,0 +1,125 @@
+healingText { Відновлює [MaxStack] здоров'я за [StackTime] секунд. }
+
+damage { Шкода }
+
+attack { Атака }
+
+flowgain { Фокус }
+
+physicalblock { Фізичний блок }
+
+magicalblock { Магічний блок }
+
+physicalresistance { Броня }
+
+magicalresistance { Магічний захист }
+
+flowcosts { Витрати фокусу }
+
+strength { Сила }
+
+dexterity { Ловкість }
+
+mind { Розум }
+
+health { Здоров'я }
+
+healing { Відновлює [VALUE] від вашого максимального здоров'я. }
+
+learningpoints { ЛП }
+
+talentlearned { Вивчено }
+
+talentcannotlearned { Ще не можна вивчити }
+
+talentcanbelearned { Можна вивчити }
+
+unknownteacher { Невідомий }
+
+talentnotknown { Ви ще не відкрили цей талант. }
+
+foodText { Повільно відновлює здоров'я до [MaxStack] одиниць здоров'я. Якщо ваш бар здоров'я повний, лікування припиняється. }
+
+recipe_requirements { Потрібно: }
+
+buffAdditionalDescription { (Нова їжа замінює ефект ситості) }
+
+maxHealth { Макс. здоров'я [VALUE] }
+
+flowGain { Фокус [VALUE] }
+
+magicDamage { Магічна шкода [VALUE] }
+
+bleedingChance { Шанс кровотечі [VALUE] }
+
+weaponDamage { Шкода зброєю [VALUE] }
+
+movementSpeed { Швидкість руху [VALUE] }
+
+poiseDamage { Шкода стійкості [VALUE] }
+
+magicResistance { Магічний захист [VALUE] }
+
+staminaReg { Відновлення витривалості [VALUE] }
+
+flowReg { Відновлення фокусу [VALUE] }
+
+armor { Броня [VALUE] }
+
+healAdditionalDescription { (Схожий предмет заміняє ефект посилення) }
+
+flowPhysical { Здібність }
+
+flowMagical { Заклинання }
+
+flowOneTime { Скрол заклинання }
+
+learnspell { Використовуйте цей предмет для вивчення здатності }
+
+learnrecipe { Використовуйте цей предмет для вивчення рецепта }
+
+alreadylearned { Вже вивчено }
+
+trashtotrade { Додати сміття до вартості товарів }
+
+craftingItem { Матеріал для крафту }
+
+saleitem { Товар на продаж }
+
+weaponDamage_single { Шкода зброєю [VALUE] }
+
+critchance { Шанс крит. удару }
+
+critchance_Value { Шанс крит. удару [VALUE] }
+
+orientationpoint { Базовий фокус [VALUE] }
+
+stat_change_str { +$STATCHANGE:PhysDmg$ фіз. шкода }
+
+stat_change_dex { +$STATCHANGE:CritChance$ крит. }
+
+stat_change_mind { +$STATCHANGE:MagDmg$ маг. шкода + $STATCHANGE:Focus$ базовий фокус }
+
+helmet_cosmetics { (Шоломи є суто косметичними та не мають впливу на вашого персонажа.) }
+
+mainHandWeapon { Одноручна зброя }
+
+offHandWeapon { Додаткова рука }
+
+twoHandedWeapon { Двуручна зброя }
+
+munition { Боєприпаси }
+
+drug_description { Згладжує ваші відчуття }
+
+LearnSpell { Навчає здатності до зброї }
+
+flowText { Генерує [HealValue] фокус за [StackTime] секунд. }
+
+needrunestone { Потрібен Рунний Камінь }
+
+strength_value { Сила [VALUE] }
+
+dex_value { Ловкість [VALUE] }
+
+mind_value { Розум [VALUE] }

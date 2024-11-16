@@ -1,0 +1,59 @@
+title_character_segment { Персонаж }
+
+label_character_level { Рівень }
+
+tooltip_character_level { Показує ваш поточний рівень. Це вказує на потужність вашого персонажа. }
+
+tooltip_character_faction { Показує вашу поточну приналежність. }
+
+tooltip_character_skillpoints { Ви можете використовувати бали навчання для підвищення ваших атрибутів або для вивчення нових талантів у вчителів. Кожен новий рівень дає <color=#55BD55>чотири</color> бали навчання і <color=#55BD55>п’ять</color> очок здоров’я. }
+
+label_character_skillpoints { Бали навчання }
+
+tooltip_character_xp { Ви отримуєте очки досвіду, вбиваючи супротивників або виконуючи завдання. }
+
+label_attributes_hitpoints { Здоров’я }
+
+tooltip_attributes_hitpoints { Коли ваше здоров’я опускається до нуля, ваш персонаж помирає. }
+
+tooltip_attributes_stamina { Витривалість використовується для блокування, ухилення та сильних атак. }
+
+label_attributes_stamina { Витривалість }
+
+tooltip_attributes_flow { Фокус використовується для здібностей. Він генерується при завданні шкоди і поступово зникає або після отримання шкоди. }
+
+label_attributes_flow { Фокус }
+
+tooltip_attributes_power { Потужність - це сума ваших атрибутів, і вона є необхідною для володіння певною зброєю. }
+
+tooltip_attributes_strength { Сила збільшує фізичний шкоди, який ви завдаєте, на [VALUE]. }
+
+tooltip_attributes_dexterity { Спритність збільшує ваш шанс на критичний удар на [VALUE]. Кожен критичний удар викликає кровотечу у цілі та додаткову шкоду, залежно від типу зброї. }
+
+tooltip_attributes_mind { Розум збільшує ваш магічний шкоди на [VALUE1] та ваш базовий фокус на [VALUE2]. }
+
+label_attributes_armor { Броня }
+
+tooltip_attributes_armor { Зменшує вхідний фізичний шкоди. }
+
+tooltip_attributes_magic_resistance { Зменшує вхідний магічний шкоди. }
+
+label_attributes_magic_resistance { Магічний опір }
+
+title_equipment_segment { Обладнання }
+
+title_directquickbar_segment { Швидка панель }
+
+faction_none { Без фракції }
+
+faction_nemeton { Нематон }
+
+faction_ruincamp { Табір залишків }
+
+title_ammo { Боєприпаси }
+
+totalFIghtingStrength { Потужність бою }
+
+baseFightingStrength { Базова потужність бою }
+
+baseFightingStrengthDesc { Базова потужність бою — це сума ваших атрибутів без додаткових бонусів від обладнання і вважається вимогою для талантів. }

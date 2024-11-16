@@ -1,0 +1,26 @@
+SleepBuff { Відпочилий }
+
+SleepBuffDescription { Збільшує вашу швидкість руху на [MovementPercent]. }
+
+Poison { Отрута }
+
+PoisonDescription { Зменшує вашу швидкість руху на [MovementPercent]. }
+
+Bleeding { Кровотеча }
+
+BleedingDescription { Кожну секунду ви втрачаєте здоров'я. }
+
+SleepBuff_T2 { Добре відпочилий }
+
+Veil_Name { Чорний полум'я }
+
+Veil_Desc { Ви постійно отримуєте шкоду. }
+
+Intoxicated_Name { П'яний }
+
+Intoxicated_Desc { Все виглядає якось розмитим... }
+
+NoFood_Name { Порожній шлунок }
+
+NoFood_Desc { З'їжте щось, щоб заповнити шлунок. Якщо ви насититесь, ваші сили відновлюватимуться з часом. }
+

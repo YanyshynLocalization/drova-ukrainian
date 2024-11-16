@@ -1,0 +1,199 @@
+Achievement_ImmersiveMod_name { Залізо }
+
+Achievement_ImmersiveMod_desc { Завершіть гру з увімкненим режимом «Залізо». }
+
+Achievement_CengizWoodcampQuest_name { Гарний початок }
+
+Achievement_CengizWoodcampQuest_desc { Забезпечте, щоб усі люди Ценгіза працювали на мосту. }
+
+Achievement_LeftDeepMine_name { Вниз }
+
+Achievement_LeftDeepMine_desc { Втеча з Глибокої шахти в таборі решток. }
+
+Achievement_HelpedGeorg_name { Бої та Лисиці }
+
+Achievement_HelpedGeorg_desc { Допоможіть кожному жителю на фермі Джорджа. }
+
+Achievement_JoinNemeton_name { Частина родини }
+
+Achievement_JoinNemeton_desc { Приєднайтесь до Неметону. }
+
+Achievement_JoinRuinenlager_name { Приєднання до решток }
+
+Achievement_JoinRuinenlager_desc { Приєднайтесь до решток. }
+
+Achievement_GotFamiliar_name { Мій палаючий маленький Спарк }
+
+Achievement_GotFamiliar_desc { Будьте вибрані Спарком. }
+
+Achievement_CaughtBoar_name { Божественність належить нам! }
+
+Achievement_CaughtBoar_desc { Перемогти Могутнього Кабана. }
+
+Achievement_GotYourRunestone_name { Лише з Рунним Каменем }
+
+Achievement_GotYourRunestone_desc { Отримати свій Рунний Камінь. }
+
+Achievement_CompletedLibrary_name { Бібліофіл }
+
+Achievement_CompletedLibrary_desc { Завершіть бібліотеку. }
+
+Achievement_CompletedAuwald_name { Наодинці в лісі }
+
+Achievement_CompletedAuwald_desc { Знайдіть Божественний Кристал у Лісовій низовині. }
+
+Achievement_CompletedCityDungeon_name { Сліди минулого }
+
+Achievement_CompletedCityDungeon_desc { Знайдіть Божественний Кристал у Лісі первісному. }
+
+Achievement_EnteredRedTower_name { У Червоній вежі! }
+
+Achievement_EnteredRedTower_desc { Вступіть у Червону Вежу. }
+
+Achievement_FirstDeath_name { Ласкаво просимо в Дрову }
+
+Achievement_FirstDeath_desc { Смерть вперше. }
+
+Achievement_FirstArenaFight_name { Не розважаєш мене? }
+
+Achievement_FirstArenaFight_desc { Перемогти в першому бою на арені. }
+
+Achievement_GraWonArenaFight_name { Для Непереможного }
+
+Achievement_GraWonArenaFight_desc { Ви допомогли Гра виграти бій. Естер задоволена. }
+
+Achievement_BloodborneAchievement_name { Остерігайтесь Старої Крові }
+
+Achievement_BloodborneAchievement_desc { Мисливець повинен полювати. }
+
+Achievement_BertineRevenge_name { Око за око, зуб за зуб }
+
+Achievement_BertineRevenge_desc { Допоможіть Бертіні завершити її останню помсту. }
+
+Achievement_Schnitzeljagd_name { Полювання на скарби }
+
+Achievement_Schnitzeljagd_desc { Створіть свій власний талісман. }
+
+Achievement_ArenaMaster_name { Гладіатор }
+
+Achievement_ArenaMaster_desc { Підніміться на вершину арени в таборі решток. }
+
+Achievement_Blackboard_name { Для спільноти }
+
+Achievement_Blackboard_desc { Виконайте всі завдання з дошки оголошень. }
+
+Achievement_LastManStandingFeuertaufe_name { Останній, хто стоїть }
+
+Achievement_LastManStandingFeuertaufe_desc { Будьте останнім, хто залишиться після вогняного хрещення Євгена. }
+
+Achievement_CompletedBrutusMine_name { Свобода! }
+
+Achievement_CompletedBrutusMine_desc { Звільніть в'язнів. }
+
+Achievement_KilledRipperWoodcampAct1_name { Права рука Ценгіза }
+
+Achievement_KilledRipperWoodcampAct1_desc { Вбити лідера банди розбійників біля табору лісорубів в Акті 1. }
+
+Achievement_HelpedSickSister_name { Самаритянин }
+
+Achievement_HelpedSickSister_desc { Допоможіть хворій сестрі бандита. }
+
+Achievement_KilledBearBeforeAct2_name { Страх від ведмедя }
+
+Achievement_KilledBearBeforeAct2_desc { Вбити ведмедя в Акті 1. }
+
+Achievement_KilledOlafRipper_name { Один розбійник менше }
+
+Achievement_KilledOlafRipper_desc { Позбутися від проблеми Олафа з розбійниками. }
+
+Achievement_KilledDiemo_name { Я не мав вибору }
+
+Achievement_KilledDiemo_desc { Стикнутися з помстою Діемо. }
+
+Achievement_GaveCayFamiliar_name { Поросятко на ім'я Кай }
+
+Achievement_GaveCayFamiliar_desc { Віддати частину себе, щоб врятувати Кая. }
+
+Achievement_StoppedMurtaghAndMursel_name { Я є закон }
+
+Achievement_StoppedMurtaghAndMursel_desc { Принести справедливість у Піт табору решток. }
+
+Achievement_LeftMine100Silver_name { Це моє срібло! }
+
+Achievement_LeftMine100Silver_desc { Покинути Піт в таборі решток з 100 срібними в кишенях. }
+
+Achievement_UndertookJourneyToRoots_name { Одне з Лісом первісним }
+
+Achievement_UndertookJourneyToRoots_desc { Відправитись в подорож до коренів Матері. }
+
+Achievement_FedMikesch10Fish_name { Мікеш-Пожиратель }
+
+Achievement_FedMikesch10Fish_desc { Нагодувати Мікеша 10 риб. }
+
+Achievement_InteractedWithAllUniqueCritters_name { Тіловий Шепіт }
+
+Achievement_InteractedWithAllUniqueCritters_desc { Взаємодіяти з кожною унікальною твариною в Дрові. }
+
+Achievement_LearnedFromBady_name { Завоював Ареною }
+
+Achievement_LearnedFromBady_desc { Перемогти Баді в чесному бою. }
+
+Achievement_TookAllDrugs_name { Даремно не будемо! }
+
+Achievement_TookAllDrugs_desc { Отримати всі наркотики в Дрові. }
+
+Achievement_GotRelicFromRuinenraeuber_name { Зникле, але не забуте }
+
+Achievement_GotRelicFromRuinenraeuber_desc { Завершити релікт для Руйнівників руїн. }
+
+Achievement_FinishedPwyllConversation_name { Все почалося з... }
+
+Achievement_FinishedPwyllConversation_desc { Отримати унікальний подарунок від Пвілла. }
+
+Achievement_FoundAtlanterWeapon_name { Спадок минулого }
+
+Achievement_FoundAtlanterWeapon_desc { Знайти давню зброю. }
+
+Achievement_CraftedEpicArmor_name { Нічого не може зашкодити! }
+
+Achievement_CraftedEpicArmor_desc { Отримати обладунки минулого. }
+
+Achievement_WonAgainstBrutus_name { Останній суверен минулого }
+
+Achievement_WonAgainstBrutus_desc { Перемогти Дріванія. }
+
+Achievement_JoinedRustmossBusiness_name { Частина угоди }
+
+Achievement_JoinedRustmossBusiness_desc { Вступити в торгівлю Руствел. }
+
+Achievement_TrustedGawan_name { Повна довіра }
+
+Achievement_TrustedGawan_desc { Довіртесь Гавану та його діловому чуттю. }
+
+Achievement_DefaultEnding_name { Все закінчується }
+
+Achievement_DefaultEnding_desc { Ви пройшли історію до її гіркого кінця. Ви звільнили гнів Божеств і розсіювали Смог Смерті. }
+
+Achievement_OptionalEnding_name { Нові шляхи }
+
+Achievement_OptionalEnding_desc { Ви пройшли історію до її гіркого кінця. Ви вгамували гнів Божеств і розсіювали Смог Смерті. }
+
+Achievement_EnteredNemeton_name { Я знайду шлях! }
+
+Achievement_EnteredNemeton_desc { Знайти шлях у Неметон. }
+
+Achievement_AllAchievements_name { Дровастик! }
+
+Achievement_AllAchievements_desc { Отримати всі досягнення. }
+
+Achievement_ExplorerMode_name { Дослідник }
+
+Achievement_ExplorerMode_desc { Завершіть Drova в режимі Дослідника. }
+
+Achievement_HardcoreMode_name { Хардкор }
+
+Achievement_HardcoreMode_desc { Завершіть гру з увімкненим режимом «Хардкор». }
+
+Achievement_ClassicMode_name { Класика }
+
+Achievement_ClassicMode_desc { Завершіть Drova в класичному режимі. }

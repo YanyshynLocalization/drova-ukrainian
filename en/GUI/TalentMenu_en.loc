@@ -1,0 +1,33 @@
+Level { Рівень: }
+
+LearningPoints { Очки навчання: }
+
+Category_Sword { Меч }
+
+Category_Unknown { ??? }
+
+Category_Spear { Спис }
+
+Category_Axe { Сокира }
+
+Category_Daggers { Ножі }
+
+Category_Bow { Лук }
+
+Category_Crafting { Крафт }
+
+Category_Hunting { Знаряддя }
+
+CombatStrength { Сила бою }
+
+Category_Slingshot { Рогатка }
+
+Category_Shield { Щит }
+
+requirement { Необхідно: }
+
+Category_Preparation { Підготовка }
+
+Category_Mining { Пошук копалин }
+
+fighting_strength { Сила бою }

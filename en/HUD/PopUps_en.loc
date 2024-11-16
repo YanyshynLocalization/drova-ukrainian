@@ -1,0 +1,11 @@
+LevelUp { Ви здобули рівень! }
+
+NotEnoughFightingStrength { Недостатньо сили для бою }
+
+NoAmmoWarning { Немає боєприпасів }
+
+ReloadWarning { Перезарядка }
+
+SpellAlreadyKnown { Ви вже вивчили цю здатність. }
+
+NeedsQuiver { Потрібно саги }

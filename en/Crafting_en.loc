@@ -1,0 +1,33 @@
+Workbench { Робочий стіл }
+
+Furnace { Піч }
+
+Fireplace { Костер }
+
+Personal { Особисті }
+
+Recipes { Рецепти }
+
+Title_Panel { Крафт }
+
+Toggle_CraftableOnly { Показувати тільки крафтовані рецепти }
+
+Foldout_Throw { Інструменти }
+
+Foldout_Ammo { Боєприпаси }
+
+Foldout_Trinkets { Прикраси }
+
+Foldout_Food { Їжа }
+
+Foldout_Heal { Лікування }
+
+Foldout_Unsorted { Несортоване }
+
+Title_CraftingStation { Робоча зона }
+
+Prefix_RequiredWorkbench { Потрібно: }
+
+Foldout_Potion { Зілля }
+
+Foldout_Crafting { Обробка }

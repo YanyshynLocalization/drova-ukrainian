@@ -1,0 +1,162 @@
+Key_Shift { Shift }
+
+control_mousebutton_left { Ліва кнопка миші }
+
+control_mousebutton_right { Права кнопка миші }
+
+control_keycode_space { ПРОБІЛ }
+
+control_keycode_control { Ctrl }
+
+control_keycode_tab { TAB }
+
+control_keycode_return { ENTER }
+
+control_keycode_alt { Alt }
+
+control_keycode_up { Вверх }
+
+control_keycode_down { Вниз }
+
+control_keycode_left { Вліво }
+
+control_keycode_right { Вправо }
+
+action_MoveX_Pos { Рух вправо }
+
+action_MoveX_Neg { Рух вліво }
+
+action_MoveY_Pos { Рух вгору }
+
+action_MoveY_Neg { Рух вниз }
+
+action_LookX_Pos { Подивитися вправо }
+
+action_LookX_Neg { Подивитися вліво }
+
+action_LookY_Pos { Подивитися вгору }
+
+action_LookY_Neg { Подивитися вниз }
+
+action_Attack_Primary { Атака }
+
+action_Block { Дія другою рукою }
+
+action_Attack_And_Interaction { Взаємодія (звичайний режим) / <br>Атака (бойовий режим) }
+
+action_Block_And_Perception { Режим розслідування (звичайний режим) / <br> Дія другою рукою (бойовий режим) }
+
+action_Dodge { Ухилення }
+
+action_DrawWeapon { Вийняти/Сховати зброю }
+
+action_GameMenu { Меню гри }
+
+action_PauseMenu { Пауза }
+
+action_Interact { Взаємодія }
+
+action_Inventory { Інвентар }
+
+action_LootAll { Забрати все }
+
+action_Journal { Журнал }
+
+action_PerceptionMode { Режим розслідування }
+
+action_QuickSave { Швидке збереження }
+
+action_QuickLoad { Швидке завантаження }
+
+action_SwapWeaponSet { Змінити набір зброї }
+
+action_Walk { Йти }
+
+action_Trade_All { Обміняти все }
+
+action_Trade_Ten { Обміняти десять }
+
+action_Screenshot { Знімок екрану }
+
+action_ReportBug { Повідомити про помилку }
+
+action_UseSpell { Використати здібність }
+
+action_RingMenu { Кільцеве меню }
+
+action_OpenMap { Карта }
+
+action_MarkObject { Позначити об'єкт }
+
+action_TalentMenu { Таланти }
+
+action_MarkAsGarbage { Позначити як непотріб }
+
+action_Flow_1 { Здібність 1 }
+
+action_Flow_2 { Здібність 2 }
+
+action_Flow_3 { Здібність 3 }
+
+action_Flow_4 { Здібність 4 }
+
+action_Flow_5 { Здібність 5 }
+
+action_Flow_6 { Здібність 6 }
+
+action_Flow_7 { Здібність 7 }
+
+action_Flow_8 { Здібність 8 }
+
+action_Quickbar_1 { Швидка панель 1 }
+
+action_Quickbar_2 { Швидка панель 2 }
+
+action_Quickbar_3 { Швидка панель 3 }
+
+action_Quickbar_4 { Швидка панель 4 }
+
+action_QuickslotAssignment { Призначити на швидку панель }
+
+action_DeleteQuickbarItem { Очистити швидку панель }
+
+action_PrevPanel { Попередня вкладка }
+
+action_NextPanel { Наступна вкладка }
+
+action_Lockpick_Left { Мінівідео ліворуч }
+
+action_Lockpick_Right { Мінівідео праворуч }
+
+action_GuiScrollY { Прокручування інтерфейсу }
+
+action_PlayNote_1 { Нота 1 }
+
+action_PlayNote_2 { Нота 2 }
+
+action_PlayNote_3 { Нота 3 }
+
+action_PlayNote_4 { Нота 4 }
+
+action_MoveX { Рух }
+
+action_MoveY { Рух }
+
+action_LookX { Огляд навколо }
+
+action_lookY { Огляд навколо }
+
+action_HelpUp { Допомогти }
+
+action_Abilities { Здібності }
+
+action_Squat { Присісти }
+
+action_DialogSkip { Пропустити діалог }
+
+action_CraftingMenu { Меню ремесла }
+
+action_ToggleGarbageVisibility { Показати/сховати непотріб }
+
+action_UIDelete { Видалити }
+

@@ -1,0 +1,10 @@
+Mog { Мог мені $GVAR:QuestVars_Debt_Config.MoneyFromMog$ монет. }
+
+Meluna { Оскільки Мелуну пограбували, вона також мені $GVAR:QuestVars_Debt_Config.MoneyFromMeluna$ монет. }
+
+Lindon { Ліндон був занадто сміливий.<br>Він мені $GVAR:QuestVars_Debt_Config.MoneyFromLindon$ монет. }
+
+Bady { Почесний Баді взяв кредит на $GVAR:QuestVars_Debt_Config.MoneyFromBady$ монет. }
+
+Lore { Лор мені $GVAR:QuestVars_Debt_Config.MoneyFromLore$ монет. }
+

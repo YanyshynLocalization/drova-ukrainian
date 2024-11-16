@@ -1,0 +1,41 @@
+Entry_Created { Новий запис у журналі }
+
+Entry_Updated { Журнал оновлено }
+
+OthersUpdated { +$JOURNAL:Others$ Різне }
+
+Tab_Quests_Finished { Завершено }
+
+Tab_Quests_Running { Поточні }
+
+Tab_Letters { Листи }
+
+Group_Bandits { Руїнні Рейдери }
+
+Group_Nemeton { Наметон }
+
+Group_RuinCamp { Лагерь Залишків }
+
+Group_Tavern { Таверна }
+
+Group_Woodcamp { Лісоруби }
+
+Group_World { Світ }
+
+Group_Unsorted { Несортовані }
+
+Group_Magielager { Притулок }
+
+Group_RedTower { Червона Вежа }
+
+Group_Mine { Шахта }
+
+Group_MainQuest { Головне завдання }
+
+Group_Dungeon_Library { Бібліотека }
+
+Group_Dungeon_City { Місто в Лісовому Світі }
+
+Group_Dungeon_Auwald { Пагорб у Лісовій Затопленій Долині }
+
+Group_TreasureMaps { Карти скарбів }

@@ -1,0 +1,29 @@
+Title_Maps { Карти }
+
+MapName_World_Rough { Груба карта }
+
+MapName_World_Detailed { Карта світу }
+
+MapName_World_Shrines { Храми }
+
+MapName_Nemeton { Наметон }
+
+MapName_Ruincamp { Табір Руїн }
+
+MapName_Leuchtwald { Ліс Прадавній }
+
+MapName_Tristan { Карта Трістана }
+
+MarkerPlaced { Позначено на карті }
+
+NoInk { Потрібен чорнило }
+
+Title_Markers { Маркери }
+
+Hour_Minute_Separator { : }
+
+PlaceMarker { Помістити маркер }
+
+DeleteMarker { Видалити маркер }
+
+Hint_Ink { Купіть чорнило, щоб позначати місця на карті. }

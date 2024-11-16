@@ -1,0 +1,21 @@
+ExpPoints { Очки досвіду }
+
+Name_Strength { Сила }
+
+Name_Mind { Розум }
+
+Name_Dex { Спритність }
+
+Name_Armor { Броня }
+
+Name_MagicResist { Магічний опір }
+
+Learned { Вивчено }
+
+LearnPoint { Очко навчання }
+
+LearnPoints { Очки навчання }
+
+MaximumHealth { Максимум здоров'я }
+
+Name_Orientationpunkt { Базовий фокус }

@@ -1,0 +1,263 @@
+Control { Управління }
+
+GameMode { Режим гри }
+
+default { Скинути }
+
+save { Зберегти }
+
+dont_save { Не зберігати }
+
+cancel { Скасувати }
+
+keyfield_popup { Ваші налаштування були змінені. Бажаєте зберегти цю конфігурацію? }
+
+keyfield_popup_conflict { Ця конфігурація містить конфліктуючі налаштування і не може бути збережена. Бажаєте продовжити без збереження? }
+
+world { Світ }
+
+category_dialog { Діалог }
+
+category_music { Музика }
+
+category_guimenus { Меню інтерфейсу }
+
+category_shotcuts { Різне }
+
+Label_Volume_Master { Всі }
+
+Label_Volume_Sound { Звукові ефекти }
+
+Label_Volume_Ambience { Атмосфера }
+
+Label_Volume_UI { Інтерфейс }
+
+Label_Volume_Music { Музика }
+
+Options { Налаштування }
+
+gameplay { Ігровий процес }
+
+interface { Інтерфейс }
+
+video { Відео }
+
+audio { Аудіо }
+
+Zoom { Масштабування }
+
+ShowPlayerHealth { Показувати панель здоров'я, фокус і інші показники }
+
+ShowLootFeedback { Кожного разу, коли ваш персонаж щось підбирає, отримує нову інформацію або стає сильнішим, на екрані з'являється додаткове повідомлення. }
+
+ShowQuickbar { Показувати швидку панель інструментів }
+
+ShowBuffs { Показувати символи статусів }
+
+ShowHealthVignette { Показувати віньєтку здоров'я }
+
+ShowOptions_Disclaimer { Увімкнути всі для рекомендованих налаштувань гри. }
+
+ShowDirectionFeedback { Показувати напрямок }
+
+ShowHealthbars { Показувати смуги здоров'я }
+
+ShowStaminaBar { Показувати панель витривалості та боєприпаси }
+
+Title_Gamepad { Контролер }
+
+Title_KeyBinds { Управління }
+
+Language { Мова }
+
+Toggle_ShowHelp { Показувати підказки }
+
+AutosaveInterval { Інтервал автозбереження }
+
+Toggle_PickUpsToQuickbar { Автоматично призначати предмети до швидкої панелі інструментів }
+
+Toggle_PickUpsToQuickbar_Heal { Ліки }
+
+Toggle_PickUpsToQuickbar_Traps { Пастки }
+
+Toggle_AutoDrawWeapon { Автоматично діставати зброю }
+
+Toggle_AutoEquipArrows { Автоматично оснащувати боєприпаси }
+
+Dropdown_Resolution { Роздільна здатність }
+
+Toggle_WindowMode { Віконний режим }
+
+Slider_FPS { Кількість кадрів в секунду }
+
+Title_Effects { Ефекти }
+
+Slider_Screenshake { Інтенсивність тремтіння екрану }
+
+Slider_ParticleAmount { Кількість часток }
+
+Toggle_DustParticles { Частки пилу }
+
+Toggle_ShaderEffects { Ефекти шейдерів }
+
+Toggle_WindEffects { Частки вітру }
+
+Toggle_Vibration { Вібрація }
+
+Toggle_AutoAim { Автоціль }
+
+State_Low { Низький }
+
+State_Medium { Середній }
+
+State_High { Високий }
+
+Vsync { V-Синхронізація }
+
+Unlimited { Без обмежень }
+
+Title_Keyboard { Клавіатура }
+
+Option_Generic_Off { Вимкнено }
+
+Autosave_Min3 { 3 хвилини }
+
+Autosave_Min5 { 5 хвилин }
+
+Autosave_Min10 { 10 хвилин }
+
+Title_FontAndDialog { Шрифт і діалоги }
+
+Toggle_PickUpsToQuickbar_Food { Їжа }
+
+Toggle_PickUpsToQuickbar_Throwables { Розкидачі }
+
+Toggle_PickUpsToQuickbar_Torches { Факели }
+
+Dropdown_FontSize { Розмір шрифту }
+
+Dropdown_DialogSpeed { Швидкість відображення тексту }
+
+FontSize_Small { Нормальний }
+
+FontSize_Medium { Великий }
+
+FontSize_Big { Дуже великий }
+
+DialogSpeed_Instant { Миттєво }
+
+DialogSpeed_Fast { Швидко }
+
+DialogSpeed_Slow { Нормально }
+
+Toggle_GroundFog { Туман на землі }
+
+Toggle_Rain { Дощ }
+
+Toggle_Clouds { Хмари }
+
+Toggle_TextSounds { Звуки при відображенні тексту }
+
+Toggle_NPCDialogSounds { Звуки персонажів }
+
+Toggle_ShowCompleteHUD { Показувати повний HUD }
+
+Toggle_CharacterFeedback { Показувати зворотній зв'язок персонажа }
+
+ShowDirectionFeedback_Enemies { Показувати напрямкові індикатори для ворогів }
+
+ShowPoiseBar_Enemies { Показувати шкалу стійкості супротивника }
+
+ShowMunition { Показувати боєприпаси }
+
+Toggle_SmartQuickbar { Розумна швидка панель інструментів }
+
+Toggle_ShowItemChanges { Показувати зміни в предметах }
+
+Toggle_ShowDiaryChanges { Показувати оновлення журналу }
+
+Toggle_ShowNewSpells { Показувати нові закляття, рецепти та таланти }
+
+Toggle_ShowCharacterImprovements { Показувати покращення персонажа }
+
+Toggle_ChangeSticks { Змінити джойстики }
+
+Toggle_ChangeDirectionWithSticks { Змінити напрямок і кнопки дій }
+
+Toggle_ChangeTriggers { Змінити бампери }
+
+Keybinding_Preset { За замовчуванням }
+
+KeyPreset_LeftHanded { Ліворукий }
+
+Toggle_ScrollAbilities { Перемикати активні здібності за допомогою колеса миші }
+
+Parent_BasicHudElements { Основні елементи HUD }
+
+Parent_CharacterFeedback { Зворотний зв'язок персонажа }
+
+Title_ScreenHUD { Елементи HUD в кутку екрану }
+
+Title_PlayerHUD { Елементи HUD, прив'язані до персонажа гравця }
+
+Title_EnemyHUD { Елементи HUD, прив'язані до неігрових персонажів }
+
+ShowNPCNames { Показувати імена персонажів }
+
+KeyPresent_Standard { За замовчуванням }
+
+KeyPresent_Azerty { Азерті }
+
+Title_General { Загальні налаштування }
+
+Description_SmartQuickbar { Запам'ятовує останній предмет, що був призначений на слот швидкої панелі, і знову призначає його при отриманні того ж предмета. }
+
+Toggle_CameraMode { Вирівняти камеру з напрямком погляду }
+
+Description_CameraMode { Камера завжди рухатиметься у напрямку курсора. Якщо ця опція вимкнена, камера вирівнюватиметься за напрямком руху. }
+
+Toggle_FilterSellItems { Автоматично позначати предмети для продажу як сміття }
+
+Description_FilterSellItems { Автоматично позначає нові предмети як сміття для продажу, через що вони з'являються в інвентарі тільки при відображенні сміття. }
+
+Dropdown_DisplayMode { Режим екрану }
+
+DisplayMode_Windowed { Віконний режим }
+
+DisplayMode_Borderless { Безрамковий віконний режим }
+
+DisplayMode_Fullscreen { Повноекранний режим }
+
+Zoom_Near { Близько }
+
+Zoom_Far { Далеко }
+
+Toggle_PickUpsToQuickbar_Potions { Зілля }
+
+Description_AutoDrawWeapon { Персонаж автоматично виймає зброю, коли ухиляється або використовує заклинання. }
+
+Title_WeatherEffects { Ефекти погоди }
+
+Toggle_WindMovements { Рух вітру }
+
+Toggle_Quickcast { Швидке використання здібностей }
+
+AutoDrawWeapon_CombatAbilitiesOnly { Лише бойові вміння }
+
+Description_Quickcast { Після натискання однієї з клавіш здібностей, здібність буде перемкнена і, якщо активовано швидке використання, одразу застосована. }
+
+Description_LookDirection { Під час бою стрілка біля ніг персонажа вказує напрямок, у який він дивиться. }
+
+Description_LookDIrection_NPCs { Під час бою стрілка біля ніг персонажа вказує напрямок, у який він дивиться. }
+
+popup_reset { Відкинути }
+
+FontSize_Preview { Попередній перегляд }
+
+MapMarker_Player_Toggle { Показувати позицію на карті }
+
+PlayerDmgReceive { Отримана шкода від ворога }
+
+PlayerDmgOutput { Додаткова шкода від гравця }
+
+Toggle_MiniGame { Вимкнути міні-ігри }

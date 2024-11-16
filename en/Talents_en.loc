@@ -1,0 +1,210 @@
+talent_sword_01 { Основи фехтування мечем }
+
+talent_sword_01_desc { Покращує вашу бойову позу, збільшує шкоду, яку ви завдаєте, на [DamageValuePercent]. Ви вивчите вміння "Виконати" }
+
+talent_sword_02 { Треноване фехтування мечем }
+
+talent_sword_02_desc { Збільшує шкоду, яку ви завдаєте, на [DamageValuePercent] і відкриває третю комбінацію атак. }
+
+talent_sword_03 { Мистецтво фехтування мечем }
+
+talent_sword_03_desc { Покращує вашу бойову позу і збільшує шкоду, яку ви завдаєте, на [DamageValuePercent]. }
+
+talent_sneak_01 { Крадіжка }
+
+talent_sneak_01_desc { Ви можете краще ховатися і зробити важчим для ваших ворогів помітити вас. }
+
+talent_shield_02 { Треноване фехтування щитом }
+
+talent_shield_02_desc { Ідеальний блок тимчасово паралізує ваших супротивників. }
+
+talent_shield_01 { Основи фехтування щитом }
+
+talent_shield_01_desc { Тепер ви можете виконати ідеальний блок за допомогою вашого щита. }
+
+talent_shield_01_additionale_headline { Ідеальний блок }
+
+talent_shield_01_additionale_desc { Ви виконуєте ідеальний блок, що споживає дуже мало витривалості, якщо блокуєте саме перед ударом. }
+
+talent_spear_01 { Основи фехтування списом }
+
+talent_spear_01_desc { Покращує вашу бойову позу, збільшує шкоду, яку ви завдаєте, на [DamageValuePercent]. Ви вивчите вміння зброї "Проткнути". }
+
+talent_spear_02 { Треноване фехтування списом }
+
+talent_spear_02_desc { Збільшує шкоду, яку ви завдаєте, на [DamageValuePercent]. Звичайні атаки списом відновлюють [StaminaValueAbsolut] витривалості. }
+
+talent_spear_03 { Мистецтво фехтування списом }
+
+talent_spear_03_desc { Покращує вашу бойову позу. Збільшує шкоду, яку ви завдаєте, на [DamageValuePercent], а також відновлює витривалість на [StaminaValueAbsolut] з кожним ударом. }
+
+talent_dagger_01 { Основи фехтування кинджалом }
+
+talent_dagger_01_desc { Покращує вашу бойову позу, збільшує шкоду, яку ви завдаєте, на [DamageValuePercent]. Ви вивчите вміння зброї "Зараження". }
+
+talent_dagger_02 { Треноване фехтування кинджалом }
+
+talent_dagger_02_desc { Збільшує шкоду, яку ви завдаєте, на [DamageValuePercent], збільшує фокус, який ви генеруєте з кожним ударом на [FocusValueAbsolut]. }
+
+talent_dagger_03 { Мистецтво фехтування кинджалом }
+
+talent_dagger_03_desc { Покращує вашу бойову позу, збільшує шкоду, яку ви завдаєте, на [DamageValuePercent], збільшує фокус, який ви генеруєте з кожним ударом на [FocusValueAbsolut]. }
+
+talent_bow_01 { Основи стрільби з лука }
+
+talent_bow_02 { Мистецтво стрільби з лука }
+
+talent_bow_01_additionale_headline { Могутній постріл }
+
+talent_bow_01_additionale_desc { Під час прицілювання з лука ви випускаєте могутній постріл у саме правильне мгновення, що завдає [WeaponDamagePercent] шкоди. }
+
+talent_bow_01_desc { Збільшує шкоду, яку ви завдаєте, на [DamageValuePercent]. Тепер ви можете виконати могутній постріл з лука. }
+
+talent_bow_02_desc { Збільшує шкоду, яку ви завдаєте, на [DamageValuePercent] і скорочує час, необхідний для прицілювання. Ви вивчите вміння зброї "Пошкоджуючий постріл". }
+
+talent_slingshot_01 { Основи стрільби з пращі }
+
+talent_slingshot_02 { Мистецтво стрільби з пращі }
+
+talent_slingshot_01_desc { Збільшує шкоду, яку ви завдаєте, на [DamageValuePercent], а також шкоду від позиції на [PoiseValuePercent]. Ви вивчите вміння зброї "Відскок". }
+
+talent_slingshot_02_desc { Збільшує шкоду, яку ви завдаєте, на [DamageValuePercent], а також шкоду від позиції на [PoiseValuePercent]. }
+
+talent_axe_01 { Основи фехтування сокирою }
+
+talent_axe_01_desc { Покращує вашу бойову позу, збільшує шкоду, яку ви завдаєте, на [DamageValuePercent]. Ви вивчите вміння зброї "Кровавий бій". }
+
+talent_axe_02 { Треноване фехтування сокирою }
+
+talent_axe_02_desc { Збільшує шкоду, яку ви завдаєте, на [DamageValuePercent] і відкриває третю комбінацію атак. }
+
+talent_axe_03 { Мистецтво фехтування сокирою }
+
+talent_axe_03_desc { Покращує вашу бойову позу і збільшує шкоду, яку ви завдаєте, на [DamageValuePercent]. }
+
+talent_alchemy { Варіння зілля }
+
+talent_alchemy_desc { Ви можете варити зілля, що допомагають вам у бою або підвищують ваші характеристики. }
+
+talent_lockpicking_01 { Відмикання складних замків }
+
+talent_lockpicking_01_desc { Тепер жоден замок не є безпечним для вас. }
+
+talent_extractsecretion { Витягнення Ікори }
+
+talent_extractsecretion_desc { Ви можете витягувати ікори з деяких тварин. Ікору використовують для варіння зіль та виготовлення. }
+
+talent_tearclaws { Обробка тварин }
+
+talent_tearclaws_desc { Ви можете видаляти кігті та зуби деяких тварин. Кігті можна продавати; зуби використовуються для виготовлення. }
+
+talent_melting_01 { Виплавка }
+
+talent_melting_01_desc { Ви можете обробляти руду в плавильних печах. }
+
+talent_smith_01 { Ковка }
+
+talent_smith_01_desc { Ви можете кувати різноманітні предмети. }
+
+talent_smith_02 { Мистецтво ковки }
+
+talent_smith_02_desc { Ви можете кувати небезпечні пастки, предмети та боєприпаси. }
+
+talent_stripfur { Знімання шкіри з тварин }
+
+talent_stripfur_desc { Ви можете знімати шкіру з деяких тварин. Шкіру можна продати або використовувати для крафту. }
+
+talent_shield_CritAfterBlock { Вихід з рівноваги }
+
+talent_shield_CritAfterBlock_desc { Якщо ви заблокували атаку ідеально, наступний ваш удар буде критичним. }
+
+talent_shield_flow_afterblock { Це все, що ти можеш? }
+
+talent_shield_flow_afterblock_desc { Якщо ви заблокували атаку ідеально, ви генеруєте [FocusValueAbsolut] фокусу. }
+
+talent_axe_adddmgflow { Бій до кінця }
+
+talent_axe_adddmgflow_desc { Після успішного удару атаки генерують додаткові [FocusValueAbsolut] фокусу. }
+
+talent_axe_critonpoise { Кінцевий удар }
+
+talent_axe_critonpoise_desc { Ваш перший удар сокирою по супротивнику, у якого зламана поза, буде критичним. }
+
+talent_axe_decreasestamina { Повний газ }
+
+talent_axe_decreasestamina_desc { Важкі удари споживають на [StaminaValuePercent] менше витривалості. }
+
+Talent_Daggers_CritAfterDodge { Сюрприз! }
+
+Talent_Daggers_CritAfterDodge_desc { Ваш перший удар кинджалом після ухилення дасть на [CritPercent] більше шансів на критичний удар. }
+
+Talent_Daggers_DecreaseFlow { Повністю сфокусований! }
+
+Talent_Daggers_DecreaseFlow_desc { Після використання здібності ви отримаєте [FocusValueAbsolut] фокусу. }
+
+Talent_Daggers_RegenerateStamina { Ефективний удар }
+
+Talent_Daggers_RegenerateStamina_desc { Звичайні удари генерують [StaminaValueAbsolut] витривалості. }
+
+Talent_Sword_NextSpellLesserFlow { Опортуніст }
+
+Talent_Sword_NextSpellLesserFlow_desc { Після того, як ви виконаєте критичний удар мечем, ви повернете [FocusValuePercent] від витрат фокусу наступної здібності, що потребує фокусу. }
+
+Talent_Sword_ChargeAttacksDecreaseStamina { Сильний удар }
+
+Talent_Sword_ChargeAttacksDecreaseStamina_desc { Важкі удари мечем споживають на [StaminaValuePercent] менше витривалості. }
+
+Talent_Sword_AddCritChance { Точність }
+
+Talent_Sword_AddCritChance_desc { Коли ви атакуєте мечем, у вас є [CritValuePercent] вищий шанс на критичний удар. }
+
+Talent_Spear_GenerateFlow { Сфокусований удар }
+
+Talent_Spear_GenerateFlow_desc { Кожен удар списом по одному і тому ж супротивнику збільшує генерований фокус на [FocusValueAbsolut]. }
+
+Talent_Spear_MoreDmgOnHead { Вищий рівень }
+
+Talent_Spear_MoreDmgOnHead_desc { Пік списа завдає до [DamageValuePercent] додаткової шкоди. }
+
+Talent_Spear_PoiseOnCrit { Отруєний наконечник }
+
+Talent_Spear_PoiseOnCrit_desc { Критичні удари списом накладають отруту на вашого супротивника. }
+
+Talent_Bow_InstantAfterDodge { Швидкий постріл }
+
+Talent_Bow_InstantAfterDodge_desc { Після ухилення ви можете випустити стрілу без прицілювання. }
+
+Talent_Bow_IncreaseCritDamage { Влучний постріл }
+
+Talent_Bow_IncreaseCritDamage_desc { Критичні удари з лука завдають на [DamageValuePercent] більше шкоди. }
+
+Talent_Sling_MultipleProjectiles { Подвійна зарядка }
+
+Talent_Sling_MultipleProjectiles_desc { Є [TriggerPercent] шанс, що при запуску одного снаряду, другий буде запущений без витрати боєприпасів. }
+
+Talent_Sling_AddDmgOnPoise { Удар батогом }
+
+Talent_Sling_AddDmgOnPoise_desc { Якщо ви ламаєте позу супротивника за допомогою пращі, наступний удар по ньому завдасть додаткову [DamageValuePercent] шкоди. }
+
+Talent_Sling_Ricochet_Name { Відскок }
+
+Talent_Sling_Ricochet_Desc { Ви кидаєте снаряд, який завдає [WeaponDamagePercent] шкоди, потім відскакує від супротивника і наражає інших на шкоду. }
+
+Talent_Sling_HeavyShot_Name { Пошкоджуючий постріл }
+
+Talent_Sling_HeavyShot_Desc { Важкий постріл, що завдає [WeaponDamagePercent] шкоди та ставить супротивників у стан оглушення на [StunTime] секунд. }
+
+teachers { Вчитель }
+
+talent_mining_desc { Збільшує видобуток руди при розвідці. }
+
+talent_mining_01 { Розвідка 1 }
+
+talent_mining_02 { Розвідка 2 }
+
+talent_mining_03 { Розвідка 3 }
+
+talent_mining_04 { Розвідка 4 }
+
+talent_mining_05 { Розвідка 5 }
+

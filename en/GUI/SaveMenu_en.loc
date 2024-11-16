@@ -1,0 +1,39 @@
+Save { Зберегти }
+
+Load { Завантажити }
+
+PlayTime { Час гри }
+
+GameSaved { Гру збережено. }
+
+NotSaveable { Ви не можете зберегти гру зараз. }
+
+Title_HeroSelect { Персонаж }
+
+SlotType_Quick { Слот швидкого збереження }
+
+SlotType_Auto { Автозбереження $SAVE:SlotType$ }
+
+SlotType_Normal { Слот збереження $SAVE:SlotType$ }
+
+deleteSavegamePopUp { Ви дійсно хочете видалити це збереження? }
+
+overwriteHeroPopUp { Ви досягли максимальної кількості персонажів, яких можна мати. Виберіть одного персонажа для перезапису. }
+
+Title_OverwriteHero { Якого персонажа перезаписати? }
+
+Button_Overwrite { Перезаписати }
+
+NotLoadable { Ви не можете завантажити гру зараз. }
+
+Corrupted_00 { Збереження пошкоджене }
+
+Corrupted_PopUp_Desc { Це збереження пошкоджене і не може бути завантажене. }
+
+ToMainMenuPopUp_Desc { Ви дійсно хочете повернутися до головного меню? }
+
+ToMainMenuPopUp_Restricted_Desc { Збереження гри зараз неможливе, ви все одно хочете повернутися до головного меню? }
+
+QuitPopUp_Desc { Ви дійсно хочете закрити гру? }
+
+QuitPopUp_Restricted_Desc { Збереження гри зараз неможливе, ви все одно хочете закрити гру? }

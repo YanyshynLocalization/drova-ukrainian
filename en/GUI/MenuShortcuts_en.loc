@@ -1,0 +1,11 @@
+Inventory_AssignQuick_PC { $INPUT:Quickbar_1$, $INPUT:Quickbar_2$, $INPUT:Quickbar_3$, $INPUT:Quickbar_4$: Призначити до швидкого доступу }
+
+Inventory_AssignQuick_Joystick { $INPUT:QuickslotAssignment$+$INPUT:Quickbar_1$$INPUT:Quickbar_2$$INPUT:Quickbar_3$$INPUT:Quickbar_4$: Призначити до швидкого доступу }
+
+Inventory_GarbageToggle_show { Показати непотрібні предмети }
+
+Inventory_GarbageToggle_hide { Сховати непотрібні предмети }
+
+Inventory_MarkAsGarbage { Позначити предмет як непотрібний }
+
+GarbageFeedback { Фільтр непотрібних предметів активовано }

@@ -1,0 +1,20 @@
+Title_MainSpells { Основні здібності }
+
+Title_ConsSpells { Сувої заклинань }
+
+header_physicalAbilities { Здібності }
+
+header_magicalAbilities { Заклинання }
+
+header_memory { Пам'ять }
+
+Orientationpoint_Label { Базова концентрація: }
+
+Orientationpointtooltip_Header { Базова концентрація }
+
+Orientationpointtooltip_Description { З часом концентрація відновиться до цієї точки. }
+
+MaxLeben { Макс. здоров’я }
+
+StaminaCosts { Витрати витривалості }
+

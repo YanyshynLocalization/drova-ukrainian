@@ -1,0 +1,15 @@
+NewGame { Нова гра }
+
+LoadGame { Завантажити гру }
+
+Continue { Продовжити }
+
+Options { Налаштування }
+
+QuitGame { Вийти }
+
+StartGame { Почати }
+
+Back { Назад }
+
+Credits { Автори }
