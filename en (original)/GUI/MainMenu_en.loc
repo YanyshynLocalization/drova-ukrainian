@@ -1,15 +1,16 @@
-NewGame { Нова гра }
+NewGame { New Game }
 
-LoadGame { Завантажити гру }
+LoadGame { Load Game }
 
-Continue { Продовжити }
+Continue { Continue }
 
-Options { Налаштування }
+Options { Options }
 
-QuitGame { Вийти }
+QuitGame { Quit }
 
-StartGame { Почати }
+StartGame { Start }
 
-Back { Назад }
+Back { Back }
 
-Credits { Автори }
+Credits { Credits }
+

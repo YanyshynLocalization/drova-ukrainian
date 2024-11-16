@@ -261,3 +261,5 @@ PlayerDmgReceive { Enemy damage }
 PlayerDmgOutput { Additional player damage }
 
 Toggle_MiniGame { Deactivate minigames }
+
+MouseLock { Restrict mouse to window }

@@ -130,7 +130,7 @@ Plh_92 { І що саме я маю для тебе принести? }
 
 Plh_94 { Сподіваюся, теж... }
 
-Plh_95 { Принеси мені $GVAR:BanditMineBrutus_Day03.CountMushrooms$ темних грибів і $GVAR:BanditMineBrutus_Day03.CountCaveMushrooms$ печерних грибів. Цього вистачить на всіх. }
+Plh_95 { Принеси мені $GVAR:BanditMineBrutus_Config.CountMushrooms$ звичайних грибів. Це має бути достатньо для всіх. }
 
 Plh_96 { М'ясо теж було б чудово, але ризикувати не варто. Лише повертайся живим. }
 

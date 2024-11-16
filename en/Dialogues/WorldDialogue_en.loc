@@ -20,7 +20,7 @@ Plh_10 { Хм... Я не знаю... }
 
 Plh_11 { Повір мені, ти не пошкодуєш! }
 
-Plh_15 { Сьогодні $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ буде битися з $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. }
+Plh_15 { Сьогодні о 21:00: $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ зустрінеться з $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. }
 
 Plh_16 { Це якийсь натяк? }
 
@@ -74,7 +74,7 @@ Plh_50 { Щит покритий дірками і тріщинами — ніб
 
 Plh_51 { Ворон над трискеліоном. }
 
-Plh_52 { Дві руки, дружнє рукостискання і монета під ними. }
+Plh_52 { Дві руки, дружнє рукостискання і монета між ними. }
 
 Plh_53 { Показує вагу та початок леза меча під вороном Наметону. }
 

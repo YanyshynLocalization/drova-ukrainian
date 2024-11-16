@@ -61,3 +61,9 @@ Plh_47 { Удачі в шахтах! Йди за мною, я поясню ту�
 Plh_48 { *бурчить* Краще послухай Трасти... }
 
 Plh_53 { Де срібло? Ти що, весь час спав? Наступного разу хочу бачити срібло. }
+
+Plh_54 { Ви знайшли всього $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ срібла, $GVAR:EVars_Katsa.SilverDefaultAmount$ срібла йде в наші кишені, решта $GVAR:EVars_Katsa.SilverAmountLeaveMine$ срібла — ваші. }
+
+Plh_55 { Ви знайшли всього $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ срібла, $GVAR:EVars_Katsa.SilverAngryAmount$ срібла йде в наші кишені, решта $GVAR:EVars_Katsa.SilverAmountLeaveMine$ срібла — ваші. }
+
+Plh_56 { Ви знайшли всього $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ срібла, $GVAR:EVars_Katsa.SilverFriendlyAmount$ срібла йде в наші кишені, решта $GVAR:EVars_Katsa.SilverAmountLeaveMine$ срібла — ваші. }

@@ -280,7 +280,7 @@ Plh_30 { Hungry? I've got something for you! (hand over tampered food) }
 
 Plh_171 { Hungry? I've got something for you! (hand over food) }
 
-Plh_31 { I brought you your Cudgel. (hand over) }
+Plh_31 { I brought you your axe. (hand over) }
 
 Plh_173 { *shoots you a venomous look* Finally. Hand it over! }
 
@@ -310,3 +310,6 @@ Plh_229 { I mean, they are for LIFTING stuff. Not ... like ... you know. }
 
 Plh_230 { I'm resting right now, I only train when the sun is at its highest point. }
 
+Plh_231 { Only once I have my axe can I fight. Until then, let me train. }
+
+Plh_232 { Only once I have my food can I fight. Until then, let me train. }

@@ -1,68 +1,68 @@
-weapon_sword { Меч }
+weapon_sword { Sword }
 
-weapon_spear { Спис }
+weapon_spear { Spear }
 
-weapon_axe { Сокира }
+weapon_axe { Axe }
 
-weapon_dagger { Кинджали }
+weapon_dagger { Daggers }
 
-weapon_shield { Щит }
+weapon_shield { Shield }
 
-weapon_bow { Лук }
+weapon_bow { Bow }
 
-weapon_slingshot { Рогатка }
+weapon_slingshot { Slingshot }
 
-item_honeyMead_name { Медовуха }
+item_honeyMead_name { Honeymead }
 
-item_redHerb_name { Іржавий корінь }
+item_redHerb_name { Rustroot }
 
-item_redHerb_description { Росте на болотах. }
+item_redHerb_description { Grows on the moor. }
 
-item_meat_raw_name { Соковите м'ясо }
+item_meat_raw_name { Juicy Meat }
 
-item_meat_raw_description { Це ще сире. Непридатне для споживання. }
+item_meat_raw_description { That's still raw. Not fit for human consumption. }
 
-item_farmersFood_name { Їжа фермера }
+item_farmersFood_name { Farmer's Meal }
 
-item_bogIron_name { Болотне залізо }
+item_bogIron_name { Bog Iron }
 
-armor_feet_shoe_lost_name { Одинокий шкіряний черевик }
+armor_feet_shoe_lost_name { Single Leather Shoe }
 
-armor_feet_shoe_lost_description { Одинокий, смердючий черевик }
+armor_feet_shoe_lost_description { A single, reeking shoe }
 
-item_letterToAsmus_open_name { Відкритий лист для Асмуса }
+item_letterToAsmus_open_name { Opened letter for Asmus }
 
-item_letterToAsmus_open_description { Цей лист адресований Асмусу. Печатка зламана. }
+item_letterToAsmus_open_description { This letter is addressed to Asmus. The seal has been broken. }
 
-item_honey_name { Мед }
+item_honey_name { Honey }
 
-item_packageToMoorlager_name { Пакунок з товарами }
+item_packageToMoorlager_name { Paket of Goods }
 
-item_packageToMoorlager_description { Товари від Георга для Ангуса у Неметоні. }
+item_packageToMoorlager_description { Goods from Georg for Angus in Nemeton. }
 
-item_letterToAsmus_sealed_name { Лист для Асмуса }
+item_letterToAsmus_sealed_name { Letter for Asmus }
 
-item_letterToAsmus_sealed_description { Цей лист адресований Асмусу. }
+item_letterToAsmus_sealed_description { This letter is addressed to Asmus. }
 
-item_healthPlant_0_name { Лікувальна рослина }
+item_healthPlant_0_name { Healing Plant }
 
-item_healthPlant_1_name { Велика лікувальна рослина }
+item_healthPlant_1_name { Large Healing Plant }
 
-item_lanternFruit_name { Ліхтарний фрукт }
+item_lanternFruit_name { Lanternfruit }
 
-item_lanternFruit_description { Можна знайти на деревах у прадавньому лісі. }
+item_lanternFruit_description { Can be found on trees in the Forest Primeval. }
 
-item_lyra_name { Ліра }
+item_lyra_name { Lyra }
 
-misc_lockpick_simple_name { Проста відмичка }
+misc_lockpick_simple_name { Simple Lockpick }
 
-misc_lockpick_simple_description { Жоден замок тепер від мене не сховається. }
+misc_lockpick_simple_description { There's no lock safe from me anymore. }
 
-misc_worldmap_name { Груба карта Дрови }
+misc_worldmap_name { Crude Map of Drova }
 
-misc_mapink_name { Чорнило }
+misc_mapink_name { Ink }
 
-misc_mapink_description { Використовується для позначення місць на карті. }
+misc_mapink_description { Used to mark locations on the map. }
 
 key_chest_delani_name { Delani's Key }
 
@@ -728,7 +728,7 @@ cons_flow_fogForm_name { Fog Shape }
 
 cons_flow_fogForm_description { Increases your movement speed by [MovementPercent], and makes you immune to physical damage for [TimeAbs] seconds. }
 
-cons_flow_fireCry_name { Firey Shout }
+cons_flow_fireCry_name { Fiery Shout }
 
 cons_flow_fireCry_description { You inflict [DamageFlexAbs] magical damage in a cone-shaped area in front of you. }
 
@@ -826,7 +826,7 @@ cons_flow_bullRush_description { You charge ahead, inflicting [DamageFlexAbs] ph
 
 cons_flow_ferventCry_name { Fervent Shout }
 
-cons_flow_ferventCry_description { Increases your damage resistance by [DamageResPercent] for [TimeAbs] seconds. }
+cons_flow_ferventCry_description { Increases your physical damage resistance by [DamageResPercent] for [TimeAbs] seconds. }
 
 item_crowtrap_name { Crows' Feet }
 
@@ -996,13 +996,13 @@ armor_chest_shirt_ragged_name_name { Rags }
 
 armor_chest_shirt_ragged_name_description { Better than nothing, I guess... }
 
-armor_chest_ruinenlager_fighter_druid_name_name { Ruinics Druidic Fighter Armor }
+armor_chest_ruinenlager_fighter_druid_name_name { Remnants Druidic Fighter Armor }
 
 armor_chest_ruinenlager_fighter_druid_name_description { Only the strongest in the Remnants' camp are allowed to wear this armor. }
 
-armor_chest_ruinenlager_fighter_fight_name_name { Ruinics Light Fighter Armor }
+armor_chest_ruinenlager_fighter_fight_name_name { Remnants Light Fighter Armor }
 
-armor_chest_ruinenlager_fighter_heavy_name_name { Ruinics Heavy Fighter Armor }
+armor_chest_ruinenlager_fighter_heavy_name_name { Remnants Heavy Fighter Armor }
 
 armor_chest_ruinenlager_heavy_name_name { Remnants Heavy Armor }
 
@@ -1056,7 +1056,7 @@ item_riptoothchain_description { Bleed effects inflict their damage faster. }
 
 item_vipertooth_name { Tooth of the Viper }
 
-item_vipertooth_description { The effect of poison is further slowed down by [SlowPercent]. }
+item_vipertooth_description { The slowing of poison is increased by [SlowPercent]. }
 
 item_mastersmemory_name { Belt of the Master }
 
@@ -1232,7 +1232,7 @@ item_paperchasestone_rune_description { Thanks to my artistic talents, a rune no
 
 misc_riddle_deer_name { Silver Antlers }
 
-misc_riddle_deer_description { A magical artefact of the bygones. Inspired by a divinity.  }
+misc_riddle_deer_description { A magical artefact of the bygones. Inspired by a divinity. }
 
 misc_riddle_fox_name { Silver Paw }
 
@@ -1310,7 +1310,7 @@ recipe_flow_execute_name { Ability: Execute }
 
 recipe_flow_ferventCry_name { Ability: Fervent Shout }
 
-recipe_flow_fireCry_name { Spell: Firey Shout }
+recipe_flow_fireCry_name { Spell: Fiery Shout }
 
 recipe_flow_flowForm_name { Spell: Focus Shape }
 
@@ -1376,7 +1376,7 @@ recipe_farmersmeal_name { Recipe: Farmer's Meal }
 
 recipe_fishpan_name { Recipe: Fish Stirfry }
 
-recipe_flowpotion_0_name { Recipe: Tunnel Roast }
+recipe_flowpotion_0_name { Recipe: Flow Potion }
 
 recipe_flowpotion_1_name { Recipe: Potent Flow Potion }
 
@@ -1404,7 +1404,7 @@ recipe_ironbar_name { Recipe: Iron Ingot }
 
 recipe_ironlump_name { Recipe: Lump of Iron }
 
-recipe_ironstone_name { Recipe: Irons Balls }
+recipe_ironstone_name { Recipe: Iron Balls }
 
 recipe_jaggedthrowingknife_name { Recipe: Jagged Ritual Knife }
 
@@ -1564,9 +1564,9 @@ key_sleepingTavernKey_description { I rented Olaf's upstairs room for one night.
 
 item_strangeFossil_name { Strange Fossil }
 
-letter_leru_hint01_name { Leru's First Dream Drawing }
+letter_leru_hint01_name { Lorthiz's First Dream Drawing }
 
-letter_leru_hint02_name { Leru's Second Dream Drawing }
+letter_leru_hint02_name { Lorthiz's Second Dream Drawing }
 
 armor_chest_nemeton_social_name_name { Nemeton Garb }
 
@@ -1698,13 +1698,13 @@ misc_map_leuchtwald_name { Map of the Forest Primeval }
 
 misc_worldmap_detailed_name { Map of Drova }
 
-misc_worldmap_detailed_description { Drawn by one "Leru." }
+misc_worldmap_detailed_description { Drawn by one "Lorthiz". }
 
 misc_worldmap_shrines_name { Map of the Shrines }
 
 armor_chest_ruinenlager_gladiator_name { Gladiators' Armor }
 
-armor_chest_ruinenlager_gladiator_description { For each 1% lost health, you receive 1% less damage — up to a maximum of 90%<br><br>Armor, drenched in the blood of my enemies. Victory is mine. }
+armor_chest_ruinenlager_gladiator_description { For each % lost health, you receive 1% less damage — up to a maximum of 90%<br><br>Armor, drenched in the blood of my enemies. Victory is mine. }
 
 misc_bagOfCurrency_big_name { Large Pouch filled with Coins }
 
@@ -1842,7 +1842,7 @@ item_fish_dead_description { That's still raw. Not fit for human consumption. }
 
 recipe_foodpile_strong_name { Recipe: Jumping Bass }
 
-letter_leru_hint03_name { Leru's Third Dream Drawing }
+letter_leru_hint03_name { Lorthiz's Third Dream Drawing }
 
 key_chest_BanditCamp_name { Heavy Key }
 
@@ -2032,7 +2032,7 @@ item_KendrickSagar_description {  }
 
 recipe_throwingknife_name { Recipe: Throwing Knife }
 
-item_letterAtlanter_Extractor2_description { item_letterAtlanter_Extractor2_description }
+item_letterAtlanter_Extractor2_description {  }
 
 item_letterAtlanter_Armor_name { Armor of the Bygones }
 

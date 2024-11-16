@@ -261,3 +261,5 @@ PlayerDmgReceive { Отримана шкода від ворога }
 PlayerDmgOutput { Додаткова шкода від гравця }
 
 Toggle_MiniGame { Вимкнути міні-ігри }
+
+MouseLock { Обмежити мишку вікном }

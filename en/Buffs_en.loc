@@ -8,7 +8,7 @@ PoisonDescription { Зменшує вашу швидкість руху на [Mo
 
 Bleeding { Кровотеча }
 
-BleedingDescription { Кожну секунду ви втрачаєте здоров'я. }
+BleedingDescription { Ви втрачаєте здоров'я з часом. }
 
 SleepBuff_T2 { Добре відпочилий }
 

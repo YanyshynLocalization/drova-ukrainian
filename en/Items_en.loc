@@ -728,7 +728,7 @@ cons_flow_fogForm_name { Образ туману }
 
 cons_flow_fogForm_description { Збільшує вашу швидкість руху на [MovementPercent] і робить вас імунним до фізичних пошкоджень на [TimeAbs] секунд. }
 
-cons_flow_fireCry_name { Вогняний крик }
+cons_flow_fireCry_name { Вогняний Крик }
 
 cons_flow_fireCry_description { Ви завдаєте [DamageFlexAbs] магічного пошкодження в конічній зоні перед вами. }
 
@@ -826,7 +826,7 @@ cons_flow_bullRush_description { Ви кидаєтеся вперед, завд�
 
 cons_flow_ferventCry_name { Запалений крик }
 
-cons_flow_ferventCry_description { Збільшує вашу стійкість до пошкоджень на [DamageResPercent] на [TimeAbs] секунд. }
+cons_flow_ferventCry_description { Збільшує ваш опір фізичним ушкодженням на [DamageResPercent] протягом [TimeAbs] секунд. }
 
 item_crowtrap_name { Пташині лапки }
 
@@ -996,13 +996,13 @@ armor_chest_shirt_ragged_name_name { Лахміття }
 
 armor_chest_shirt_ragged_name_description { Краще, ніж нічого... }
 
-armor_chest_ruinenlager_fighter_druid_name_name { Броня бійця друїда Руїни }
+armor_chest_ruinenlager_fighter_druid_name_name { Броня Друїдичного Бійця Залишків }
 
 armor_chest_ruinenlager_fighter_druid_name_description { Лише найсильніші в таборі Останків можуть носити цю броню. }
 
-armor_chest_ruinenlager_fighter_fight_name_name { Легка бойова броня Руїників }
+armor_chest_ruinenlager_fighter_fight_name_name { Легка Броня Бійця Залишків }
 
-armor_chest_ruinenlager_fighter_heavy_name_name { Важка бойова броня Руїників }
+armor_chest_ruinenlager_fighter_heavy_name_name { Важка Броня Бійця Залишків }
 
 armor_chest_ruinenlager_heavy_name_name { Важка броня Останків }
 
@@ -1056,7 +1056,7 @@ item_riptoothchain_description { Ефекти кровотечі завдают�
 
 item_vipertooth_name { Зуб змії }
 
-item_vipertooth_description { Ефект отрути сповільнюється на [SlowPercent]. }
+item_vipertooth_description { Сповільнює отруєння на [SlowPercent]. }
 
 item_mastersmemory_name { Пояс Майстра }
 
@@ -1232,7 +1232,7 @@ item_paperchasestone_rune_description { Завдяки моїм художнім
 
 misc_riddle_deer_name { Срібні Роги }
 
-misc_riddle_deer_description { Магічний артефакт з часів минулого. Надихнутий божеством. }
+misc_riddle_deer_description { Магічний артефакт минулих часів. Натхненний божеством. }
 
 misc_riddle_fox_name { Срібна Лапа }
 
@@ -1376,7 +1376,7 @@ recipe_farmersmeal_name { Рецепт: Страва Фермера }
 
 recipe_fishpan_name { Рецепт: Риба по-стріфре }
 
-recipe_flowpotion_0_name { Рецепт: Тунельне Печення }
+recipe_flowpotion_0_name { Рецепт: Зілля Потоку }
 
 recipe_flowpotion_1_name { Рецепт: Потужний Потік }
 
@@ -1564,9 +1564,9 @@ key_sleepingTavernKey_description { Я орендував кімнату на г
 
 item_strangeFossil_name { Дивний Фосил }
 
-letter_leru_hint01_name { Перше Малюнок Сну Леру }
+letter_leru_hint01_name { Перший Малюнок Сну Лортіза }
 
-letter_leru_hint02_name { Друге Малюнок Сну Леру }
+letter_leru_hint02_name { Другий Малюнок Сну Лортіза }
 
 armor_chest_nemeton_social_name_name { Одяг Неметону }
 
@@ -1698,13 +1698,13 @@ misc_map_leuchtwald_name { Карта Лісу Древніх }
 
 misc_worldmap_detailed_name { Карта Дрови }
 
-misc_worldmap_detailed_description { Намальовано "Леру." }
+misc_worldmap_detailed_description { Намальовано "Лортізом." }
 
 misc_worldmap_shrines_name { Карта Святилищ }
 
 armor_chest_ruinenlager_gladiator_name { Броня Гладіаторів }
 
-armor_chest_ruinenlager_gladiator_description { За кожні 1% втраченого здоров'я, ви отримуєте на 1% менше шкоди — до максимуму 90%<br><br>Броня, просочена кров'ю моїх ворогів. Перемога моя. }
+armor_chest_ruinenlager_gladiator_description { За кожен % втраченого здоров'я ви отримуєте на 1% менше шкоди — до максимуму 90%<br><br>Броня, просякнута кров'ю моїх ворогів. Перемога моя. }
 
 misc_bagOfCurrency_big_name { Великий Мішок, наповнений Монетами }
 
@@ -1842,7 +1842,7 @@ item_fish_dead_description { Це ще сире. Непридатне для ї�
 
 recipe_foodpile_strong_name { Рецепт: Стрибучий Бас }
 
-letter_leru_hint03_name { Третя Малюнок Сну Леру }
+letter_leru_hint03_name { Третій малюнок сну Лортіза }
 
 key_chest_BanditCamp_name { Важкий Ключ }
 
@@ -2032,7 +2032,7 @@ item_KendrickSagar_description {  }
 
 recipe_throwingknife_name { Рецепт: Кидальний Ніж }
 
-item_letterAtlanter_Extractor2_description { item_letterAtlanter_Extractor2_description }
+item_letterAtlanter_Extractor2_description {  }
 
 item_letterAtlanter_Armor_name { Броня Стародавніх }
 
