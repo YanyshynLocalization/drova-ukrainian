@@ -4,7 +4,7 @@ damage { Шкода }
 
 attack { Атака }
 
-flowgain { Фокус }
+flowgain { Концентрація }
 
 physicalblock { Фізичний блок }
 
@@ -14,7 +14,7 @@ physicalresistance { Броня }
 
 magicalresistance { Магічний захист }
 
-flowcosts { Витрати фокусу }
+flowcosts { Витрати концентрації }
 
 strength { Сила }
 
@@ -46,7 +46,7 @@ buffAdditionalDescription { (Нова їжа замінює ефект сито�
 
 maxHealth { Макс. здоров'я [VALUE] }
 
-flowGain { Фокус [VALUE] }
+flowGain { Концентрація [VALUE] }
 
 magicDamage { Магічна шкода [VALUE] }
 
@@ -62,7 +62,7 @@ magicResistance { Магічний захист [VALUE] }
 
 staminaReg { Відновлення витривалості [VALUE] }
 
-flowReg { Відновлення фокусу [VALUE] }
+flowReg { Відновлення концентрації [VALUE] }
 
 armor { Броня [VALUE] }
 
@@ -92,13 +92,13 @@ critchance { Шанс крит. удару }
 
 critchance_Value { Шанс крит. удару [VALUE] }
 
-orientationpoint { Базовий фокус [VALUE] }
+orientationpoint { Базова концентрація [VALUE] }
 
 stat_change_str { +$STATCHANGE:PhysDmg$ фіз. шкода }
 
 stat_change_dex { +$STATCHANGE:CritChance$ крит. }
 
-stat_change_mind { +$STATCHANGE:MagDmg$ маг. шкода + $STATCHANGE:Focus$ базовий фокус }
+stat_change_mind { +$STATCHANGE:MagDmg$ маг. шкода + $STATCHANGE:Focus$ баз. концентрація }
 
 helmet_cosmetics { (Шоломи є суто косметичними та не мають впливу на вашого персонажа.) }
 
@@ -114,7 +114,7 @@ drug_description { Згладжує ваші відчуття }
 
 LearnSpell { Навчає здатності до зброї }
 
-flowText { Генерує [HealValue] фокус за [StackTime] секунд. }
+flowText { Генерує [HealValue] концентрації за [StackTime] секунд. }
 
 needrunestone { Потрібен Рунний Камінь }
 

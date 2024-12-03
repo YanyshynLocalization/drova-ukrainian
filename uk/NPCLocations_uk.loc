@@ -1,0 +1,116 @@
+Faction_Neutral { Нейтральний }
+
+Remnants_Arena { Табір Залишків: Арена }
+
+Remnants_WayToMine { На південь від копальні в таборі Залишків }
+
+Nemeton_Gate_North { Наметон: Північні ворота }
+
+Nemeton_Dormitory { Східна частина Наметону }
+
+Woodcamp { Табір лісорубів }
+
+Remnants_Mine { Копальня Залишків }
+
+Remnants_MinerArea { Табір Залишків: Район теслярів }
+
+Nemeton_Palisades_North { Наметон: Палісадова північна стіна }
+
+Neutral_SilverMine { Срібна копальня біля русла річки }
+
+Cave_RuinRaiders { Схованка Грабіжників Руїн }
+
+Tavern_Forest { Таверна "Безголовий Ріпер" }
+
+Nemeton_WarriorsQuarter { Наметон: Район воїнів }
+
+Remnants_Academy { Табір Залишків: Академія }
+
+Neutral_Forest { Хвойний ліс }
+
+Remnants_Market { Табір Залишків: Ринок }
+
+MissingPerson { Зниклий }
+
+Remnants_UpperQuarter { Табір Залишків: Верхній район }
+
+Remnants_Tavern { Таверна Бернольда }
+
+Neutral_Refugee { Притулок }
+
+Nemeton_Kitchen { Наметон: Кухня }
+
+Remnants_LostQuater { Табір Залишків: Темний район }
+
+Nemeton_FrontCamp { Табір за межами Наметону }
+
+Nemeton_CraftingQuarter { Наметон: Район ремісників }
+
+Nemeton_Market { Наметон: Ринкова площа }
+
+Nemeton_Farm_Georg { Ферма Джорджа }
+
+Neutral_DestroyedBridge { Зруйнований міст }
+
+Neutra_Heath { Neutra_Heath }
+
+Nemeton_Global { Наметон }
+
+Remnants_Entry { Табір Залишків: Вхід }
+
+Remnants_Global { Табір Залишків }
+
+Nemeton_MarketAndCrafting { Наметон: Ринкова площа / Район ремісників }
+
+Nemeton_Moor_South { Болото на південь від Наметону }
+
+Nemeton_Garden { Наметон: Сад на сході }
+
+Neutral_Maw { Прірва }
+
+Nemeton_WarriorQuarter { Наметон: Район воїнів }
+
+Nemeton_SacredGrove { Наметон: Священний гай }
+
+Neutral_River_WoodcampAndRemnants { Біля річки між табором Лісорубів і табором Залишків }
+
+Nemeton_AppleGrove { Яблуневий сад поблизу Наметону }
+
+Nemeton_BridgeToDruids { Наметон: Міст до району друїдів }
+
+Neutral_FloodplainForest_Plateau_Ruins { Підземні руїни на пагорбі в лісі на заплаві }
+
+Nemeton_Gate_South { Наметон: Південні ворота }
+
+Neutral_ForestPrimeval_Border { Первісний ліс: Край }
+
+Neutral_Cave_Woodcamp_South { Біля лісорубного табору }
+
+Dead { Мертвий }
+
+DrivaniusChamber { Камера Дриваніуса }
+
+Riverbed_North { Русло річки на півночі }
+
+TravelingMerchants { Табір Залишків: Вхід; Наметон: Вхід; Таверна; На захід від ферми Джорджа }
+
+Neutral_Heath { Пустоші }
+
+Neutral_ForestPrimeval { Первісний ліс }
+
+Remnants_Underground { Табір Залишків: підземелля }
+
+Neutral_Forest_Camp { Табір в хвойному лісі }
+
+Unknown { ??? }
+
+Nemeton_DruidCave { Наметон: Печера друїдів }
+
+Nemeton_Leader { Наметон: Будинок лідера }
+
+Expedition_Moor { Експедиція в болото }
+
+Nemeton_Muc { Наметон: Південні ворота; Ферма Джорджа або яблуневий сад }
+
+SmugglersDen { Схованка контрабандистів }
+

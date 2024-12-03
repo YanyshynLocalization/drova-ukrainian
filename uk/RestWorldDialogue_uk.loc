@@ -1,6 +1,6 @@
 PostExpeditionRuinenlager_FarlanIdle_0 { Ти б мав мене побачити! }
 
-R_Karotte_AfterRunestone_1 { У мене є руна камінь! }
+R_Karotte_AfterRunestone_1 { У мене є рунний камінь! }
 
 R_Karotte_AfterRunestone_2 { Ти це заслужив! }
 
@@ -428,7 +428,7 @@ AllDay_213 { Пішли. }
 
 AllDay_214 { Привіт, Олаф. }
 
-AllDay_215 { Мені скоро треба рухатися далі. }
+AllDay_215 { Мені скоро треба буде йти. }
 
 AllDay_216 { Добре, все розвантажено... }
 
@@ -674,7 +674,7 @@ Library_IdleSecretRoom_336 { Потрібно втікати. }
 
 IDLE_AfterFight_337 { Руна працює. }
 
-IDLE_AfterFight_338 { Рунам все ще активні. Нам пощастило! }
+IDLE_AfterFight_338 { Руни все ще активні. Нам пощастило! }
 
 HitReceiver_339 { Що вони зробили з тим Сприггою? }
 

@@ -88,7 +88,7 @@ Achievement_LastManStandingFeuertaufe_desc { Будьте останнім, хт
 
 Achievement_CompletedBrutusMine_name { Свобода! }
 
-Achievement_CompletedBrutusMine_desc { Звільніть в'язнів. }
+Achievement_CompletedBrutusMine_desc { Звільніть в'язнів у Ямі. }
 
 Achievement_KilledRipperWoodcampAct1_name { Права рука Ценгіза }
 
@@ -192,8 +192,8 @@ Achievement_ExplorerMode_desc { Завершіть Drova в режимі Дос�
 
 Achievement_HardcoreMode_name { Хардкор }
 
-Achievement_HardcoreMode_desc { Завершіть гру з увімкненим режимом «Хардкор». }
+Achievement_HardcoreMode_desc { Завершіть Drova з увімкненим режимом «Хардкор». }
 
 Achievement_ClassicMode_name { Класика }
 
-Achievement_ClassicMode_desc { Завершіть Drova в класичному режимі. }
+Achievement_ClassicMode_desc { Завершіть Drova в Класичному режимі. }

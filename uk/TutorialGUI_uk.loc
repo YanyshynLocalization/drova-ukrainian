@@ -1,0 +1,78 @@
+Title { Навчання }
+
+IsTrader { Торговець }
+
+Category_Basics { Основи }
+
+Category_Journal { Журнал }
+
+Category_Combat { Бій }
+
+Category_Items { Предмети }
+
+Name_Movement { Рух }
+
+Name_Perception_01 { Режим розслідування: Огляд }
+
+Name_Perception_02 { Режим розслідування: Виявлення }
+
+Name_Perception_03 { Режим розслідування: Огляд }
+
+Name_Interact { Взаємодія }
+
+Name_Stealing { Крадіжка }
+
+Name_Crafting { Крафтинг }
+
+Name_LevelUp { Підвищення рівня }
+
+Name_ChangeStance { Зміна позиції }
+
+Name_StatusEffects { Статусні Ефекти }
+
+Name_UsedHealItem { Лікування }
+
+Name_Journal { Записи в журналі }
+
+Name_FirstNote { Примітки }
+
+Name_FirstTreasure { Карти скарбів }
+
+Name_Dodge { Ухилення }
+
+Name_SecondWeapon { Перемикання зброї }
+
+Name_Abilities_02 { Здібності }
+
+Name_BattleBuddies_Blocks { Блокування }
+
+Name_BattleBuddies_Combos { Комбо }
+
+Name_BattleBuddies_GetFlow { Концентрація }
+
+Name_BattleBuddies_Spell { Заклинання }
+
+Name_NeedMunition { Боєприпаси }
+
+Name_Secondaries { Дії іншою рукою }
+
+Name_PoiseBreak { Позиція }
+
+Name_LookDirectionCombat { Лінія зору в бою }
+
+Name_FirstHeal { Лікування }
+
+Name_FirstFood { Їжа }
+
+Name_FirstGoodFood { Багата їжа }
+
+Name_FirstWeapon { Типи зброї }
+
+Name_FirstRangeWeapon { Далекобійна зброя }
+
+Name_FirstConsFlow { Сувої }
+
+Name_FirstThrow { Споживчі предмети }
+
+Name_FistRecipe { Рецепти }
+

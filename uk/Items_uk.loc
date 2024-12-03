@@ -28,7 +28,7 @@ item_bogIron_name { Болотне залізо }
 
 armor_feet_shoe_lost_name { Одинокий шкіряний черевик }
 
-armor_feet_shoe_lost_description { Одинокий, смердючий черевик }
+armor_feet_shoe_lost_description { Одинокий, смердючий черевик. }
 
 item_letterToAsmus_open_name { Відкритий лист для Асмуса }
 
@@ -178,17 +178,17 @@ weapon_axe_coarseDoubleAxe_name { Розчленувальний топір }
 
 weapon_axe_doubleAxe_name { Груба залізна сокира }
 
-weapon_axe_rustyAxe_name { Старий бойовий топір }
+weapon_axe_rustyAxe_name { Стара бойова сокира }
 
-weapon_axe_coarseWarAxe_name { Залізний топір }
+weapon_axe_coarseWarAxe_name { Залізна сокира }
 
-weapon_axe_warAxe_name { Іржавий бойовий топір }
+weapon_axe_warAxe_name { Іржава бойова сокира }
 
 weapon_axe_bearSlaughtererAxe_name { Сокира для різання ведмедів }
 
 weapon_axe_greatAxe_name { Велика сокира }
 
-weapon_axe_barbarianBattleAxe_name { Барбарійська бойова сокира }
+weapon_axe_barbarianBattleAxe_name { Варварська бойова сокира }
 
 weapon_axe_iron-BoundGreatAxe_name { Тупий великий топір }
 
@@ -450,7 +450,7 @@ item_permapotion_skill_name { Еліксир Спритності }
 
 item_permaherb_strength_name { Базальтова корінь }
 
-item_permaherb_mind_name { Пустельна рослина }
+item_permaherb_mind_name { Розвиваюча мозок рослина }
 
 item_permaherb_life_name { Горіховий кущ }
 
@@ -548,7 +548,7 @@ tool_pickaxe_improvisedpickaxebroken_description { Чорт! Якусь лимо
 
 throwing_knife_name { Кидальний ніж }
 
-throwing_knife_description { Ви кидаєте ніж, що завдає [DamageFlexAbs] пошкодження і ігнорує броню цілі. }
+throwing_knife_description { Ви кидаєте ніж, що завдає [DamageFlexAbs] пошкодження. Ігнорує броню цілі. }
 
 item_lyra_description { Говорить на мові, яку розуміє кожен. }
 
@@ -568,7 +568,7 @@ misc_map_tristan_name { Карта Трістана }
 
 item_claw_description { Можна отримати від тварин за допомогою навички "Витягування кігтів". }
 
-misc_bagOfCurrency_description { Мішок, що шурхотить, коли ви його трясете. Це лише кілька монет чи є в ньому щось більше? }
+misc_bagOfCurrency_description { Мішечок, що дзвенить, коли його трясеш. Там лише кілька монет? Чи щось більше, ніж здається на перший погляд? }
 
 key_chest_mineBanditMainKey_name { Іржавий ключ }
 
@@ -576,7 +576,7 @@ key_chest_mineBanditMainKey_description { Я взяв це у банди бан�
 
 item_mineRelic_name { Дивний реліквія }
 
-item_mineRelic_description { Давня реліквія часів Творців. }
+item_mineRelic_description { Давня реліквія часів Творців }
 
 item_rubble_name { Руїни }
 
@@ -698,9 +698,9 @@ cons_flow_spartanKick_name { Удар ногою }
 
 cons_flow_spartanKick_description { Ви завдаєте [DamageFlexAbs] пошкодження і відштовхуєте ворогів. }
 
-cons_flow_execute_name { Виконати }
+cons_flow_execute_name { Кровава Лють }
 
-cons_flow_execute_description { Ви завдаєте [WeaponDamagePercent] пошкодження і додаткове [WeaponDamagePercent2] пошкодження за кожну активну кровотечу, що виснажує ворога. }
+cons_flow_execute_description { Ви завдаєте [WeaponDamagePercent] пошкодження і додаткове [WeaponDamagePercent2] пошкодження за кожну активну Кровотечу у ворога. Додає ще один пункт Кровотечі }
 
 cons_flow_pierce_name { Протикання }
 
@@ -710,9 +710,9 @@ cons_flow_infection_name { Інфекція }
 
 cons_flow_infection_description { Ви завдаєте [WeaponDamagePercent] пошкодження і отруюєте ворогів, що страждають від активної кровотечі. }
 
-cons_flow_bloodRage_name { Кровава лють }
+cons_flow_bloodRage_name { Страта }
 
-cons_flow_bloodRage_description { Важка атака, що завдає [WeaponDamagePercent] пошкодження. Якщо ви вбиваєте ворога під час активної кровавої люті, ви повертаєте очки концентрації для навички. }
+cons_flow_bloodRage_description { Важка атака, що завдає [WeaponDamagePercent] пошкодження. Якщо ви вбиваєте ворога використовуючи Старту, ви повертаєте витрачені очки концентрації. }
 
 item_rubin_name { Рубін }
 
@@ -738,15 +738,15 @@ cons_flow_root_cone_description { У конічній зоні перед вам
 
 cons_flow_conjure_pack_name { Виклик: Пакет }
 
-cons_flow_conjure_pack_description { Викликає зграю різунів, щоб розірвати ваших ворогів. }
+cons_flow_conjure_pack_description { Викликає зграю різунів, щоб можуть розірвати ворогів. }
 
 cons_flow_conjure_insects_name { Виклик: Комахи }
 
-cons_flow_conjure_insects_description { Викликає комах, що отруюють ваших ворогів. }
+cons_flow_conjure_insects_description { Викликає комах, що можуть отруїти ворогів. }
 
 cons_flow_conjure_rats_name { Виклик: Щури }
 
-cons_flow_conjure_rats_description { Викликає щурів, які можуть завдати ворогам "Кровотечу". }
+cons_flow_conjure_rats_description { Викликає щурів, які можуть завдати ворогам Кровотечу. }
 
 cons_flow_venomCry_name { Отруйний крик }
 
@@ -784,7 +784,7 @@ item_blackboard_woodcamp_name { Повідомлення: Лісовий таб�
 
 cons_flow_flowForm_name { Образ потоку }
 
-cons_flow_flowForm_description { Збільшує фізичне пошкодження на [DamagePercent], швидкість руху та атаки на [MovePercent] і знижує споживання витривалості для всіх дій на [StaminaValuePercent].<br><br>Витрата концентрації відбуватиметься поступово. Ефект триває, поки вся концентрація не буде витрачена. }
+cons_flow_flowForm_description { Збільшує фізичне пошкодження на [DamagePercent], збільшує швидкість руху та атаки на [MovePercent] і знижує споживання витривалості для всіх дій на [StaminaValuePercent].<br><br>Витрата концентрації відбуватиметься поступово. Ефект триває, поки вся концентрація не буде витрачена. }
 
 cons_flow_whirlingEnergy_name { Вихор енергії }
 
@@ -800,7 +800,7 @@ item_traps_name { Повідомлення: Нам потрібно більше
 
 cons_flow_obsidianSpear_name { Призвати Обсидіанову Пику }
 
-cons_flow_obsidianSpear_description { Ви викликаєте пику Стародавніх, яка генерує концентрацію в зоні навколо себе. }
+cons_flow_obsidianSpear_description { Ви викликаєте спис Стародавніх, що генерує концентрацію в зоні навколо себе. }
 
 item_playWithKids_name { Повідомлення: Гра з дітьми }
 
@@ -818,7 +818,7 @@ cons_flow_aggressiveCry_description { Ви ревете в конічній зо
 
 cons_flow_battleCry_name { Бойовий крик }
 
-cons_flow_battleCry_description { Збільшує завдані пошкодження на [DamagePercent], швидкість руху і атаки на [MovePercent], але ви також отримаєте [ReceiveDamagePercent] більше пошкоджень. Ефект триває [TimeAbs] секунд. }
+cons_flow_battleCry_description { Збільшує завдані пошкодження на [DamagePercent], швидкість руху і атаки на [MovePercent], але ви також отримаєте на [ReceiveDamagePercent] більше пошкоджень. Ефект триває [TimeAbs] секунд. }
 
 cons_flow_bullRush_name { Заряд }
 
@@ -840,9 +840,9 @@ item_permapotion_flow_name { Еліксир концентрації }
 
 item_permaherb_flow_name { Світиться Бас }
 
-item_potion_flow_0_name { Потік еліксиру }
+item_potion_flow_0_name { Еліксир концентрації }
 
-item_potion_flow_1_name { Потужний потік еліксиру }
+item_potion_flow_1_name { Потужний еліксир концентрації }
 
 item_fishing_name { Повідомлення: Ловити рибу для супу }
 
@@ -942,9 +942,9 @@ item_potion_windwalker_name { Еліксир блукаючого пера }
 
 item_potion_windwalker_description { Збільшує вашу швидкість руху на [MovePercent] на [TimeAbs] секунд. }
 
-item_harpybrew_name { Харпібрю }
+item_harpybrew_name { Гарпібрю }
 
-item_harpybrew_description { Змінює концентрацію на здоров'я. Я впевнений, це не зовсім безглуздо, так? }
+item_harpybrew_description { Обмінює концентрацію на здоров'я. Я впевнений, це не зовсім безглуздо, так? }
 
 item_golemsalve_name { Мазь Голема }
 
@@ -998,17 +998,17 @@ armor_chest_shirt_ragged_name_description { Краще, ніж нічого... }
 
 armor_chest_ruinenlager_fighter_druid_name_name { Броня Друїдичного Бійця Залишків }
 
-armor_chest_ruinenlager_fighter_druid_name_description { Лише найсильніші в таборі Останків можуть носити цю броню. }
+armor_chest_ruinenlager_fighter_druid_name_description { Лише найсильніші в таборі Залишків можуть носити цю броню. }
 
 armor_chest_ruinenlager_fighter_fight_name_name { Легка Броня Бійця Залишків }
 
 armor_chest_ruinenlager_fighter_heavy_name_name { Важка Броня Бійця Залишків }
 
-armor_chest_ruinenlager_heavy_name_name { Важка броня Останків }
+armor_chest_ruinenlager_heavy_name_name { Важка броня Залишків }
 
-armor_chest_ruinenlager_heavy_name_description { Ця броня призначена для членів Останків. Вона виявляє мою лояльність до Джеро. }
+armor_chest_ruinenlager_heavy_name_description { Ця броня призначена для членів Залишків. Вона виявляє мою лояльність до Джеро. }
 
-armor_chest_ruinenlager_name_name { Легка броня Останків }
+armor_chest_ruinenlager_name_name { Легка броня Залишків }
 
 armor_chest_tunic_name_name { Робочий одяг }
 
@@ -1044,7 +1044,7 @@ item_bigquiver_description { Цей колчан вміщує сім стріл.
 
 item_rivercharm_name { Амулет річки }
 
-item_rivercharm_description { Після успішного удару, атаки генерують [FocusValueAbsolut] більше фокусу. }
+item_rivercharm_description { Після успішного удару, атаки генерують більше фокусу. }
 
 item_thornfetish_name { Колючий оберіг }
 
@@ -1056,7 +1056,7 @@ item_riptoothchain_description { Ефекти кровотечі завдают�
 
 item_vipertooth_name { Зуб змії }
 
-item_vipertooth_description { Сповільнює отруєння на [SlowPercent]. }
+item_vipertooth_description { Сповільнює отруєння ще на [SlowPercent]. }
 
 item_mastersmemory_name { Пояс Майстра }
 
@@ -1116,7 +1116,7 @@ item_flowcatchertalisman_description { Використання здатност
 
 item_windtalisman_name { Талісман Вітру }
 
-item_windtalisman_description { Після ухилення ваш наступний удар завдає на [DamageValuePercent] більше шкоди. }
+item_windtalisman_description { Після ухилення ваша наступна фізична атака завдає на [DamageValuePercent] більше шкоди. }
 
 item_lifering_name { Перстень Норнів }
 
@@ -1168,13 +1168,13 @@ armor_chest_leather_magielager_name_name { Одяг Зв'язаних }
 
 armor_chest_leather_magielager_name_description { Тепер я єдине ціле з Лісом Давнини. }
 
-armor_chest_nemeton_merchant_name_name { Торговий одяг у Наметоні }
+armor_chest_nemeton_merchant_name_name { Торговий одяг Наметону }
 
-armor_chest_nemeton_craftsman_name_name { Одяг Майстра в Наметоні }
+armor_chest_nemeton_craftsman_name_name { Одяг Майстра Наметону }
 
-armor_chest_nemeton_chief_name_name { Лідерська броня Наметону }
+armor_chest_nemeton_chief_name_name { Броня Лідера Наметону }
 
-armor_chest_ruinenlager_chief_name_name { Лідерська броня Руїників }
+armor_chest_ruinenlager_chief_name_name { Броня Лідера Залишків }
 
 item_mumbertDiarrhoea_name { Прокисле Пиво }
 
@@ -1232,7 +1232,7 @@ item_paperchasestone_rune_description { Завдяки моїм художнім
 
 misc_riddle_deer_name { Срібні Роги }
 
-misc_riddle_deer_description { Магічний артефакт минулих часів. Натхненний божеством. }
+misc_riddle_deer_description { Магічний артефакт Стародавніх. Нагадує Божественне створіння. }
 
 misc_riddle_fox_name { Срібна Лапа }
 
@@ -1296,7 +1296,7 @@ recipe_flow_battleCry_name { Здібність: Бойовий Крик }
 
 recipe_flow_blink_name { Заклинання: Туманний Крок }
 
-recipe_flow_bloodRage_name { Здібність: Кровава Лють }
+recipe_flow_bloodRage_name { Здібність: Страта }
 
 recipe_flow_bullRush_name { Здібність: Заряд }
 
@@ -1306,7 +1306,7 @@ recipe_flow_dash_name { Здібність: Ривок }
 
 recipe_flow_energyProjectile_name { Заклинання: Енергетична Стріла }
 
-recipe_flow_execute_name { Здібність: Виконання }
+recipe_flow_execute_name { Здібність: Кровава Лють }
 
 recipe_flow_ferventCry_name { Здібність: Гарячий Крик }
 
@@ -1376,9 +1376,9 @@ recipe_farmersmeal_name { Рецепт: Страва Фермера }
 
 recipe_fishpan_name { Рецепт: Риба по-стріфре }
 
-recipe_flowpotion_0_name { Рецепт: Зілля Потоку }
+recipe_flowpotion_0_name { Рецепт: Еліксир Концентрації }
 
-recipe_flowpotion_1_name { Рецепт: Потужний Потік }
+recipe_flowpotion_1_name { Рецепт: Потужний Еліксир Концентрації }
 
 recipe_fogstew_name { Рецепт: Похмуре Стю }
 
@@ -1524,7 +1524,7 @@ item_letter_library_circleRoom_note1_name { Круг Телепортації }
 
 item_letter_library_circleRoom_note2_name { Темне Срібло }
 
-item_letter_library_energyRoom_note_name { Рунні Камені }
+item_letter_library_energyRoom_note_name { Рунні камені }
 
 item_letter_library_golemRoom_note1_name { Дослідження: Магія Природи }
 
@@ -1701,6 +1701,10 @@ misc_worldmap_detailed_name { Карта Дрови }
 misc_worldmap_detailed_description { Намальовано "Лортізом." }
 
 misc_worldmap_shrines_name { Карта Святилищ }
+
+misc_caveSystem_name { Карта печер }
+
+misc_caveSystem_description { Карта системи печер під табором Залишків. }
 
 armor_chest_ruinenlager_gladiator_name { Броня Гладіаторів }
 
@@ -1910,7 +1914,7 @@ flow_ricochet_description { Ви випускаєте снаряд, який з�
 
 recipe_flow_ricochet_name { Спосіб: Рикошет }
 
-flow_bruntShot_name { Ударний Стріл }
+flow_bruntShot_name { Імпульсний постріл }
 
 flow_bruntShot_description { Ви випускаєте стрілу, яка завдає [WeaponDamagePercent] пошкоджень від зброї і паралізує супротивників на [StunTime] секунд. }
 
@@ -2018,11 +2022,11 @@ item_trinket_pureDmg_name { Помста Майстра }
 
 item_trinket_pureDmg_description { Збільшує шкоду від пасток і кинутих предметів на 100%. }
 
-item_VoragoFragment_0_name { Фрагмент емблеми }
+item_VoragoFragment_0_name { Фрагмент Емблеми }
 
-item_VoragoFragment_0_description { Інша половина, здається, відсутня. Символ на ньому не є чітко впізнаваним. Чи може це бути черепашка? }
+item_VoragoFragment_0_description { Інша половина, здається, зникла. Є символ, але він незрозумілий. Чи може це бути ракушка? }
 
-item_letterAtlanter_Excalibur_name { Меч у камені }
+item_letterAtlanter_Excalibur_name { Меч у Камені }
 
 item_letterAtlanter_Excalibur_description {  }
 
@@ -2038,3 +2042,18 @@ item_letterAtlanter_Armor_name { Броня Стародавніх }
 
 item_letterAtlanter_Armor_description {  }
 
+item_potion_respec_name { Еліксир Забуття }
+
+item_potion_respec_description { Напій, що містить сильний алкоголь. Кажуть, що той, хто вип'є цей еліксир, не згадає, що робив це після того. <br>(Скидає таланти, здобуті за допомогою очок навчання) }
+
+weapon_sling_legendarySlingshot_name { Циклон }
+
+weapon_sling_legendarySlingshot_description { Рогатка оточена вітром, який посилює її силу. }
+
+item_letterCelts_Spark_name { Іскра Бертіні }
+
+item_letterCelts_Spark_description { item_letterCelts_Spark_description }
+
+item_letter_library_soundRoom_note2_name { Резонансні Роги }
+
+item_letter_library_soundRoom_note2_description { item_letter_library_soundRoom_note2_description }
