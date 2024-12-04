@@ -10,11 +10,11 @@ Tab_Quests_Running { Поточні }
 
 Tab_Letters { Листи }
 
-Group_Bandits { Руїнні Рейдери }
+Group_Bandits { Рейдери Руїн }
 
 Group_Nemeton { Наметон }
 
-Group_RuinCamp { Лагерь Залишків }
+Group_RuinCamp { Залишки }
 
 Group_Tavern { Таверна }
 

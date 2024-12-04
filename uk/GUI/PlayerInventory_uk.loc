@@ -20,17 +20,17 @@ tooltip_attributes_stamina { Витривалість використовуєт
 
 label_attributes_stamina { Витривалість }
 
-tooltip_attributes_flow { Фокус використовується для здібностей. Він генерується при завданні шкоди і поступово зникає або після отримання шкоди. }
+tooltip_attributes_flow { Концентрація використовується для здібностей. Вона генерується при завданні шкоди і поступово зникає з часом або після отримання шкоди. }
 
-label_attributes_flow { Фокус }
+label_attributes_flow { Концентрація }
 
-tooltip_attributes_power { Потужність - це сума ваших атрибутів, і вона є необхідною для володіння певною зброєю. }
+tooltip_attributes_power { Майстерність - це сума ваших атрибутів, і вона є необхідною для володіння певною зброєю. }
 
 tooltip_attributes_strength { Сила збільшує фізичний шкоди, який ви завдаєте, на [VALUE]. }
 
 tooltip_attributes_dexterity { Спритність збільшує ваш шанс на критичний удар на [VALUE]. Кожен критичний удар викликає кровотечу у цілі та додаткову шкоду, залежно від типу зброї. }
 
-tooltip_attributes_mind { Розум збільшує ваш магічний шкоди на [VALUE1] та ваш базовий фокус на [VALUE2]. }
+tooltip_attributes_mind { Розум збільшує вашу магічну шкоду на [VALUE1] та вашу базову концентрацію на [VALUE2]. }
 
 label_attributes_armor { Броня }
 
@@ -48,12 +48,12 @@ faction_none { Без фракції }
 
 faction_nemeton { Нематон }
 
-faction_ruincamp { Табір залишків }
+faction_ruincamp { Табір Залишків }
 
 title_ammo { Боєприпаси }
 
-totalFIghtingStrength { Потужність бою }
+totalFIghtingStrength { Майстерність }
 
-baseFightingStrength { Базова потужність бою }
+baseFightingStrength { Базова майстерність }
 
-baseFightingStrengthDesc { Базова потужність бою — це сума ваших атрибутів без додаткових бонусів від обладнання і вважається вимогою для талантів. }
+baseFightingStrengthDesc { Базова майстерність бою — це сума ваших атрибутів без додаткових бонусів від спорядження. Вона також є вимогою для певних талантів. }

@@ -1,6 +1,6 @@
 Title_Maps { Карти }
 
-MapName_World_Rough { Груба карта }
+MapName_World_Rough { Груба карта світу }
 
 MapName_World_Detailed { Карта світу }
 
@@ -8,15 +8,15 @@ MapName_World_Shrines { Храми }
 
 MapName_Nemeton { Наметон }
 
-MapName_Ruincamp { Табір Руїн }
+MapName_Ruincamp { Табір Залшків }
 
-MapName_Leuchtwald { Ліс Прадавній }
+MapName_Leuchtwald { Прадавній Ліс }
 
 MapName_Tristan { Карта Трістана }
 
 MarkerPlaced { Позначено на карті }
 
-NoInk { Потрібен чорнило }
+NoInk { Потрібне чорнило }
 
 Title_Markers { Маркери }
 
@@ -26,4 +26,6 @@ PlaceMarker { Помістити маркер }
 
 DeleteMarker { Видалити маркер }
 
-Hint_Ink { Купіть чорнило, щоб позначати місця на карті. }
+Hint_Ink { Купіть чорнило, щоб позначати місця на вашій карті. }
+
+MapName_CaveSystem { Печерна система }

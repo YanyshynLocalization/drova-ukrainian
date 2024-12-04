@@ -120,23 +120,23 @@ action_QuickslotAssignment { Призначити на швидку панель
 
 action_DeleteQuickbarItem { Очистити швидку панель }
 
-action_PrevPanel { Попередня вкладка }
+action_PrevPanel { Попередня категорія }
 
-action_NextPanel { Наступна вкладка }
+action_NextPanel { Наступна категорія }
 
-action_Lockpick_Left { Мінівідео ліворуч }
+action_Lockpick_Left { Мінігра вліво }
 
-action_Lockpick_Right { Мінівідео праворуч }
+action_Lockpick_Right { Мінігра вправо }
 
 action_GuiScrollY { Прокручування інтерфейсу }
 
-action_PlayNote_1 { Нота 1 }
+action_PlayNote_1 { Нота Ліри 1 }
 
-action_PlayNote_2 { Нота 2 }
+action_PlayNote_2 { Нота Ліри 2 }
 
-action_PlayNote_3 { Нота 3 }
+action_PlayNote_3 { Нота Ліри 3 }
 
-action_PlayNote_4 { Нота 4 }
+action_PlayNote_4 { Нота Ліри 4 }
 
 action_MoveX { Рух }
 
