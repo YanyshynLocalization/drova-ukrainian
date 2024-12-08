@@ -26,7 +26,7 @@ label_attributes_flow { Концентрація }
 
 tooltip_attributes_power { Майстерність - це сума ваших атрибутів, і вона є необхідною для володіння певною зброєю. }
 
-tooltip_attributes_strength { Сила збільшує фізичний шкоди, який ви завдаєте, на [VALUE]. }
+tooltip_attributes_strength { Сила збільшує фізичну шкоду, яку ви завдаєте, на [VALUE]. }
 
 tooltip_attributes_dexterity { Спритність збільшує ваш шанс на критичний удар на [VALUE]. Кожен критичний удар викликає кровотечу у цілі та додаткову шкоду, залежно від типу зброї. }
 
@@ -34,9 +34,9 @@ tooltip_attributes_mind { Розум збільшує вашу магічну ш
 
 label_attributes_armor { Броня }
 
-tooltip_attributes_armor { Зменшує вхідний фізичний шкоди. }
+tooltip_attributes_armor { Зменшує вхідну фізичну шкоду. }
 
-tooltip_attributes_magic_resistance { Зменшує вхідний магічний шкоди. }
+tooltip_attributes_magic_resistance { Зменшує вхідну магічну шкоду. }
 
 label_attributes_magic_resistance { Магічний опір }
 
