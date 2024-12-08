@@ -1,8 +1,8 @@
 Faction_Neutral { Нейтральний }
 
-Remnants_Arena { Табір Залишків: Арена }
+Remnants_Arena { Табір Вцілілих: Арена }
 
-Remnants_WayToMine { На південь від копальні в таборі Залишків }
+Remnants_WayToMine { На південь від копальні в таборі Вцілілих }
 
 Nemeton_Gate_North { Наметон: Північні ворота }
 
@@ -10,9 +10,9 @@ Nemeton_Dormitory { Східна частина Наметону }
 
 Woodcamp { Табір лісорубів }
 
-Remnants_Mine { Копальня Залишків }
+Remnants_Mine { Копальня Вцілілих }
 
-Remnants_MinerArea { Табір Залишків: Район теслярів }
+Remnants_MinerArea { Табір Вцілілих: Район теслярів }
 
 Nemeton_Palisades_North { Наметон: Палісадова північна стіна }
 
@@ -24,15 +24,15 @@ Tavern_Forest { Таверна "Безголовий Ріпер" }
 
 Nemeton_WarriorsQuarter { Наметон: Район воїнів }
 
-Remnants_Academy { Табір Залишків: Академія }
+Remnants_Academy { Табір Вцілілих: Академія }
 
 Neutral_Forest { Хвойний ліс }
 
-Remnants_Market { Табір Залишків: Ринок }
+Remnants_Market { Табір Вцілілих: Ринок }
 
 MissingPerson { Зниклий }
 
-Remnants_UpperQuarter { Табір Залишків: Верхній район }
+Remnants_UpperQuarter { Табір Вцілілих: Верхній район }
 
 Remnants_Tavern { Таверна Бернольда }
 
@@ -40,7 +40,7 @@ Neutral_Refugee { Притулок }
 
 Nemeton_Kitchen { Наметон: Кухня }
 
-Remnants_LostQuater { Табір Залишків: Темний район }
+Remnants_LostQuater { Табір Вцілілих: Темний район }
 
 Nemeton_FrontCamp { Табір за межами Наметону }
 
@@ -56,9 +56,9 @@ Neutra_Heath { Neutra_Heath }
 
 Nemeton_Global { Наметон }
 
-Remnants_Entry { Табір Залишків: Вхід }
+Remnants_Entry { Табір Вцілілих: Вхід }
 
-Remnants_Global { Табір Залишків }
+Remnants_Global { Табір Вцілілих }
 
 Nemeton_MarketAndCrafting { Наметон: Ринкова площа / Район ремісників }
 
@@ -72,7 +72,7 @@ Nemeton_WarriorQuarter { Наметон: Район воїнів }
 
 Nemeton_SacredGrove { Наметон: Священний гай }
 
-Neutral_River_WoodcampAndRemnants { Біля річки між табором Лісорубів і табором Залишків }
+Neutral_River_WoodcampAndRemnants { Біля річки між табором Лісорубів і табором Вцілілих }
 
 Nemeton_AppleGrove { Яблуневий сад поблизу Наметону }
 
@@ -92,13 +92,13 @@ DrivaniusChamber { Камера Дриваніуса }
 
 Riverbed_North { Русло річки на півночі }
 
-TravelingMerchants { Табір Залишків: Вхід; Наметон: Вхід; Таверна; На захід від ферми Джорджа }
+TravelingMerchants { Табір Вцілілих: Вхід; Наметон: Вхід; Таверна; На захід від ферми Джорджа }
 
 Neutral_Heath { Пустоші }
 
 Neutral_ForestPrimeval { Первісний ліс }
 
-Remnants_Underground { Табір Залишків: підземелля }
+Remnants_Underground { Табір Вцілілих: підземелля }
 
 Neutral_Forest_Camp { Табір в хвойному лісі }
 

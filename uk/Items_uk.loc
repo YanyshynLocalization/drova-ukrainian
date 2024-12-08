@@ -658,7 +658,7 @@ consumable_potion_darkbrew_healing_name { Темне зілля }
 
 key_mursel_mine_name { Ключ від Срібної шахти }
 
-key_mursel_mine_description { Ключ до казарми в Ямі в таборі Ремнантів. }
+key_mursel_mine_description { Ключ до казарми в Ямі в таборі Вцілілих. }
 
 key_tristanBillKey_name { Ключ від Верхньої таверни }
 
@@ -778,7 +778,7 @@ cons_flow_root_aoe_name { Коло коренів }
 
 cons_flow_root_aoe_description { Ви викликаєте корені, що захоплюють ворогів навколо вас на [TimeAbs] секунд. }
 
-item_escortLetter_name { Повідомлення: Ескортування до табору Ремнантів }
+item_escortLetter_name { Повідомлення: Ескортування до табору Вцілілих }
 
 item_blackboard_woodcamp_name { Повідомлення: Лісовий табір лісорубів }
 
@@ -996,19 +996,19 @@ armor_chest_shirt_ragged_name_name { Лахміття }
 
 armor_chest_shirt_ragged_name_description { Краще, ніж нічого... }
 
-armor_chest_ruinenlager_fighter_druid_name_name { Броня Друїдичного Бійця Залишків }
+armor_chest_ruinenlager_fighter_druid_name_name { Броня Друїдичного Бійця Вцілілих }
 
-armor_chest_ruinenlager_fighter_druid_name_description { Лише найсильніші в таборі Залишків можуть носити цю броню. }
+armor_chest_ruinenlager_fighter_druid_name_description { Лише найсильніші в таборі Вцілілих можуть носити цю броню. }
 
-armor_chest_ruinenlager_fighter_fight_name_name { Легка Броня Бійця Залишків }
+armor_chest_ruinenlager_fighter_fight_name_name { Легка Броня Бійця Вцілілих }
 
-armor_chest_ruinenlager_fighter_heavy_name_name { Важка Броня Бійця Залишків }
+armor_chest_ruinenlager_fighter_heavy_name_name { Важка Броня Бійця Вцілілих }
 
-armor_chest_ruinenlager_heavy_name_name { Важка броня Залишків }
+armor_chest_ruinenlager_heavy_name_name { Важка броня Вцілілих }
 
-armor_chest_ruinenlager_heavy_name_description { Ця броня призначена для членів Залишків. Вона виявляє мою лояльність до Джеро. }
+armor_chest_ruinenlager_heavy_name_description { Ця броня призначена для членів Вцілілих. Вона виявляє мою лояльність до Джеро. }
 
-armor_chest_ruinenlager_name_name { Легка броня Залишків }
+armor_chest_ruinenlager_name_name { Легка броня Вцілілих }
 
 armor_chest_tunic_name_name { Робочий одяг }
 
@@ -1174,7 +1174,7 @@ armor_chest_nemeton_craftsman_name_name { Одяг Майстра Наметон
 
 armor_chest_nemeton_chief_name_name { Броня Лідера Наметону }
 
-armor_chest_ruinenlager_chief_name_name { Броня Лідера Залишків }
+armor_chest_ruinenlager_chief_name_name { Броня Лідера Вцілілих }
 
 item_mumbertDiarrhoea_name { Прокисле Пиво }
 
@@ -1608,9 +1608,9 @@ helmet_nemeton_guard1_name_name { Легка Броня Неметону }
 
 helmet_nemeton_guard2_name_name { Важка Броня Неметону }
 
-helmet_ruinenlager_guard1_name_name { Простий Шолом Залишків }
+helmet_ruinenlager_guard1_name_name { Простий Шолом Вцілілих }
 
-helmet_ruinenlager_guard2_name_name { Важкий Шолом Залишків }
+helmet_ruinenlager_guard2_name_name { Важкий Шолом Вцілілих }
 
 helmet_cauldron_name_name { Казан }
 
@@ -1692,7 +1692,7 @@ note_naughty_female_description { Малюнок красивої оголено
 
 misc_map_nemeton_name { Карта Неметону }
 
-misc_map_ruincamp_name { Карта Лагеру Залишків }
+misc_map_ruincamp_name { Карта Лагеру Вцілілих }
 
 misc_map_leuchtwald_name { Карта Лісу Древніх }
 
@@ -1704,7 +1704,7 @@ misc_worldmap_shrines_name { Карта Святилищ }
 
 misc_caveSystem_name { Карта печер }
 
-misc_caveSystem_description { Карта системи печер під табором Залишків. }
+misc_caveSystem_description { Карта системи печер під табором Вцілілих. }
 
 armor_chest_ruinenlager_gladiator_name { Броня Гладіаторів }
 
@@ -1928,7 +1928,7 @@ recipe_flow_poisonArrow_name { Спосіб: Отруєна Стріла }
 
 key_tavernKey_Cellar_name { Ключ від Підвалу }
 
-key_tavernKey_Cellar_description { Ключ від підвалу таверни в таборі залишків. }
+key_tavernKey_Cellar_description { Ключ від підвалу таверни в таборі Вцілілих. }
 
 helmet_none_name { Ідентифікатор: Шолом_Відсутній }
 
