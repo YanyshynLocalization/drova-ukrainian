@@ -1,100 +1,100 @@
-Plh_12 { If you cause trouble, you'll be out of here in no time. Keep your hands to yourself. }
+Plh_12 { Якщо ти вчиняєш неприємності, швидко вибудеш звідси. Тримай руки при собі. }
 
-Plh_13 { What exactly are the rules here? }
+Plh_13 { Які тут правила? }
 
-Plh_14 { Where can I find everything here? }
+Plh_14 { Де я можу знайти все необхідне тут? }
 
-Plh_15 { Can you tell me something about Nemeton? }
+Plh_15 { Можеш розповісти мені щось про Наметон? }
 
-Plh_16 { If you attack someone, you won't be forgiven easily. You'll have to pay a fine to Gerdwin, in the Fighters' Quarter. If you push your luck, that mistake will be your final one. }
+Plh_16 { Якщо ти нападеш на когось, тебе не пробачать так легко. Тобі доведеться сплатити штраф Гердвіну в Бійцівському кварталі. Якщо ти знову ризикнеш, ця помилка стане твоєю останньою. }
 
-Plh_17 { Located in the far north are the merchants, from whom you can buy everything you need. South from there are the fighters. Angus is their boss, and he determines who's allowed to do what in Nemeton. }
+Plh_17 { На півночі знаходяться торговці, у яких можна купити все, що тобі потрібно. На південь від них – бійці. Ангус їхній лідер, він визначає, хто може робити що в Наметоні. }
 
-Plh_19 { Farther south, you'll find the Crafters. From them, you can learn how to make traps, ammunition, and potions. }
+Plh_19 { Далі на південь ти знайдеш Ремісників. У них можна навчитися виготовляти пастки, боєприпаси та зілля. }
 
-Plh_20 { To the east is the Lost Quarter. Unfortunately, there aren't enough Crafters to maintain all the huts. }
+Plh_20 { На сході знаходиться Загублений квартал. На жаль, не вистачає Ремісників, щоб утримувати всі хатини. }
 
-Plh_18 { Nemeton is the first and largest camp here in Drova. Back then, the Remnants were still part of Nemeton. But Jero left us and founded the Remnants' camp, taking a lot of good people with him. }
+Plh_18 { Наметон – перший та найбільший табір у Дрові. Колись залишки були частиною Наметону. Але Джеро залишив нас і заснував табір Залишків, забравши багато хороших людей. }
 
-Plh_86 { What do I need to know about Nemeton? }
+Plh_86 { Що мені потрібно знати про Наметон? }
 
-Plh_88 { People like you have access to three quarters in Nemeton. }
+Plh_88 { Люди, як ти, мають доступ до трьох кварталів Наметону. }
 
-Plh_89 { Right by the West Gate is the Market Square, where you can buy anything you might need. Or sell, if you need a few coins. }
+Plh_89 { Прямо біля Західних воріт знаходиться Торговий майдан. Там можна купити все необхідне або продати, якщо треба кілька монет. }
 
-Plh_90 { In case someone has it in for you, seek protection with the fighters. But actually, this place is for the fighters of the Nemeton, not for newbies. You can find the fighters right next to the Market Square. }
+Plh_90 { Якщо хтось має до тебе претензії, шукай захист у бійців. Але взагалі це місце для бійців Наметону, а не для новачків. Бійців можна знайти прямо поруч з Торговим майданом. }
 
-Plh_91 { And then there are the Crafters. You'll find them near the menhirs, at the southernmost part of the camp. The way you look, you might be able to find work there. }
+Plh_91 { А ще є Ремісники. Їх можна знайти біля менгірів, в найпівденнішій частині табору. За твоїм виглядом, можливо, ти знайдеш роботу там. }
 
-Plh_87 { What are the rules here? }
+Plh_87 { Які правила тут? }
 
-Plh_92 { Actually, it's self-explanatory. }
+Plh_92 { Насправді все самоочевидно. }
 
-Plh_93 { Keep your mitts off things that don't belong to you. Don't just randomly walk into someone's house. Some folks won't react very kindly to that. }
+Plh_93 { Тримай руки подалі від того, що тобі не належить. Не заходь без запрошення в чужі будинки. Деякі люди можуть відреагувати не дуже привітно на це. }
 
-Plh_94 { And don't get mixed up in any brawls. Gerdwin really doesn't want anybody getting into fights in Nemeton. }
+Plh_94 { І не втягуйся в бійки. Гердвін дуже не хоче, щоб хтось вступав у бої в Наметоні. }
 
-Plh_95 { If you do get into trouble, go to Gerdwin in the Fighters' Quarter. He can pardon your misdeeds. }
+Plh_95 { Якщо потрапиш у неприємності, йди до Гердвіна в Бійцівський квартал. Він може пробачити твої проступки. }
 
-Plh_96 { In exchange for a small donation to Nemeton, of course. }
+Plh_96 { В обмін на невеликий внесок на користь Наметону, звісно. }
 
-Plh_84 { Hey. }
+Plh_84 { Гей. }
 
-Plh_54 { I thought someone else from the Remnants was coming over here. }
+Plh_54 { Я думав, що хтось з Залишків прийде сюди. }
 
-Plh_56 { Attacked the Remnants' camp? }
+Plh_56 { Напали на табір Залишків? }
 
-Plh_55 { What happened here? }
+Plh_55 { Що тут сталося? }
 
-Plh_57 { A large group of warriors in red armor came in our direction. We thought they were going to attack us, but they turned the other way. One of them said that they would kill us, should we dare to head north. }
+Plh_57 { Велика група воїнів у червоних обладунках прямувала до нас. Ми думали, що вони збираються атакувати, але вони змінили напрямок. Один із них сказав, що вони вб'ють нас, якщо ми наважимося йти на північ. }
 
-Plh_58 { "The Floodplain Forest is ours," they said. You've got to watch out — they won't hesitate, and they will kill you. A war is looming. }
+Plh_58 { "Луки на затоплених лугах – це наші," сказали вони. Бережись — вони не вагаються і вб'ють тебе. Війна на порозі. }
 
-Plh_59 { Somehow I've got to reach the knoll — do you know a way? }
+Plh_59 { Якось мені треба дістатися до пагорба — знаєш шлях? }
 
-Plh_61 { To the knoll? The Remnants probably want to head there too. Why else should they come here? }
+Plh_61 { До пагорба? Залишки, напевно, теж хочуть туди потрапити. Чому вони повинні приходити сюди? }
 
-Plh_62 { Jendrik has already been up there, but that was a long time ago. If anyone knows, he does. }
+Plh_62 { Джендрик вже був там, але це було давно. Якщо хтось і знає, то це він. }
 
-Plh_63 { But watch out. We'll hold the fort here. I don't think they're after the Woodcutter Camp. Not yet. }
+Plh_63 { Але будь обережний. Ми тримаємо оборону тут. Не думаю, що вони зацікавлені в Лісопильному таборі. Ще ні. }
 
-Plh_64 { Almost. But no, we're unharmed. }
+Plh_64 { Майже. Але ні, ми не постраждали. }
 
-Plh_53 { Have I seen you before? You assisted us when we were attacked here! }
+Plh_53 { Я бачив тебе раніше? Ти допоміг нам, коли нас атакували тут! }
 
-Plh_67 { This is a good friend. $GVAR:EVars_Player.Name$ helped us repair the bridge. Despite the Remnants' armor, $GVAR:EVars_Player.Name$ is a good person. }
+Plh_67 { Це хороший друг. $GVAR:EVars_Player.Name$ допоміг нам відновити міст. Незважаючи на обладунки Залишків, $GVAR:EVars_Player.Name$ — хороша людина. }
 
-Plh_68 { We don't want to be dragged into Nemeton's problems, or into the Remnants' difficulties either. What do you want here? }
+Plh_68 { Ми не хочемо потрапляти в проблеми Наметону чи в труднощі Залишків. Що ти тут хочеш? }
 
-Plh_69 { We've got warriors throughout the Floodplain Forest. You won't get anywhere on your own. }
+Plh_69 { У нас є воїни по всьому Лісу на затоплених луках. Ти не досягнеш нічого сам. }
 
-Plh_65 { Relax, we don't want a quarrel. I just wanted to buy some wood. }
+Plh_65 { Розслабся, ми не хочемо сварки. Я просто хотів купити трохи дерева. }
 
-Plh_66 { I don't see them here. It's just the two of us. }
+Plh_66 { Я їх тут не бачу. Нас тільки двоє. }
 
-Plh_72 { I want to go up to the knoll. Do you know how I can get there? }
+Plh_72 { Я хочу піднятися на пагорб. Ти знаєш, як туди дістатися? }
 
-Plh_75 { Your best bet is to report to Jendrik. Even though you're one of the Remnants, we are deeply in your debt. }
+Plh_75 { Твій найкращий варіант — звернутися до Джендрика. Хоч ти й один з Залишків, ми дуже винні тобі. }
 
-Plh_73 { Without you, back then we wouldn't have made it, and I'm also in your debt. I won't harm you. }
+Plh_73 { Без тебе тоді ми б не змогли вибратися, і я також тобі винен. Я не буду тобі шкодити. }
 
-Plh_74 { We don't know that, and the forest is crawling with Nemeton warriors. No way you'll get through. Turn around. }
+Plh_74 { Ми цього не знаємо, і ліс повний воїнів Наметону. Ти не пройдеш. Поверни назад. }
 
-Plh_9 { Gerdwin has sent reinforcements? Come quickly. The Woodcutter Camp is under attack! }
+Plh_9 { Гердвін відправив підкріплення? Йди швидше. Лісопильний табір під атакою! }
 
-Plh_27 { Hey, you — even if you are one of the Remnants — the Woodcutter Camp is under attack! We need help! Come quickly! }
+Plh_27 { Ей, ти — навіть якщо ти один з Залишків — Лісопильний табір під атакою! Нам потрібна допомога! Йди швидше! }
 
-Plh_85 { Don't do anything stupid. Then everything can go very well for you around here. }
+Plh_85 { Не роби дурниць. Тоді все може скластися дуже добре для тебе тут. }
 
-Plh_98 { Everything is safe here. Well done. }
+Plh_98 { Тут усе безпечно. Молодець. }
 
-Plh_25 { I'll stay here and keep watch. I'll tell Gerdwin we were attacked, but that everything's secured now. You really saved our bacon! }
+Plh_25 { Я залишуся тут і буду на варті. Скажу Гердвіну, що нас атакували, але що тепер усе під контролем. Ти справді врятував нас! }
 
-Plh_28 { Thanks for your help, but Nemeton will take charge from here. }
+Plh_28 { Дякую за допомогу, але Наметон зараз візьме на себе контроль. }
 
-Plh_26 { I'm reluctant to say it, but we needed every fighter. Even someone from the Remnants. }
+Plh_26 { Не хочеться це говорити, але нам потрібен був кожен боєць. Навіть хтось з Залишків. }
 
-Plh_24 { *groans* Colin's bought it. You fought well. }
+Plh_24 { *стогне* Колін загинув. Ти боровся добре. }
 
-Plh_23 { There are still critters here. We've got to kill them all. }
+Plh_23 { Тут ще залишилися потвори. Нам треба їх всіх вбити. }
 
