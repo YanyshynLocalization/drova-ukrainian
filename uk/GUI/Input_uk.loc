@@ -44,7 +44,7 @@ action_Block { Дія другою рукою }
 
 action_Attack_And_Interaction { Взаємодія (звичайний режим) / <br>Атака (бойовий режим) }
 
-action_Block_And_Perception { Режим розслідування (звичайний режим) / <br> Дія другою рукою (бойовий режим) }
+action_Block_And_Perception { Режим дослідження (звичайний режим) / <br> Дія другою рукою (бойовий режим) }
 
 action_Dodge { Ухилення }
 
@@ -62,7 +62,7 @@ action_LootAll { Забрати все }
 
 action_Journal { Журнал }
 
-action_PerceptionMode { Режим розслідування }
+action_PerceptionMode { Режим дослідження }
 
 action_QuickSave { Швидке збереження }
 
@@ -159,4 +159,20 @@ action_CraftingMenu { Меню ремесла }
 action_ToggleGarbageVisibility { Показати/сховати непотріб }
 
 action_UIDelete { Видалити }
+
+dialogoption_1 { Опція діалогу 1 }
+
+dialogoption_2 { Опція діалогу 2 }
+
+dialogoption_3 { Опція діалогу 3 }
+
+dialogoption_4 { Опція діалогу 4 }
+
+dialogoption_5 { Опція діалогу 5 }
+
+dialogoption_6 { Опція діалогу 6 }
+
+action_CamZoom { Змінити масштабування }
+
+action_toggleCraftables { Показувати лише рецепти, які можна створити }
 
