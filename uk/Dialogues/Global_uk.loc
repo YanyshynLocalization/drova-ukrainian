@@ -130,7 +130,7 @@ PlayerSaysTheyDontHaveMoney { У мене не вистачає монет... }
 
 PlayCatch { Хочеш пограти в хованки? }
 
-OnlyNemetonTeaching { Я навчаю лише бійців з Нементона. }
+OnlyNemetonTeaching { Я навчаю лише бійців з Неметона. }
 
 Teach_Axe { Можеш навчити мене краще боротися сокирою? }
 
@@ -140,7 +140,7 @@ FastTravel { Можеш підвезти мене? }
 
 FastTravel_Ruinenlager { Завезеш мене в табір Руїн? }
 
-FastTravel_Nemeton { Завезеш мене до Нементона? }
+FastTravel_Nemeton { Завезеш мене до Неметона? }
 
 FastTravel_Tavern { Завезеш мене до таверни? }
 

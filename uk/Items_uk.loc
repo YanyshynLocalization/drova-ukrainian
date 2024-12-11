@@ -38,7 +38,7 @@ item_honey_name { Мед }
 
 item_packageToMoorlager_name { Пакунок з товарами }
 
-item_packageToMoorlager_description { Товари від Георга для Ангуса у Неметоні. }
+item_packageToMoorlager_description { Товари від Джорджа для Ангуса у Неметоні. }
 
 item_letterToAsmus_sealed_name { Лист для Асмуса }
 
@@ -70,7 +70,7 @@ key_chest_delani_description { Ключ від скрині Делані. }
 
 note_evidence_boris_name { Спланована засідка }
 
-note_evidence_boris_description { Я взяв це у бандитів біля табору Спадщини. }
+note_evidence_boris_description { Я взяв це у бандитів біля табору Вцілілих. }
 
 item_stolenPackage_name { Викрадене пакунку }
 
@@ -106,7 +106,7 @@ note_debtorlist_description { Багато людей в боргу. Чи я т�
 
 key_ratcellar_name { Ключ від підвалу }
 
-key_ratcellar_description { Ключ від підвалу таверни в таборі Спадщини. }
+key_ratcellar_description { Ключ від підвалу таверни в таборі Вцілілих. }
 
 weapon_axe_bady_dull_name { Тупий сокира Баді }
 
@@ -1900,7 +1900,7 @@ item_letterCityDungeon_GodPaintings_name { Мурали, що зображают
 
 item_letter_Reija_name { Дивні Спостереження Дріванія }
 
-weapon_spear_georg_name { Спис Георга }
+weapon_spear_georg_name { Спис Джорджа }
 
 weapon_spear_georg_description {  }
 
@@ -1990,7 +1990,7 @@ item_Map_Treasure_Forest_name { Скарб: Хвойний Ліс }
 
 item_Map_Treasure_Garden_name { Скарб: Руїни }
 
-item_Map_Treasure_GeorgsFarm_name { Скарб: Ферма Георга }
+item_Map_Treasure_GeorgsFarm_name { Скарб: Ферма Джорджа }
 
 item_Map_Treasure_Heath_name { Скарб: Торфовище }
 
