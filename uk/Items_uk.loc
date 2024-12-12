@@ -128,7 +128,7 @@ item_silverore_name { Срібна руда }
 
 tool_pickaxe_silberhauer_name { Срібний молот }
 
-tool_pickaxe_silberhauer_description { Дуже хороший кирка, яку мені продав Мерик. }
+tool_pickaxe_silberhauer_description { Дуже гарне кайло, яке мені продав Мерик. }
 
 item_logwood_name { Колода }
 
@@ -144,13 +144,13 @@ item_furtuft_name { Шматок шкіри }
 
 item_resin_name { Сік }
 
-item_resin_description { Отримано від деревного істоти. }
+item_resin_description { Видобуто з дерева. }
 
 weapon_axe_largeBranch_name { Кам'яна сокира }
 
 weapon_axe_woodSplitter_name { Колода для рубки }
 
-weapon_axe_bronzeTusk_name { Бронзова кирка }
+weapon_axe_bronzeTusk_name { Бронзове кайло }
 
 weapon_axe_bronzeTusk_description { Дозволяє видобувати руди }
 
@@ -1026,21 +1026,21 @@ helmet_legionare_name_name { Шолом легіонера }
 
 Raven Mask_name { Маска ворона }
 
-quiver_simple_name_name { Простий колчан }
+quiver_simple_name_name { Простий сагайдак }
 
-quiver_simple_name_description { Простий колчан, вміщує три стріли. }
+quiver_simple_name_description { Простий сагайдак, вміщує три стріли. }
 
 ring_aldo_name_name { Перстень Альдо }
 
 ring_aldo_name_description { Малий перстень з вигравіруваною літерою А. }
 
-item_mediumquiver_name { Середній колчан }
+item_mediumquiver_name { Середній сагайдак }
 
-item_mediumquiver_description { Цей колчан вміщує п'ять стріл. }
+item_mediumquiver_description { Цей сагайдак вміщує п'ять стріл. }
 
-item_bigquiver_name { Великий колчан }
+item_bigquiver_name { Великий сагайдак }
 
-item_bigquiver_description { Цей колчан вміщує сім стріл. }
+item_bigquiver_description { Цей сагайдак вміщує сім стріл. }
 
 item_rivercharm_name { Амулет річки }
 
@@ -1084,7 +1084,7 @@ item_sprigganheart_description { Кожна ближня атака, яка вр
 
 item_hunterquiver_name { Ріг мисливця }
 
-item_hunterquiver_description { Збільшує місткість колчана на 1 і прискорює перезарядку. }
+item_hunterquiver_description { Збільшує місткість сагайдак на 1 і прискорює перезарядку. }
 
 item_boartooth_name { Череп дикого кабана }
 
@@ -1354,13 +1354,13 @@ recipe_beartrap_name { Рецепт: Ведмежа Ловушка }
 
 recipe_bellow_name { Рецепт: Повітряний Насос }
 
-recipe_bigquiver_name { Рецепт: Велика Колчан }
+recipe_bigquiver_name { Рецепт: Великий сагайдак }
 
 recipe_blanktrap_name { Рецепт: Ловушка-Форма }
 
 recipe_bomb_name { Рецепт: Кластерна Бомба }
 
-recipe_crowfeettrap_name { Рецепт: Ловушка для Ворон }
+recipe_crowfeettrap_name { Рецепт: Пастка для Ворон }
 
 recipe_elixier_concentration_name { Рецепт: Еліксир Концентрації }
 
@@ -1414,7 +1414,7 @@ recipe_lockpick_name { Рецепт: Відмичка }
 
 recipe_marinatedmeatleg_name { Рецепт: Маринована М'ясна Лопатка Тіаа }
 
-recipe_mediumquiver_name { Рецепт: Середній Колчан }
+recipe_mediumquiver_name { Рецепт: Середній сагайдак }
 
 recipe_mudmash_name { Рецепт: М'ясне Стю Олафа }
 

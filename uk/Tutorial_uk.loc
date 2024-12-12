@@ -42,7 +42,7 @@ BattleBuddies_Blocks { Утримуйте $INPUTANIM:Block$, щоб блокув
 
 BattleBuddies_Blocks_Label { Успішні блокування }
 
-BattleBuddies_Combos { Натисніть $INPUTANIM:Attack_Primary$ в точно вірний момент після атаки, щоб атакувати знову. Використовуючи комбо, ви зазвичай атакуєте швидше і завдаєте більше шкоди. }
+BattleBuddies_Combos { Вчасно натисніть $INPUTANIM:Attack_Primary$ в момент після атаки, щоб викоманти атакувати знову. Використовуючи комбо-атаки, ви зазвичай атакуєте швидше і завдаєте більше шкоди. }
 
 BattleBuddies_Combos_Label { Успішні комбо }
 
