@@ -84,7 +84,7 @@ action_UseSpell { Використати здібність }
 
 action_RingMenu { Кільцеве меню }
 
-action_OpenMap { Карта }
+action_OpenMap { Мапа }
 
 action_MarkObject { Позначити об'єкт }
 

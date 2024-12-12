@@ -2,7 +2,7 @@ Title_Maps { Карти }
 
 MapName_World_Rough { Груба карта світу }
 
-MapName_World_Detailed { Карта світу }
+MapName_World_Detailed { Мапа світу }
 
 MapName_World_Shrines { Храми }
 
@@ -12,7 +12,7 @@ MapName_Ruincamp { Табір Залшків }
 
 MapName_Leuchtwald { Прадавній Ліс }
 
-MapName_Tristan { Карта Трістана }
+MapName_Tristan { Мапа Трістана }
 
 MarkerPlaced { Позначено на карті }
 

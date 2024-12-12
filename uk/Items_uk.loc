@@ -20,7 +20,7 @@ item_redHerb_description { Росте на болотах. }
 
 item_meat_raw_name { Соковите м'ясо }
 
-item_meat_raw_description { Це ще сире. Непридатне для споживання. }
+item_meat_raw_description { Сире м'ясо. Непридатне для споживання. }
 
 item_farmersFood_name { Їжа фермера }
 
@@ -58,7 +58,7 @@ misc_lockpick_simple_name { Проста відмичка }
 
 misc_lockpick_simple_description { Жоден замок тепер від мене не сховається. }
 
-misc_worldmap_name { Груба карта Дрови }
+misc_worldmap_name { Груба мапа Дрови }
 
 misc_mapink_name { Чорнило }
 
@@ -152,7 +152,7 @@ weapon_axe_woodSplitter_name { Колода для рубки }
 
 weapon_axe_bronzeTusk_name { Бронзове кайло }
 
-weapon_axe_bronzeTusk_description { Дозволяє видобувати руди }
+weapon_axe_bronzeTusk_description { Дозволяє видобувати руду }
 
 weapon_axe_jawboneAxe_name { Сокира з щелепи }
 
@@ -384,7 +384,7 @@ weapon_shield_woodenBoard_name { Дерев'яна дошка }
 
 weapon_shield_smallWoodenShield_name { Малий дерев'яний щит }
 
-item_roastedMeat_name { Жарене волокнисте м'ясо }
+item_roastedMeat_name { Смажене волокнисте м'ясо }
 
 item_roastedMeat_description { Не дуже смачно, але хоча б ти знаєш, звідки воно. }
 
@@ -430,11 +430,11 @@ item_flowPlant_0_name { Весняний корінь }
 
 item_flowPlant_0_description { Можна знайти біля старих споруд. }
 
-item_flowPlant_1_name { Весняний квітка }
+item_flowPlant_1_name { Весняний цвіт }
 
 item_flowPlant_1_description { Можна знайти біля старих споруд. }
 
-item_healthPlant_2_name { Життєвий квітка }
+item_healthPlant_2_name { Життєвий цвіт }
 
 item_potion_health_0_name { Зцілювальне зілля }
 
@@ -454,9 +454,9 @@ item_permaherb_mind_name { Розвиваюча мозок рослина }
 
 item_permaherb_life_name { Горіховий кущ }
 
-item_permaherb_skill_name { Ліхен скелі }
+item_permaherb_skill_name { Скелястий лишайник }
 
-item_shadowmushroom_name { Тіньова грибниця }
+item_shadowmushroom_name { Тіньовий гриб }
 
 item_shadowmushroom_description { Зростає в темних місцях. }
 
@@ -472,7 +472,7 @@ item_cavemushroom_description { Зростає в темних місцях. }
 
 item_ruinherb_name { Руїнний квітка }
 
-item_tarnishedSilverCup_name { Потьмяніла срібна чаша }
+item_tarnishedSilverCup_name { Тьм'яна срібна чаша }
 
 item_mudLotus_name { Брудний лотос }
 
@@ -562,9 +562,9 @@ misc_bagOfCurrency_name { Шурхотливий мішечок }
 
 item_diaryKora_name { Щоденник Кори }
 
-item_treasureMap_auwald_name { Карта скарбу: Лісова заплава }
+item_treasureMap_auwald_name { Мапа скарбу: Лісова заплава }
 
-misc_map_tristan_name { Карта Трістана }
+misc_map_tristan_name { мапа Трістана }
 
 item_claw_description { Можна отримати від тварин за допомогою навички "Витягування кігтів". }
 
@@ -1690,21 +1690,21 @@ note_naughty_female_name { Розквіт Життя }
 
 note_naughty_female_description { Малюнок красивої оголеної жінки. Чудово. }
 
-misc_map_nemeton_name { Карта Неметону }
+misc_map_nemeton_name { Мапа Неметону }
 
-misc_map_ruincamp_name { Карта Лагеру Вцілілих }
+misc_map_ruincamp_name { Мапа Лагеру Вцілілих }
 
-misc_map_leuchtwald_name { Карта Лісу Древніх }
+misc_map_leuchtwald_name { Мапа Лісу Древніх }
 
-misc_worldmap_detailed_name { Карта Дрови }
+misc_worldmap_detailed_name { Мапа Дрови }
 
 misc_worldmap_detailed_description { Намальовано "Лортізом." }
 
-misc_worldmap_shrines_name { Карта Святилищ }
+misc_worldmap_shrines_name { Мапа Святилищ }
 
-misc_caveSystem_name { Карта печер }
+misc_caveSystem_name { Мапа печер }
 
-misc_caveSystem_description { Карта системи печер під табором Вцілілих. }
+misc_caveSystem_description { Мапа системи печер під табором Вцілілих. }
 
 armor_chest_ruinenlager_gladiator_name { Броня Гладіаторів }
 
@@ -1838,11 +1838,11 @@ item_foodpile_strong_name { Стрибучий Бас }
 
 item_fish_trout_name { Форель }
 
-item_fish_trout_description { Це ще сире. Непридатне для їжі. }
+item_fish_trout_description { Сира риба. Непридатна для споживання. }
 
 item_fish_dead_name { Мертва Риба }
 
-item_fish_dead_description { Це ще сире. Непридатне для їжі. }
+item_fish_dead_description { Сира риба. Непридатна для споживання. }
 
 recipe_foodpile_strong_name { Рецепт: Стрибучий Бас }
 
