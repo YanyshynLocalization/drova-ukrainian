@@ -72,7 +72,7 @@ note_evidence_boris_name { Спланована засідка }
 
 note_evidence_boris_description { Я взяв це у бандитів біля табору Вцілілих. }
 
-item_stolenPackage_name { Викрадене пакунку }
+item_stolenPackage_name { Викрадений пакунок }
 
 item_stolenPackage_description { Я знайшов цей пакунок у яблуневому саду. Від нього смердить. }
 
@@ -108,9 +108,9 @@ key_ratcellar_name { Ключ від підвалу }
 
 key_ratcellar_description { Ключ від підвалу таверни в таборі Вцілілих. }
 
-weapon_axe_bady_dull_name { Тупий сокира Баді }
+weapon_axe_bady_dull_name { Тупа сокира Баді }
 
-weapon_axe_bady_sharp_name { Гострий сокира Баді }
+weapon_axe_bady_sharp_name { Гостра сокира Баді }
 
 item_letterMehlunaToBady_name { Лист кохання від Мелуни }
 
@@ -130,7 +130,7 @@ tool_pickaxe_silberhauer_name { Срібний молот }
 
 tool_pickaxe_silberhauer_description { Дуже хороший кирка, яку мені продав Мерик. }
 
-item_logwood_name { Колоди }
+item_logwood_name { Колода }
 
 item_salve_healing_name { Лікувальна мазь }
 
@@ -138,7 +138,7 @@ item_pigglet_food_name { Зміцнене корм }
 
 item_pigglet_food_description { Це допоможе поросятам відновити силу. }
 
-item_brokenwings_name { Крилце комара }
+item_brokenwings_name { Крильце комара }
 
 item_furtuft_name { Шматок шкіри }
 
