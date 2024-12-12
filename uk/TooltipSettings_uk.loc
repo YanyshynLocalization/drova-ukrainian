@@ -18,7 +18,7 @@ flowcosts { Витрати концентрації }
 
 strength { Сила }
 
-dexterity { Ловкість }
+dexterity { Спритність }
 
 mind { Розум }
 
@@ -72,7 +72,7 @@ flowPhysical { Здібність }
 
 flowMagical { Заклинання }
 
-flowOneTime { Скрол заклинання }
+flowOneTime { Сувій заклинання }
 
 learnspell { Використовуйте цей предмет для вивчення здатності }
 
@@ -120,6 +120,6 @@ needrunestone { Потрібен Рунний Камінь }
 
 strength_value { Сила [VALUE] }
 
-dex_value { Ловкість [VALUE] }
+dex_value { Спритність [VALUE] }
 
 mind_value { Розум [VALUE] }
