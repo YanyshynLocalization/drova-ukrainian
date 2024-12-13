@@ -2,7 +2,7 @@ Workbench { Робочий стіл }
 
 Furnace { Піч }
 
-Fireplace { Костер }
+Fireplace { Багаття }
 
 Personal { Особисті }
 
@@ -10,7 +10,7 @@ Recipes { Рецепти }
 
 Title_Panel { Крафт }
 
-Toggle_CraftableOnly { Показувати тільки крафтовані рецепти }
+Toggle_CraftableOnly { Доступні для створення }
 
 Foldout_Throw { Інструменти }
 

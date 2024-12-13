@@ -148,17 +148,17 @@ item_resin_description { Видобуто з дерева. }
 
 weapon_axe_largeBranch_name { Кам'яна сокира }
 
-weapon_axe_woodSplitter_name { Колода для рубки }
+weapon_axe_woodSplitter_name { Дроворуб }
 
 weapon_axe_bronzeTusk_name { Бронзове кайло }
 
 weapon_axe_bronzeTusk_description { Дозволяє видобувати руду }
 
-weapon_axe_jawboneAxe_name { Сокира з щелепи }
+weapon_axe_jawboneAxe_name { Сокира зі щелепи }
 
-weapon_axe_heavyNailClub_name { Зубчастий бронзовий молот }
+weapon_axe_heavyNailClub_name { Зубчаста бронзова сокира }
 
-weapon_axe_deformedAxe_name { Тимчасова кам'яна сокира }
+weapon_axe_deformedAxe_name { Саморобна кам'яна сокира }
 
 weapon_axe_lightAxe_name { Легка сокира }
 
@@ -190,7 +190,7 @@ weapon_axe_greatAxe_name { Велика сокира }
 
 weapon_axe_barbarianBattleAxe_name { Варварська бойова сокира }
 
-weapon_axe_iron-BoundGreatAxe_name { Тупий великий топір }
+weapon_axe_iron-BoundGreatAxe_name { Тупа велика сокира }
 
 weapon_axe_bloodReaper_name { Обсідовий жнець }
 
@@ -202,23 +202,23 @@ weapon_sword_gildedSickle_name { Золотий серп }
 
 weapon_sword_nailClub_name { Поржавілий бронзовий меч }
 
-weapon_sword_heavyNailClub_name { Тупий бронзовий лезо }
+weapon_sword_heavyNailClub_name { Тупе бронзове лезо }
 
 weapon_sword_bronzeShortSword_name { Зношений короткий меч }
 
-weapon_sword_warClub_name { Тимчасовий бронзовий меч }
+weapon_sword_warClub_name { Саморобний бронзовий меч }
 
-weapon_sword_oldBronzeGladius_name { Старий бронзовий глдіус }
+weapon_sword_oldBronzeGladius_name { Старий бронзовий гладіус }
 
-weapon_sword_roughSword_name { Викривлений меч }
+weapon_sword_roughSword_name { Кривий меч }
 
 weapon_sword_sword_name { Короткий меч }
 
-weapon_sword_scavengingScimitar_name { Руйнівна скімітара }
+weapon_sword_scavengingScimitar_name { Грабіжнецька шабля  }
 
-weapon_sword_hawk'SClaw_name { Лапа сокола }
+weapon_sword_hawk'SClaw_name { Кіготь сокола }
 
-weapon_sword_crudeIronBlade_name { Сира залізна лезо }
+weapon_sword_crudeIronBlade_name { Сире залізне лезо }
 
 weapon_sword_coarseBroadsword_name { Широкий меч }
 
@@ -226,15 +226,15 @@ weapon_sword_broadsword_name { Іржавий широкий меч }
 
 weapon_sword_longsword_name { Довгий меч }
 
-weapon_sword_battleBlade_name { Бойовий лезо }
+weapon_sword_battleBlade_name { Бойове лезо }
 
 weapon_sword_berserkBlade_name { Лезо берсерка }
 
 weapon_sword_swordOfNemeton_name { Тупий меч воїна }
 
-weapon_sword_swordOfTheFaithful_name { Меч вірних }
+weapon_sword_swordOfTheFaithful_name { Меч Віри }
 
-weapon_sword_runeSword_name { Руничний меч }
+weapon_sword_runeSword_name { Рунний меч }
 
 weapon_sword_moonSword_name { Місячний меч }
 
@@ -246,7 +246,7 @@ weapon_dagger_pineDagger_name { Зубчасті бронзові ножі }
 
 weapon_dagger_breadKnife_name { Ніж для хліба }
 
-weapon_dagger_fang_name { Тупий жалючий кінджал }
+weapon_dagger_fang_name { Тупий жалючий кинджал }
 
 weapon_dagger_boneKnife_name { Кістяний ніж }
 
@@ -254,7 +254,7 @@ weapon_dagger_wornBronzeDagger_name { Бронзові кинджали }
 
 weapon_dagger_bronzeDagger_name { Збалансовані кинджали }
 
-weapon_dagger_pointedDagger_name { Викривлені бронзові кинджали }
+weapon_dagger_pointedDagger_name { Криві бронзові кинджали }
 
 weapon_dagger_ceremonialDagger_name { Церемоніальні кинджали }
 
@@ -284,51 +284,51 @@ weapon_dagger_bloodDagger_name { Кинджал короля }
 
 weapon_dagger_bloodDagger_description { Коли народ підніметься, король впаде. }
 
-weapon_sling_coarseSling_name { Грубий пращ }
+weapon_sling_coarseSling_name { Груба праща }
 
-weapon_sling_simpleSlingshot_name { Простий пращ }
+weapon_sling_simpleSlingshot_name { Проста праща }
 
-weapon_sling_heavySlingshot_name { Важкий пращ }
+weapon_sling_heavySlingshot_name { Важка праща }
 
-weapon_sling_headSlingshot_name { Голова пращ }
+weapon_sling_headSlingshot_name { Голова праща }
 
-weapon_sling_battleSlingshot_name { Бойовий пращ }
+weapon_sling_battleSlingshot_name { Бойова праща }
 
 weapon_bow_simpleBow_name { Простий лук }
 
 weapon_bow_shortBow_name { Короткий лук }
 
-weapon_bow_huntingBow_name { Тимчасовий лук }
+weapon_bow_huntingBow_name { Саморобний лук }
 
 weapon_bow_longBow_name { Довгий лук }
 
-weapon_bow_reinforcedBow_name { Вигнутий лук }
+weapon_bow_reinforcedBow_name { Кривий лук }
 
 weapon_bow_battleBow_name { Бойовий лук }
 
 item_bloodquitostinger_name { Жало комара }
 
-item_boartusk_name { Кабанячий ікло }
+item_boartusk_name { Ікло кабана }
 
 weapon_sword_shortSword_name { Бронзовий короткий меч }
 
 weapon_sword_gladius_name { Глдіус }
 
-weapon_spear_woodenSpear_name { Старе списе }
+weapon_spear_woodenSpear_name { Старий спис }
 
-weapon_spear_stoneSpear_name { Тупе списе }
+weapon_spear_stoneSpear_name { Тупий спис }
 
-weapon_spear_pitchfork_name { Тимчасове списе }
+weapon_spear_pitchfork_name { Саморобний спис }
 
-weapon_spear_fishSpear_name { Вигнуте бронзове списе }
+weapon_spear_fishSpear_name { Кривий бронзовий спис }
 
 weapon_spear_wolfToothSpear_name { Спис з вовчим іклом }
 
-weapon_spear_shortSpear_name { Коротке списе }
+weapon_spear_shortSpear_name { Короткий спис }
 
-weapon_spear_simpleBronzeSpear_name { Просте бронзове списе }
+weapon_spear_simpleBronzeSpear_name { Простий бронзовий спис }
 
-weapon_spear_huntingSpear_name { Викривлене списе для полювання }
+weapon_spear_huntingSpear_name { Викривлений мисливський спис }
 
 weapon_spear_ango_name { Анго }
 
@@ -340,7 +340,7 @@ weapon_spear_bronzeSpear_name { Залізне списе }
 
 weapon_spear_spear_name { Кабаняче списе }
 
-weapon_spear_deathRitualSpear_name { Іржаве списе }
+weapon_spear_deathRitualSpear_name { Іржавий спис }
 
 weapon_spear_partisan_name { Партизан }
 
@@ -348,9 +348,9 @@ weapon_spear_pilum_name { Пілюм }
 
 weapon_spear_wingSpear_name { Спис з крилами }
 
-weapon_spear_silverSpear_name { Тупе залізне списе }
+weapon_spear_silverSpear_name { Тупий залізний спис }
 
-weapon_spear_bloodBlade_name { Кровавий лезо }
+weapon_spear_bloodBlade_name { Криваве лезо }
 
 weapon_spear_tipOfDeath_name { Спис Червоної Змії }
 
@@ -426,15 +426,15 @@ item_stalkerfeather_name { Пір'я хижака }
 
 item_meat_stringy_name { Волокнисте м'ясо }
 
-item_flowPlant_0_name { Весняний корінь }
+item_flowPlant_0_name { Корінь Весноцвіту }
 
 item_flowPlant_0_description { Можна знайти біля старих споруд. }
 
-item_flowPlant_1_name { Весняний цвіт }
+item_flowPlant_1_name { Весноцвіт }
 
 item_flowPlant_1_description { Можна знайти біля старих споруд. }
 
-item_healthPlant_2_name { Життєвий цвіт }
+item_healthPlant_2_name { Життєцвіт  }
 
 item_potion_health_0_name { Зцілювальне зілля }
 
@@ -462,9 +462,9 @@ item_shadowmushroom_description { Зростає в темних місцях. }
 
 item_redmushroomtincture_name { Настоянка червоного гриба }
 
-item_beartrap_name { Ведмежі пастки }
+item_beartrap_name { Ведмежа пастка }
 
-item_beartrap_description { Слабить ціль на [TimeAbs] секунд та викликає сильне кровотечення. }
+item_beartrap_description { Послаблює ціль на [TimeAbs] секунд та викликає сильну кровотечу. }
 
 item_cavemushroom_name { Печерний гриб }
 
@@ -940,7 +940,7 @@ item_rustymosspipe_description { Розслаблює і допомагає за
 
 item_potion_windwalker_name { Еліксир блукаючого пера }
 
-item_potion_windwalker_description { Збільшує вашу швидкість руху на [MovePercent] на [TimeAbs] секунд. }
+item_potion_windwalker_description { Збільшує швидкість руху на [MovePercent] на [TimeAbs] секунд. }
 
 item_harpybrew_name { Гарпібрю }
 
@@ -1072,11 +1072,11 @@ item_bloodthirstamulet_description { Якщо ваш опонент має ак�
 
 item_berserkerring_name { Перстень Берсерка }
 
-item_berserkerring_description { Відновлює [HealValueAbsolut] здоров'я за кожного вбитого опонента. }
+item_berserkerring_description { Відновлює [HealValueAbsolut] одиниць здоров'я за кожного вбитого опонента. }
 
 item_berserkerring_2_name { Розкішний перстень Берсерка }
 
-item_berserkerring_2_description { Відновлює [HealValuePercent] здоров'я за кожного вбитого опонента. }
+item_berserkerring_2_description { Відновлює [HealValuePercent] одиниць здоров'я за кожного вбитого опонента. }
 
 item_sprigganheart_name { Сухе серце Спригги }
 
@@ -2004,7 +2004,7 @@ item_trinket_doriansHeirloom_name { Спадщина Доріана }
 
 item_trinket_doriansHeirloom_description { Зменшує отримувану шкоду від стійки і шкоду від фокусу на [PoiseValuePercent]. }
 
-weapon_axe_blaansoldsword_name { Старий Сокира Блаана }
+weapon_axe_blaansoldsword_name { Стара сокира Блаана }
 
 weapon_axe_blaansoldsword_description {  }
 

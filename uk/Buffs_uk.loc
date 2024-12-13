@@ -1,6 +1,6 @@
 SleepBuff { Відпочилий }
 
-SleepBuffDescription { Збільшує вашу швидкість руху на [MovementPercent]. }
+SleepBuffDescription { Збільшує швидкість руху на [MovementPercent]. }
 
 Poison { Отрута }
 

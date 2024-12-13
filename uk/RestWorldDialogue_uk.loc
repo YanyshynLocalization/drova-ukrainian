@@ -478,9 +478,9 @@ GoToWanderwesen_238 { ЗА АНАТОЛІ! }
 
 Morning_PostHoneyQuest_239 { Свіжий мед приїхав! }
 
-R_CarimaSpectateBlaanBlock_240 { Заблокуйте атаки Блана! }
+R_CarimaSpectateBlaanBlock_240 { Блокуй атаки Блаана! }
 
-R_CarimaSpectateBlaanTakeAttack_241 { Атакуйте Блана, поки не зламаєте його захист! }
+R_CarimaSpectateBlaanTakeAttack_241 { Атакуй Блаана, поки не зможете пробити його захист! }
 
 BlaanSpectateCarima_242 { Давай, роби комбо! }
 
