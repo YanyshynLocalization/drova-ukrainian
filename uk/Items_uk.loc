@@ -448,7 +448,7 @@ item_permapotion_mind_name { Еліксир Розуму }
 
 item_permapotion_skill_name { Еліксир Спритності }
 
-item_permaherb_strength_name { Базальтова корінь }
+item_permaherb_strength_name { Базальтовий корінь }
 
 item_permaherb_mind_name { Розвиваюча мозок рослина }
 
@@ -470,7 +470,7 @@ item_cavemushroom_name { Печерний гриб }
 
 item_cavemushroom_description { Зростає в темних місцях. }
 
-item_ruinherb_name { Руїнний квітка }
+item_ruinherb_name { Руїнна квітка }
 
 item_tarnishedSilverCup_name { Тьм'яна срібна чаша }
 
@@ -838,7 +838,7 @@ throwing_ensnare_description { Ви кидаєте мережу, яка імун
 
 item_permapotion_flow_name { Еліксир концентрації }
 
-item_permaherb_flow_name { Світиться Бас }
+item_permaherb_flow_name { Сяючий Бас }
 
 item_potion_flow_0_name { Еліксир концентрації }
 
@@ -1482,23 +1482,23 @@ item_ruinenlager_bandit_name { Хто кого нападає }
 
 speed_slow { Повільний }
 
-speed_medium { Середня Швидкість }
+speed_medium { Середня швидкість }
 
 speed_fast { Швидкий }
 
-speed_veryfast { Дуже Швидкий }
+speed_veryfast { Дуже швидкий }
 
-category_all { Усі Предмети }
+category_all { Усі предмети }
 
-category_armor { Броня, Шоломи та Аксесуари }
+category_armor { Броня, шоломи та аксесуари }
 
-category_weapons { Зброя, Щити та Боєприпаси }
+category_weapons { Зброя, щити та боєприпаси }
 
-category_consumables { Зілля, Лікування та Їжа }
+category_consumables { Зілля, лікування та їжа }
 
-item_ripper_head_huntTheRipper_name { Голова Лідера Різника }
+item_ripper_head_huntTheRipper_name { Голова ватажка Риперів }
 
-item_ripper_head_huntTheRipper_description { Цей різник більше не буде тероризувати околиці таверни Олафа. }
+item_ripper_head_huntTheRipper_description { Цей рипер більше не буде тероризувати околиці таверни Олафа. }
 
 item_letter_sick_siser_name { Запис Друїда }
 
@@ -1616,7 +1616,7 @@ helmet_cauldron_name_name { Казан }
 
 helmet_cauldron_name_description { Слідкуйте за своїми речами, поки ви їх несете. }
 
-helmet_leathercap_name_name { Капелюх з Шкіри }
+helmet_leathercap_name_name { Капелюх зі шкіри }
 
 helmet_leathercap_name_description { Виглядає стильно. Вам пасує. }
 
@@ -1854,13 +1854,13 @@ key_chest_BanditCamp_description { Великий ключ, який я віді
 
 item_chunnaic_diamond_name { Діамант Чуннайка }
 
-item_roastedMeat_t2_name { Соковите Смажене М'ясо }
+item_roastedMeat_t2_name { Соковите смажене м'ясо }
 
 item_roastedTrout_name { Смажена Форель }
 
 recipe_meat_cooked_name { Рецепт: Смажене М'ясо }
 
-recipe_meat_2_name { Рецепт: Соковите Смажене М'ясо }
+recipe_meat_2_name { Рецепт: Соковите смажене м'ясо }
 
 item_ring_god_name { Благословення Божественних }
 

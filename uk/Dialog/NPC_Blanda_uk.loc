@@ -30,7 +30,7 @@ Plh_10 { Добре, ось тобі. (віддає $GVAR:EVars_Blanda.PriceBed$
 
 Plh_11 { Я передумав. Ліжко мені не потрібно. }
 
-Plh_16 { Я віддам тобі ліжко за $GVAR:EVars_Blanda.HalfPriceBed$ монет. }
+Plh_16 { Я придбаю це за $GVAR:EVars_Blanda.HalfPriceBed$ монет. }
 
 Plh_13 { Що, платити? Але тут купа ліжок. }
 
