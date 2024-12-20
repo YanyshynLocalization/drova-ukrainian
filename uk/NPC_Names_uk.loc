@@ -570,7 +570,7 @@ Boar { Кабан }
 
 Fox { Лисиця }
 
-Stalker_Red { Червоний снептор }
+Stalker_Red { Снептор }
 
 Stalker_Blue { Синій снептор }
 
@@ -628,8 +628,12 @@ Draugr_Spear { Стародавній Боєць }
 
 Draugr_Mage { Стародавній Маг }
 
-Draugr_Axe { Стародавній Генерал }
+Draugr_Axe { Стародавній Берсеркер }
 
 Rat { Щур }
 
 Snake { Гадюка }
+
+Draugr_Axe_Legendary { Стародавній Генерал }
+
+Draugr_Dagger { Стародавній Убивця }

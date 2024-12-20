@@ -1208,7 +1208,7 @@ item_letterAuwaldDungeon_4_name { Спостереження за Павукам
 
 item_letterAuwaldDungeon_5_name { Один з Останніх Оживших }
 
-key_ShadyDistrict_name { Ключ до Темного Району }
+key_ShadyDistrict_name { Ключ до Темного кварталу }
 
 item_rustmoss_BadFromGera_name { Нарізаний Ржавий Мох }
 
@@ -1914,7 +1914,7 @@ flow_ricochet_description { Ви випускаєте снаряд, який з�
 
 recipe_flow_ricochet_name { Спосіб: Рикошет }
 
-flow_bruntShot_name { Імпульсний постріл }
+flow_bruntShot_name { Оглушливий постріл }
 
 flow_bruntShot_description { Ви випускаєте стрілу, яка завдає [WeaponDamagePercent] пошкоджень від зброї і паралізує супротивників на [StunTime] секунд. }
 
@@ -2057,3 +2057,9 @@ item_letterCelts_Spark_description { item_letterCelts_Spark_description }
 item_letter_library_soundRoom_note2_name { Резонансні Роги }
 
 item_letter_library_soundRoom_note2_description { item_letter_library_soundRoom_note2_description }
+
+weapon_dagger_draugr_name { Кинджали Драуґра }
+
+weapon_axe_draugr_name { Сокира Драуґра }
+
+weapon_bow_draugr_name { Лук Драуґра }

@@ -1,102 +1,107 @@
-director { Director }
+director { Режисер }
 
-game_design_lead { Game Design Lead }
+game_design_lead { Головний дизайнер гри }
 
-game_design { Game Design }
+game_design { Дизайн гри }
 
-additional_game_design { Additional Game Design }
+additional_game_design { Додатковий дизайн гри }
 
-programming_lead { Programming Lead }
+programming_lead { Головний програміст }
 
-programming { Programming }
+programming { Програмування }
 
-art_lead { Art Direction }
+art_lead { Артдиректор }
 
-art { Art }
+art { Арт }
 
-community { Community }
+community { Спільнота }
 
-sound_lead { Sound & Music }
+sound_lead { Звук і музика }
 
-organisation { Organisation }
+organisation { Організація }
 
-praktikanten { Interns }
+praktikanten { Стажери }
 
-freelancer { Externs }
+freelancer { Фрілансери }
 
-musik { Musik }
+musik { Музика }
 
-sound { Sound }
+sound { Звук }
 
-grafiken { Illustration }
+grafiken { Ілюстрація }
 
-autor { Autor }
+autor { Автор }
 
-testers { Testers }
+testers { Тестувальники }
 
-publisher { Publisher }
+publisher { Видавець }
 
 spotlight { Deck13 Spotlight }
 
-spotlight_interns { Interns }
+spotlight_interns { Стажери }
 
-spotlight_productionBaby { Production Baby }
+spotlight_productionBaby { Малюк у виробництві }
 
 spotlight_deck13 { Deck13 }
 
-spotlight_deck13_interns { Interns }
+spotlight_deck13_interns { Стажери }
 
-spotlight_deck13_memory { In memory of Felix Rischbieter }
+spotlight_deck13_memory { В пам'ять Феліксу Рішбітереру }
 
 pr_hound { PR Hound }
 
 bxdxo { BXDXO }
 
-headline_Localization { Localization }
+headline_Localization { Локалізація }
 
-loca_coordination { Coordination }
+loca_coordination { Координація }
 
-loca_english_lead { English Language Lead }
+loca_english_lead { Керівник англійської локалізації }
 
-loca_english_translators { English Translators }
+loca_english_translators { Перекладачі англійської мови }
 
-loca_english_proofreading { English Proofreading }
+loca_english_proofreading { Редагування англійської мови }
 
-loca_french_localization { French Localization }
+loca_french_localization { Французька локалізація }
 
-loca_french_translators { French Translators }
+loca_french_translators { Перекладачі французької мови }
 
-special_thank_Grounding { Special thanks for the support in setting up the studio }
+special_thank_Grounding { Особлива подяка за допомогу в створенні студії }
 
-specia_thank { Special thanks }
+specia_thank { Особлива подяка }
 
-tools { Tools }
+tools { Інструменти }
 
-voice { Voice }
+voice { Озвучення }
 
-thanks_family { We would like to thank our family, friends and partners. We would not have made it this far without you. }
+thanks_family { Ми дякуємо нашим родинам, друзям і партнерам. Без вас ми б не дійшли так далеко. }
 
-thanks_pb { Thank you Piranha Bytes for Gothic. A great game that has left its mark on us all. }
+thanks_pb { Дякуємо Piranha Bytes за Gothic. Чудова гра, яка залишила свій слід у наших серцях. }
 
-chris_wish { My darling Sarah, thank you for your support as I pursued my crazy dream. It wasn't always easy, but we made it!\nAnd rest in peace Grandma, I miss you. }
+chris_wish { Моїй коханій Сарі, дякую за підтримку в досягненні моєї божевільної мрії. Це було нелегко, але ми впоралися!\nІ спочивай з миром, бабусю, я сумую за тобою. }
 
-gecko { Gecko! Thanks for your help. The iron fist on our Discord. }
+gecko { Gecko! Дякую за твою допомогу. Залізний кулак нашого Discord. }
 
-bady { Here's to you Bady "Atilolzz"! Champion of the arena and loyal companion throughout Drova's development. You've been there since the beginning. }
+bady { Це для тебе, Bady "Atilolzz"! Чемпіон арени та вірний супутник протягом розробки Drova. Ти був з нами з самого початку. }
 
-entwicklerWG { Thanks to all the viewers who supported us on Twitch EntwicklerWG. You have regularly given us strength and motivated us to work on Drova. }
+entwicklerWG { Дякуємо всім глядачам, які підтримували нас на Twitch EntwicklerWG. Ви регулярно додавали нам сил і мотивували працювати над Drova. }
 
-lavapotion { Many thanks to the Lavapotion team, who gave us valuable help with the design of our world at the beginning of the project. }
+lavapotion { Щиро дякуємо команді Lavapotion, яка на початку проекту надала нам цінну допомогу у створенні світу. }
 
-tinyroar { Greetings and thanks to Tiny Roar for all the advice and the mediation of Fabio! }
+tinyroar { Вітання та подяка Tiny Roar за всі поради та посередництво Фабіо! }
 
-Acagamics { Many thanks to Acagamics, the student association at our university, who brought us together and motivated us to develop Drova through events and competitions. Without you, there would be no Drova! }
+Acagamics { Велика подяка Acagamics, студентському товариству нашого університету, яке об’єднало нас і мотивувало розробляти Drova через події та конкурси. Без вас не було б Drova! }
 
-finish_line { The last words are for you. Thank you. Thank you for playing Drova. }
+finish_line { Останні слова — для вас. Дякуємо. Дякуємо, що грали в Drova. }
 
-special_thanks_support { Special thanks for the support during development }
+special_thanks_support { Особлива подяка за підтримку під час розробки }
 
-johannes_wish { Thanks to you Lea, for your support and for having a wonderful friendship, even though I canceled the promised vacation three times because I was working on Drova. }
+johannes_wish { Дякую тобі, Лео, за підтримку та прекрасну дружбу, навіть попри те, що я тричі скасував обіцяну відпустку через роботу над Drova. }
 
-Fabio_wish { Thanks to the founders of Just2D - Chris, Johannes, Kai and Julian. With courage, dedication, transparency and structure you have managed to create a wholesome and safe work environment in which we could live the game development dream together. }
+Fabio_wish { Дякую засновникам Just2D — Крісу, Йоганнесу, Каю та Юліану. Завдяки сміливості, відданості, прозорості та структурі вам вдалося створити повноцінне та безпечне робоче середовище, у якому ми разом могли здійснювати мрію про розробку ігор. }
 
+Gratulation_Insane { Ви завершили гру в Неймовірному режимі, і це вдається дуже небагатьом.<br>Для нас найбільша похвала — це те, що ви вклали свій час і пристрасть у Drova.<br><br>Ми чекаємо на наступні пригоди разом із вами.<br><br>Команда Just2D }
+
+Gratulation_Hardcore { Одне життя — і ви чудово ним скористалися.<br>Завершити Drova без жодної помилки заслуговує на повагу.<br>Для нас найбільша похвала — це те, що ви вклали свій час і пристрасть у Drova.<br><br>Ми чекаємо на наступні пригоди разом із вами.<br><br>Команда Just2D }
+
+Gratulation_Both { Ви подолали найскладніший виклик у Drova!<br>Для нас найбільша похвала — це те, що ви вклали свій час і пристрасть у Drova.<br><br>Ми чекаємо на наступні пригоди разом із вами.<br><br>Команда Just2D }

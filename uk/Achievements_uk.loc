@@ -197,3 +197,7 @@ Achievement_HardcoreMode_desc { Завершіть Drova з увімкненим
 Achievement_ClassicMode_name { Класика }
 
 Achievement_ClassicMode_desc { Завершіть Drova в Класичному режимі. }
+
+Achievement_InsaneMode_name { Неймовірний }
+
+Achievement_InsaneMode_desc { Завершіть Drova в Неймовірному режимі. Не зараховується до базових досягнень. }

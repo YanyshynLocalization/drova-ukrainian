@@ -12,7 +12,7 @@ Woodcamp { Табір лісорубів }
 
 Remnants_Mine { Копальня Вцілілих }
 
-Remnants_MinerArea { Табір Вцілілих: Район теслярів }
+Remnants_MinerArea { Табір Вцілілих: квартал теслярів }
 
 Nemeton_Palisades_North { Наметон: Палісадова північна стіна }
 
@@ -22,7 +22,7 @@ Cave_RuinRaiders { Схованка Грабіжників Руїн }
 
 Tavern_Forest { Таверна "Безголовий Рипер" }
 
-Nemeton_WarriorsQuarter { Наметон: Район воїнів }
+Nemeton_WarriorsQuarter { Наметон: квартал воїнів }
 
 Remnants_Academy { Табір Вцілілих: Академія }
 
@@ -32,7 +32,7 @@ Remnants_Market { Табір Вцілілих: Ринок }
 
 MissingPerson { Зниклий }
 
-Remnants_UpperQuarter { Табір Вцілілих: Верхній район }
+Remnants_UpperQuarter { Табір Вцілілих: Верхній квартал }
 
 Remnants_Tavern { Таверна Бернольда }
 
@@ -40,11 +40,11 @@ Neutral_Refugee { Притулок }
 
 Nemeton_Kitchen { Наметон: Кухня }
 
-Remnants_LostQuater { Табір Вцілілих: Темний район }
+Remnants_LostQuater { Табір Вцілілих: Темний квартал }
 
 Nemeton_FrontCamp { Табір за межами Наметону }
 
-Nemeton_CraftingQuarter { Наметон: Район ремісників }
+Nemeton_CraftingQuarter { Наметон: квартал ремісників }
 
 Nemeton_Market { Наметон: Ринкова площа }
 
@@ -60,7 +60,7 @@ Remnants_Entry { Табір Вцілілих: Вхід }
 
 Remnants_Global { Табір Вцілілих }
 
-Nemeton_MarketAndCrafting { Наметон: Ринкова площа / Район ремісників }
+Nemeton_MarketAndCrafting { Наметон: Ринкова площа / квартал ремісників }
 
 Nemeton_Moor_South { Болото на південь від Наметону }
 
@@ -68,7 +68,7 @@ Nemeton_Garden { Наметон: Сад на сході }
 
 Neutral_Maw { Прірва }
 
-Nemeton_WarriorQuarter { Наметон: Район воїнів }
+Nemeton_WarriorQuarter { Наметон: квартал воїнів }
 
 Nemeton_SacredGrove { Наметон: Священний гай }
 
@@ -76,7 +76,7 @@ Neutral_River_WoodcampAndRemnants { Біля річки між табором Л
 
 Nemeton_AppleGrove { Яблуневий сад поблизу Наметону }
 
-Nemeton_BridgeToDruids { Наметон: Міст до району друїдів }
+Nemeton_BridgeToDruids { Наметон: Міст до кварталу друїдів }
 
 Neutral_FloodplainForest_Plateau_Ruins { Підземні руїни на пагорбі в лісі на заплаві }
 
