@@ -492,7 +492,7 @@ cons_flow_conflagration_description { Ви викликаєте вогняний
 
 cons_flow_wound_name { Рана }
 
-cons_flow_wound_description { Ви завдаєте [WeaponDamagePercent] пошкодження і викликаєте Кровотечу. }
+cons_flow_wound_description { Ви завдаєте [WeaponDamagePercent] одиниць пошкодження і викликаєте кровотечу. }
 
 key_harvey_name { Старий ключ }
 
@@ -712,7 +712,7 @@ cons_flow_infection_description { Ви завдаєте [WeaponDamagePercent] п
 
 cons_flow_bloodRage_name { Страта }
 
-cons_flow_bloodRage_description { Важка атака, що завдає [WeaponDamagePercent] пошкодження. Якщо ви вбиваєте ворога використовуючи Старту, ви повертаєте витрачені очки концентрації. }
+cons_flow_bloodRage_description { Важка атака, що завдає [WeaponDamagePercent] пошкодження. Якщо ви вбиваєте ворога використовуючи Страту, ви повертаєте витрачені очки концентрації. }
 
 item_rubin_name { Рубін }
 
@@ -898,7 +898,7 @@ item_blanktrap_description { Це використовується для виг
 
 item_splittertrap_name { Кластерна пастка }
 
-item_splittertrap_description { Активація викликає вибух, який завдає [DamageFlexAbs] пошкодження всім ворогам у зоні дії. Ігнорує броню ворога. }
+item_splittertrap_description { Активація викликає вибух, який завдає [DamageFlexAbs] одиниць пошкодження всім ворогам у зоні дії. Ігнорує броню ворога. }
 
 item_acidtrap_name { Кислотна пастка }
 
@@ -1150,9 +1150,9 @@ item_magicresring_0_name { Трікетра }
 
 item_magicresring_1_name { Світлова Трікетра }
 
-item_harpyiefeather_name { Перо Гарпії }
+item_harpyiefeather_name { Перо гарпії }
 
-item_harpyiefeather_description { Отримано від старих крилатих створінь у руїнах. }
+item_harpyiefeather_description { Отримано від старих крилатих створінь, котрі мешкають у руїнах. }
 
 item_hunterstrophy_name { Трофей Мисливця }
 
@@ -1180,7 +1180,7 @@ item_mumbertDiarrhoea_name { Прокисле Пиво }
 
 item_mumbertDiarrhoea_description { Від Хамберта для Асмуса }
 
-item_marinatedmeatleg_name { Маринована Ляшка Тіаа }
+item_marinatedmeatleg_name { Маринована гомілка Тії }
 
 item_letterCityDungeon_0_name { Неспокій у Дрові IV }
 
@@ -1210,9 +1210,9 @@ item_letterAuwaldDungeon_5_name { Один з Останніх Оживших }
 
 key_ShadyDistrict_name { Ключ до Темного кварталу }
 
-item_rustmoss_BadFromGera_name { Нарізаний Ржавий Мох }
+item_rustmoss_BadFromGera_name { Нарізаний Іржавий Мох }
 
-item_rustmoss_BadFromGera_description { Гера хоче, щоб я "втратила" цей ржавий мох у постачанні Лейни. }
+item_rustmoss_BadFromGera_description { Гера хоче, щоб я "втратила" цей іржавий мох у постачанні Лейни. }
 
 item_kiepe_rubble_name { Панчоша }
 
@@ -1246,7 +1246,7 @@ item_karottegladius_broken_name { Пошкоджена Зброя Каротте
 
 item_karottegladius_broken_description { Чуннайк має змогу відремонтувати цю зброю. }
 
-item_letterboard_fragment_name { Фрагмент Таблиці }
+item_letterboard_fragment_name { Фрагмент таблиці }
 
 item_atlanter_coin_name { Стародавні Монети }
 
@@ -1268,7 +1268,7 @@ item_atlanter_wine_name { Вино Древніх }
 
 item_atlanter_wine_description { Рік випуску: Невідомо. }
 
-item_herb_past_name { Лікувальні Трави Древніх }
+item_herb_past_name { Лікувальні трави древніх }
 
 item_herb_past_description { Давні, але вони все ще мають деякі лікувальні властивості. }
 
@@ -1388,7 +1388,7 @@ recipe_golemsalve_name { Рецепт: Омінт Голеґа }
 
 recipe_harpybrew_name { Рецепт: Харпібрю }
 
-recipe_healingsalve_name { Рецепт: Лікувальна Мазь }
+recipe_healingsalve_name { Рецепт: Лікувальна мазь }
 
 recipe_healingsalve_2_name { Рецепт: Настоянка Червоного Грибка }
 
@@ -1810,7 +1810,7 @@ item_blackboard_Butterflies_name { Оголошення: Допомогти Га
 
 item_letterAtlanter_Arrival_name { Прибуття Стародавніх }
 
-category_keysAndQuestItems { Ключі та Квестові Предмети }
+category_keysAndQuestItems { Ключі та квестові предмети }
 
 weapon_sword_draugrIronBlade_name { Меч Драугра }
 
@@ -1848,7 +1848,7 @@ recipe_foodpile_strong_name { Рецепт: Стрибучий Бас }
 
 letter_leru_hint03_name { Третій малюнок сну Лортіза }
 
-key_chest_BanditCamp_name { Важкий Ключ }
+key_chest_BanditCamp_name { Важкий ключ }
 
 key_chest_BanditCamp_description { Великий ключ, який я відібрав у банди. }
 
@@ -1880,19 +1880,19 @@ item_letter_foresttavern_chapter1_name { Полювання на Риппера 
 
 item_letter_foresttavern_chapter3_name { Полювання на Риппера 2 }
 
-category_traps { Використовувані Предмети }
+category_traps { Використовувані предмети }
 
 item_MeriksBusiness_name { Лист до Меріка }
 
-item_KendrickThreat_name { Загрозливий Лист }
+item_KendrickThreat_name { Лист з погрозами }
 
-item_KendrickHideout_name { Схований Лист }
+item_KendrickHideout_name { Схований лист }
 
 item_KendrickGoodsBook_name { Книга Вантажу }
 
-category_crafting { Матеріали для Крафту }
+category_crafting { Матеріали для крафту }
 
-category_saleitems { Різне, Товари на Продаж, Сміття }
+category_saleitems { Різне, товари на продаж, непотріб }
 
 item_letterAtlanter_Shrines_name { Святилища Стародавніх }
 
