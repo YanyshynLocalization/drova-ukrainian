@@ -120,7 +120,7 @@ item_earthroot_description { Росте біля річок у лісі Плав
 
 item_wine_name { Вино }
 
-note_mineInformation_name { Шукаємо гірників }
+note_mineInformation_name { Шукаємо Гірників }
 
 item_entryMine_name { Нотатка від Левіна }
 
@@ -470,7 +470,7 @@ item_cavemushroom_name { Печерний гриб }
 
 item_cavemushroom_description { Зростає в темних місцях. }
 
-item_ruinherb_name { Руїнна квітка }
+item_ruinherb_name { Квітка Руїн }
 
 item_tarnishedSilverCup_name { Тьм'яна срібна чаша }
 
@@ -664,9 +664,9 @@ key_tristanBillKey_name { Ключ від Верхньої таверни }
 
 key_tristanBillKey_description { Ключ від дверей на верхній поверх в таверні Олафа. }
 
-key_ruinenexplorer_name { Ключ від Руїнних Рейдерів }
+key_ruinenexplorer_name { Ключ від Рейдерів Руїн }
 
-key_ruinenexplorer_description { Відчиняє двері до Руїнних Рейдерів. }
+key_ruinenexplorer_description { Відчиняє двері до Рейдерів Руїн. }
 
 cons_Familiar_Firefly_description { Моя іскристий маленький Спарк. Слідує за мною куди б я не йшов. }
 
@@ -780,7 +780,7 @@ cons_flow_root_aoe_description { Ви викликаєте корені, що з
 
 item_escortLetter_name { Повідомлення: Ескортування до табору Вцілілих }
 
-item_blackboard_woodcamp_name { Повідомлення: Лісовий табір лісорубів }
+item_blackboard_woodcamp_name { Повідомлення: табір Лісорубів }
 
 cons_flow_flowForm_name { Образ потоку }
 
@@ -1016,7 +1016,7 @@ armor_chest_tunic_name_description { Робочий одяг. Не дає баг
 
 helmet_antlers_name_name { Шолом Стада }
 
-helmet_draugr_silver_name_name { Шолом Руйнівника }
+helmet_draugr_silver_name_name { Шолом Стародавнього }
 
 helmet_earprotection_name_name { Захист для вух }
 
@@ -1780,7 +1780,7 @@ item_letterAtlanter_Stars_name { Що Написано на Зірках? }
 
 item_letterAtlanter_ThirdDownfall_name { Падіння Третьої Божественності }
 
-item_letterAtlanter_ToTheRuinRaiders_name { До Руїнних Завойовників }
+item_letterAtlanter_ToTheRuinRaiders_name { До Рейдерів Руїн }
 
 item_letterAtlanter_WhereIsDrivanius_name { Де Дріваній? I }
 
@@ -1800,9 +1800,9 @@ item_letterCelts_Nemeton_name { Заснування Неметону }
 
 item_letterCelts_Roarke_name { Дивні Ідеї Роарка }
 
-item_letterCelts_SafeHaven_name { Мета Убежища }
+item_letterCelts_SafeHaven_name { Мета Притулку }
 
-item_letterCelts_Treason_name { Мета Убежища }
+item_letterCelts_Treason_name { Мета Притулку }
 
 item_HiddenTreasure_name { Сховане Скарб }
 

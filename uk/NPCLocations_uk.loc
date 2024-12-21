@@ -8,19 +8,19 @@ Nemeton_Gate_North { Наметон: Північні ворота }
 
 Nemeton_Dormitory { Східна частина Наметону }
 
-Woodcamp { Табір лісорубів }
+Woodcamp { Табір Лісорубів }
 
 Remnants_Mine { Копальня Вцілілих }
 
-Remnants_MinerArea { Табір Вцілілих: квартал теслярів }
+Remnants_MinerArea { Табір Вцілілих: квартал Гірників }
 
 Nemeton_Palisades_North { Наметон: Палісадова північна стіна }
 
 Neutral_SilverMine { Срібна копальня біля русла річки }
 
-Cave_RuinRaiders { Схованка Грабіжників Руїн }
+Cave_RuinRaiders { Схованка Рейдерів Руїн }
 
-Tavern_Forest { Таверна "Безголовий Рипер" }
+Tavern_Forest { Таверна "Безголовий розбійник" }
 
 Nemeton_WarriorsQuarter { Наметон: квартал воїнів }
 
@@ -84,7 +84,7 @@ Nemeton_Gate_South { Наметон: Південні ворота }
 
 Neutral_ForestPrimeval_Border { Первісний ліс: Край }
 
-Neutral_Cave_Woodcamp_South { Біля лісорубного табору }
+Neutral_Cave_Woodcamp_South { Біля табору Лісорубів }
 
 Dead { Мертвий }
 

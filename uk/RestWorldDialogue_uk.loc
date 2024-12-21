@@ -504,7 +504,7 @@ R_NialaRunToWoodcamp_251 { Поспішай! }
 
 R_AgiloGoToJola_252 { $GVAR:EVars_Player.Name$ надіслав мене. }
 
-R_AgiloGoToJola_253 { Ви все ще шукаєте Ковальських, я чую? }
+R_AgiloGoToJola_253 { Ви все ще шукаєте Гірників, я чую? }
 
 R_AgiloGoToJola_254 { Чуєш правильно. Звітуючи Левіну. }
 

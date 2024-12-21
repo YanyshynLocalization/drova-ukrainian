@@ -1,4 +1,4 @@
-Woodcamp { Лісоруб }
+Woodcamp { табір Лісорубів }
 
 Schlund { Прірва }
 
@@ -36,9 +36,9 @@ Leuchtwald { Первісний ліс }
 
 Mutter { Мати }
 
-Magiecamp { Убежище }
+Magiecamp { Притулок }
 
-RedTower { Червона вежа }
+RedTower { Червона Вежа }
 
 Library { Бібліотека }
 
@@ -48,7 +48,7 @@ SpiderDungeon { Кіл в лісовій низині }
 
 Cave { Печера }
 
-RuinExplorer { Схованка Руїнних Рейдерів }
+RuinExplorer { Схованка Рейдерів Руїн }
 
 RuinSchmuggler { Темний квартал }
 
