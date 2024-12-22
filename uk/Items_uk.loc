@@ -462,7 +462,7 @@ item_shadowmushroom_description { Зростає в темних місцях. }
 
 item_redmushroomtincture_name { Настоянка червоного гриба }
 
-item_beartrap_name { Ведмежа пастка }
+item_beartrap_name { Ведмежий капкан }
 
 item_beartrap_description { Послаблює ціль на [TimeAbs] секунд та викликає сильну кровотечу. }
 
@@ -546,11 +546,11 @@ tool_pickaxe_improvisedpickaxebroken_name { Зруйнований лом }
 
 tool_pickaxe_improvisedpickaxebroken_description { Чорт! Якусь лимонну кирку продав мені Мерік? }
 
-throwing_knife_name { Кидальний ніж }
+throwing_knife_name { Метальний ніж }
 
 throwing_knife_description { Ви кидаєте ніж, що завдає [DamageFlexAbs] пошкодження. Ігнорує броню цілі. }
 
-item_lyra_description { Говорить на мові, яку розуміє кожен. }
+item_lyra_description { Говорить мовою, яку розуміє кожен. }
 
 tool_torch_name { Факел }
 
@@ -604,7 +604,7 @@ cons_Familiar_Firefly_name { Іскорка }
 
 key_tavernKey_name { Ключ від таверни }
 
-key_tavernKey_description { Ключ до заднього виходу з таверни. }
+key_tavernKey_description { Ключ від заднього виходу таверни "Безголовий розбійник". }
 
 weapon_bow_atlanterBow_name { Посланець Богів }
 
@@ -664,9 +664,9 @@ key_tristanBillKey_name { Ключ від Верхньої таверни }
 
 key_tristanBillKey_description { Ключ від дверей на верхній поверх в таверні Олафа. }
 
-key_ruinenexplorer_name { Ключ від Рейдерів Руїн }
+key_ruinenexplorer_name { Ключ від дверей до табору Рейдерів Руїн }
 
-key_ruinenexplorer_description { Відчиняє двері до Рейдерів Руїн. }
+key_ruinenexplorer_description { Відчиняє двері, що ведуть до табору Рейдерів Руїн. }
 
 cons_Familiar_Firefly_description { Моя іскристий маленький Спарк. Слідує за мною куди б я не йшов. }
 
@@ -832,9 +832,9 @@ item_crowtrap_name { Пташині лапки }
 
 item_crowtrap_description { При активації накладає на ворогів кровотечу і знижує їхню швидкість руху. }
 
-throwing_ensnare_name { Кидок-мережа }
+throwing_ensnare_name { Накидна сітка }
 
-throwing_ensnare_description { Ви кидаєте мережу, яка імунізує ворогів на [TimeAbs] секунд. }
+throwing_ensnare_description { Ви кидаєте сітку, яка знерухомлює ворогів на [TimeAbs] секунд. }
 
 item_permapotion_flow_name { Еліксир концентрації }
 
@@ -854,7 +854,7 @@ item_rootTrap_description { При активації імунізує всіх 
 
 item_poisonedThrowingKnife_name { Отруєний кинджал }
 
-item_poisonedThrowingKnife_description { Ви кидаєте кинджал, який завдає [DamageFlexAbs] пошкодження і отруту. Ігнорує броню ворога. }
+item_poisonedThrowingKnife_description { Ви кидаєте кинджал, який завдає [DamageFlexAbs] пошкодження та отруює ворога. Ігнорує броню ворога. }
 
 item_thornyRanke_name { Колючі ліани }
 
@@ -910,7 +910,7 @@ item_jaggedthrowingknife_description { Ви кидаєте ніж, який за
 
 item_acidbomb_name { Кислотна бомба }
 
-item_acidbomb_description { Ви кидаєте бомбу, яка вибухає, утворюючи отруйне хмара, що сповільнює всіх ворогів у зоні дії. }
+item_acidbomb_description { При вибусі бомби, утворюється отруйна хмара, котра сповільнює всіх ворогів у зоні дії. }
 
 item_bogwheat_name { Мурова пшениця }
 
@@ -1350,7 +1350,7 @@ recipe_aditroast_name { Рецепт: Печеня з Печери }
 
 recipe_agilostew_name { Рецепт: Дивне Стю з Агило }
 
-recipe_beartrap_name { Рецепт: Ведмежа Ловушка }
+recipe_beartrap_name { Рецепт: Ведмежа пастка }
 
 recipe_bellow_name { Рецепт: Повітряний Насос }
 
@@ -1472,7 +1472,7 @@ recipe_whispersilkbag_name { Рецепт: Мішок з Шепотливої Ш
 
 recipe_woodenarrow_name { Рецепт: Дерев'яна Стріла }
 
-ring_tuz_name_name { Брудне Кільце }
+ring_tuz_name_name { Брудне кільце }
 
 ring_tuz_name_description { Воно смердить. Я знайшов його на Пустирі. }
 
@@ -1648,7 +1648,7 @@ helmet_barbarian_name_name { Шолом Варвара }
 
 helmet_barbarian_name_description { Шолом для варвара. Літера "C" вигравірувана всередині. }
 
-helmet_mask_sheep_name_name { Маска Вівці }
+helmet_mask_sheep_name_name { Маска вівці }
 
 helmet_mask_sheep_name_description { Бе-е-е! }
 
@@ -2030,11 +2030,11 @@ item_letterAtlanter_Excalibur_name { Меч у Камені }
 
 item_letterAtlanter_Excalibur_description {  }
 
-item_KendrickSagar_name { Зім'ята Листівка }
+item_KendrickSagar_name { Зім'ята листівка }
 
 item_KendrickSagar_description {  }
 
-recipe_throwingknife_name { Рецепт: Кидальний Ніж }
+recipe_throwingknife_name { Рецепт: Метальний ніж }
 
 item_letterAtlanter_Extractor2_description {  }
 
@@ -2042,7 +2042,7 @@ item_letterAtlanter_Armor_name { Броня Стародавніх }
 
 item_letterAtlanter_Armor_description {  }
 
-item_potion_respec_name { Еліксир Забуття }
+item_potion_respec_name { Еліксир забуття }
 
 item_potion_respec_description { Напій, що містить сильний алкоголь. Кажуть, що той, хто вип'є цей еліксир, не згадає, що робив це після того. <br>(Скидає таланти, здобуті за допомогою очок навчання) }
 
