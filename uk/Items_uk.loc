@@ -894,7 +894,7 @@ item_bellow_description { Продавай! Монети! Монети! Моне
 
 item_blanktrap_name { Формочка для пасток }
 
-item_blanktrap_description { Це використовується для виготовлення пасток. }
+item_blanktrap_description { Використовується для виготовлення пасток. }
 
 item_splittertrap_name { Кластерна пастка }
 
@@ -1014,7 +1014,7 @@ armor_chest_tunic_name_name { Робочий одяг }
 
 armor_chest_tunic_name_description { Робочий одяг. Не дає багато захисту, але краще, ніж нічого. }
 
-helmet_antlers_name_name { Шолом Стада }
+helmet_antlers_name_name { Шолом оленя }
 
 helmet_draugr_silver_name_name { Шолом Стародавнього }
 
@@ -1570,21 +1570,21 @@ letter_leru_hint02_name { Другий Малюнок Сну Лортіза }
 
 armor_chest_nemeton_social_name_name { Одяг Неметону }
 
-armor_chest_tunic_ragged_2_name { Руйнована Броня }
+armor_chest_tunic_ragged_2_name { Зіпсована броня }
 
-armor_chest_tunic_ragged_2_description { Це може служити як броня тут, якщо більше нічого не знайти. }
+armor_chest_tunic_ragged_2_description { Можна вважати за броню, якщо іншої зовсім немає. }
 
-armor_chest_tunic_noble_name_name { Вишуканий Одяг }
+armor_chest_tunic_noble_name_name { Вишуканий одяг }
 
-armor_chest_tunic_noble_name_description { Другого шансу зробити перше враження не буде. Я виглядаю досить гостро в цьому. }
+armor_chest_tunic_noble_name_description { Другого  шансу справити перше враження не буде. Я виглядаю досить круто в цьому. }
 
-armor_chest_bandit_T1_name { Легка Броня Бандитів }
+armor_chest_bandit_T1_name { Легка броня бандитів }
 
-armor_chest_bandit_T2_name { Середня Броня Бандитів }
+armor_chest_bandit_T2_name { Середня броня бандитів }
 
 armor_chest_bandit_T2_description { Служить більше як засіб для залякування, а не для захисту. }
 
-armor_chest_bandit_T4_name { Важка Броня Бандитів }
+armor_chest_bandit_T4_name { Важка броня бандитів }
 
 armor_chest_bandit_T4_description { Символ статусу і захист в одному зручному пакеті. }
 
@@ -1604,13 +1604,13 @@ helmet_mask_rational_name_name { Маска Проникливості }
 
 helmet_mask_rational_name_description { Тільки ті, хто мислять критично і аналітично, оцінять цінність цієї маски. }
 
-helmet_nemeton_guard1_name_name { Легка Броня Неметону }
+helmet_nemeton_guard1_name_name { Легка броня Неметону }
 
-helmet_nemeton_guard2_name_name { Важка Броня Неметону }
+helmet_nemeton_guard2_name_name { Важка броня Неметону }
 
-helmet_ruinenlager_guard1_name_name { Простий Шолом Вцілілих }
+helmet_ruinenlager_guard1_name_name { Простий шолом Вцілілих }
 
-helmet_ruinenlager_guard2_name_name { Важкий Шолом Вцілілих }
+helmet_ruinenlager_guard2_name_name { Важкий шолом Вцілілих }
 
 helmet_cauldron_name_name { Казан }
 
@@ -1926,7 +1926,7 @@ flow_poisonArrow_description { Ви випускаєте стрілу, яка з
 
 recipe_flow_poisonArrow_name { Спосіб: Отруєна Стріла }
 
-key_tavernKey_Cellar_name { Ключ від Підвалу }
+key_tavernKey_Cellar_name { Ключ від підвалу }
 
 key_tavernKey_Cellar_description { Ключ від підвалу таверни в таборі Вцілілих. }
 
