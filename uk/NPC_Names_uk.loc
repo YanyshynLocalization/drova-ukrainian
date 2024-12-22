@@ -560,7 +560,7 @@ Sprigga_Young { Молода Спригга }
 
 Diggerpig { Кабан-копач }
 
-Ripper_Hungry { Голодний ріпер }
+Ripper_Hungry { Голодний рипер }
 
 Ripper { Рипер }
 
@@ -594,7 +594,7 @@ Snapper_Weak { Павук-мисливець }
 
 Spitter_Weak { Отруйний ткач }
 
-Ripper_Shadow { Тіньовий ріпер }
+Ripper_Shadow { Тіньовий рипер }
 
 Boar_Luminous { Світящийся кабан }
 

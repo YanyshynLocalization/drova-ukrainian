@@ -312,7 +312,7 @@ item_boartusk_name { Ікло кабана }
 
 weapon_sword_shortSword_name { Бронзовий короткий меч }
 
-weapon_sword_gladius_name { Глдіус }
+weapon_sword_gladius_name { Гладіус }
 
 weapon_spear_woodenSpear_name { Старий спис }
 
@@ -1124,17 +1124,17 @@ item_spiritamulet_0_name { Амулет Духа }
 
 item_spiritamulet_1_name { Амулет Посиленного Духа }
 
-item_silverringstrength_0_name { Перстень Насильства }
+item_silverringstrength_0_name { Перстень насильства }
 
-item_silverringstrength_1_name { Великий Перстень Насильства }
+item_silverringstrength_1_name { Великий перстень насильства }
 
 item_silverringstrength_2_name { Перстень з вузлом Дари }
 
-item_silberringskill_0_name { Срібний Перстень Бандита }
+item_silberringskill_0_name { Срібний перстень бандита }
 
-item_silberringskill_1_name { Срібний Перстень Вбивці }
+item_silberringskill_1_name { Срібний перстень вбивці }
 
-item_silberringskill_2_name { Срібний Перстень Найманого Вбивці }
+item_silberringskill_2_name { Срібний перстень найманого вбивці }
 
 item_silberringmind_0_name { Перстень Спритних }
 
