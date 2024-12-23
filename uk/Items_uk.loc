@@ -1058,7 +1058,7 @@ item_vipertooth_name { Зуб змії }
 
 item_vipertooth_description { Сповільнює отруєння ще на [SlowPercent]. }
 
-item_mastersmemory_name { Пояс Майстра }
+item_mastersmemory_name { Пояс майстра }
 
 item_mastersmemory_description { Останній удар комбінації мечем або сокирою завдає [DamageValuePercent] більше пошкоджень і генерує [FocusValuePercent] більше фокусу. }
 
@@ -1070,11 +1070,11 @@ item_bloodthirstamulet_name { Амулет Кровожерливості }
 
 item_bloodthirstamulet_description { Якщо ваш опонент має активну кровотечу, ваші ближні атаки мають [TriggerPercent] шанс відновити [TriggerChance] здоров'я. }
 
-item_berserkerring_name { Перстень Берсерка }
+item_berserkerring_name { Перстень берсерка }
 
 item_berserkerring_description { Відновлює [HealValueAbsolut] одиниць здоров'я за кожного вбитого опонента. }
 
-item_berserkerring_2_name { Розкішний перстень Берсерка }
+item_berserkerring_2_name { Розкішний перстень берсерка }
 
 item_berserkerring_2_description { Відновлює [HealValuePercent] одиниць здоров'я за кожного вбитого опонента. }
 
@@ -1342,13 +1342,14 @@ recipe_flow_whirlingEnergy_name { Заклинання: Вихор Енергі�
 
 recipe_flow_wound_name { Здібність: Рана }
 
-recipe_acidbomb_name { Рецепт: Кислотна Бомба }
+recipe_acidbomb_name { Рецепт: Кислотна бомба }
 
-recipe_acidtrap_name { Рецепт: Кислотна Ловушка }
+recipe_acidtrap_name { Рецепт: Кислотна пастка }
 
-recipe_aditroast_name { Рецепт: Печеня з Печери }
+recipe_aditroast_name { Рецепт: Печерне рагу }
 
-recipe_agilostew_name { Рецепт: Дивне Стю з Агило }
+recipe_agilostew_name { Рецепт: Дивне рагу 
+Агило }
 
 recipe_beartrap_name { Рецепт: Ведмежа пастка }
 
@@ -1356,11 +1357,11 @@ recipe_bellow_name { Рецепт: Повітряний Насос }
 
 recipe_bigquiver_name { Рецепт: Великий сагайдак }
 
-recipe_blanktrap_name { Рецепт: Ловушка-Форма }
+recipe_blanktrap_name { Рецепт: Формочка для пасток }
 
-recipe_bomb_name { Рецепт: Кластерна Бомба }
+recipe_bomb_name { Рецепт: Кластерна бомба }
 
-recipe_crowfeettrap_name { Рецепт: Пастка для Ворон }
+recipe_crowfeettrap_name { Рецепт: Пташині лапки }
 
 recipe_elixier_concentration_name { Рецепт: Еліксир Концентрації }
 
@@ -1382,7 +1383,7 @@ recipe_flowpotion_1_name { Рецепт: Потужний Еліксир Кон�
 
 recipe_fogstew_name { Рецепт: Похмуре Стю }
 
-recipe_foodpile_name { Рецепт: Омлет з Риби }
+recipe_foodpile_name { Рецепт: Рибний омлет }
 
 recipe_golemsalve_name { Рецепт: Омінт Голеґа }
 
@@ -1394,19 +1395,19 @@ recipe_healingsalve_2_name { Рецепт: Настоянка Червоного
 
 recipe_healingsalve_3_name { Рецепт: Темне Вариво }
 
-recipe_honeybeer_name { Рецепт: Медовий Пиво }
+recipe_honeybeer_name { Рецепт: Медовуха }
 
 recipe_hunterstrophy_name { Рецепт: Трофей Мисливця }
 
-recipe_ironarrow_name { Рецепт: Залізні Стріли }
+recipe_ironarrow_name { Рецепт: Залізні стріли }
 
-recipe_ironbar_name { Рецепт: Залізний Брусок }
+recipe_ironbar_name { Рецепт: Злиток заліза }
 
-recipe_ironlump_name { Рецепт: Залізний Кусок }
+recipe_ironlump_name { Рецепт: Шматок заліза }
 
-recipe_ironstone_name { Рецепт: Залізні Кулі }
+recipe_ironstone_name { Рецепт: Залізні кулі }
 
-recipe_jaggedthrowingknife_name { Рецепт: Загострений Ритуальний Ніж }
+recipe_jaggedthrowingknife_name { Рецепт: Загострений ритуальний ніж }
 
 recipe_leather_name { Рецепт: Шкіра }
 
@@ -1418,7 +1419,7 @@ recipe_mediumquiver_name { Рецепт: Середній сагайдак }
 
 recipe_mudmash_name { Рецепт: М'ясне Стю Олафа }
 
-recipe_poisonedthrowingknife_name { Рецепт: Отруєний Метальний Ніж }
+recipe_poisonedthrowingknife_name { Рецепт: Отруєний метальний ніж }
 
 recipe_potion_health_0_name { Рецепт: Лікувальна Рідина }
 
@@ -1434,43 +1435,43 @@ recipe_roastofthepast_name { Рецепт: Печеня Старовини }
 
 recipe_rootstew_name { Рецепт: Туманне Стю }
 
-recipe_rustymosspipe_name { Рецепт: Іржавий Мох }
+recipe_rustymosspipe_name { Рецепт: Іржавий мох }
 
 recipe_silberringmind_0_name { Рецепт: Кільце Духів }
 
-recipe_silberringmind_1_name { Рецепт: Тонке Кільце Духів }
+recipe_silberringmind_1_name { Рецепт: Тонке кільце Духів }
 
-recipe_silberringskill_0_name { Рецепт: Срібне Кільце Бандита }
+recipe_silberringskill_0_name { Рецепт: Срібний перстень бандита }
 
-recipe_silberringskill_1_name { Рецепт: Срібне Кільце Вбивці }
+recipe_silberringskill_1_name { Рецепт: Срібний перстень вбивці }
 
-recipe_silverarrow_name { Рецепт: Срібні Стріли }
+recipe_silverarrow_name { Рецепт: Срібні стріли }
 
-recipe_silverlump_name { Рецепт: Срібний Кусок }
+recipe_silverlump_name { Рецепт: Шматок срібла }
 
-recipe_silverringstrength_0_name { Рецепт: Кільце Насильства }
+recipe_silverringstrength_0_name { Рецепт: Кільце насильства }
 
-recipe_silverringstrength_1_name { Рецепт: Велике Кільце Насильства }
+recipe_silverringstrength_1_name { Рецепт: Велике Кільце насильства }
 
-recipe_silverstone_name { Рецепт: Срібні Кулі }
+recipe_silverstone_name { Рецепт: Срібні кулі }
 
-recipe_smashironbar_name { Рецепт: Залізний Кусок }
+recipe_smashironbar_name { Рецепт: Злиток заліза }
 
 recipe_spiritamulet_0_name { Рецепт: Амулет Духу }
 
 recipe_spiritamulet_1_name { Рецепт: Амулет Покращеного Духу }
 
-recipe_splittertrap_name { Рецепт: Кластерна Ловушка }
+recipe_splittertrap_name { Рецепт: Кластерна пастка  }
 
-recipe_thronyvine_name { Рецепт: Колючі Ліани }
+recipe_thronyvine_name { Рецепт: Колючі ліани }
 
-recipe_thrownet_name { Рецепт: Мережа для Лову }
+recipe_thrownet_name { Рецепт: Накидна сітка }
 
-recipe_troutskewersbombus_name { Рецепт: Смертельні Шашлики від Бомбаса }
+recipe_troutskewersbombus_name { Рецепт: Смертельні шашлики від Бомбаса }
 
 recipe_whispersilkbag_name { Рецепт: Мішок з Шепотливої Шовку }
 
-recipe_woodenarrow_name { Рецепт: Дерев'яна Стріла }
+recipe_woodenarrow_name { Рецепт: Дерев'яна стріла }
 
 ring_tuz_name_name { Брудне кільце }
 
@@ -1624,27 +1625,27 @@ helmet_gladiator_name_name { Шолом Гладіаторів }
 
 helmet_gladiator_name_description { Ви можете спостерігати за своїми майбутніми жертвами через вузьку щілину. }
 
-helmet_blindfold_dark_name_name { Темна Пов'язка на Очі }
+helmet_blindfold_dark_name_name { Темна пов'язка на очі }
 
 helmet_blindfold_dark_name_description { Ви все одно можете бачити все через вузьку щілину. І виглядатимете значно більш таємничо! }
 
-helmet_blindfold_light_name_name { Яскрава Пов'язка на Очі }
+helmet_blindfold_light_name_name { Яскрава пов'язка на очі }
 
 helmet_atlanter_name_name { Шолом Стародавніх }
 
 helmet_atlanter_name_description { Древній шолом, ймовірно, не носився вже століттями. }
 
-helmet_straw_name_name { Солом'яний Капелюх }
+helmet_straw_name_name { Солом'яний капелюх }
 
 helmet_straw_name_description { Цей солом'яний капелюх все ще виглядає досить гостро, хоча його часто ремонтували. Хтось дуже добре за ним доглядав. }
 
-helmet_hood_bandit_name_name { Каптур Бандитів }
+helmet_hood_bandit_name_name { Каптур бандитів }
 
 helmet_hood_bandit_name_description { Ховає ваше обличчя і ваші наміри. }
 
 helmet_hood_bandit_t4_name_name { Важкий Каптур Бандитів }
 
-helmet_barbarian_name_name { Шолом Варвара }
+helmet_barbarian_name_name { Шолом варвара }
 
 helmet_barbarian_name_description { Шолом для варвара. Літера "C" вигравірувана всередині. }
 
@@ -1652,7 +1653,7 @@ helmet_mask_sheep_name_name { Маска вівці }
 
 helmet_mask_sheep_name_description { Бе-е-е! }
 
-helmet_onion_name_name { Шолом Цибулини }
+helmet_onion_name_name { Шолом цибулини }
 
 helmet_onion_name_description { Шолом з характерною формою. }
 
@@ -1660,7 +1661,7 @@ helmet_mask_vodoo_name_name { Маска Вуду }
 
 helmet_mask_vodoo_name_description { Кажуть, що ця маска має магічні сили. }
 
-helmet_mask_frog_name_name { Маска Жаби }
+helmet_mask_frog_name_name { Маска жаби }
 
 helmet_mask_frog_name_description { Ква-ква! }
 
@@ -1692,7 +1693,7 @@ note_naughty_female_description { Малюнок красивої оголено
 
 misc_map_nemeton_name { Мапа Неметону }
 
-misc_map_ruincamp_name { Мапа Лагеру Вцілілих }
+misc_map_ruincamp_name { Мапа табору Вцілілих }
 
 misc_map_leuchtwald_name { Мапа Лісу Древніх }
 
@@ -1840,7 +1841,7 @@ item_fish_trout_name { Форель }
 
 item_fish_trout_description { Сира риба. Непридатна для споживання. }
 
-item_fish_dead_name { Мертва Риба }
+item_fish_dead_name { Мертва риба }
 
 item_fish_dead_description { Сира риба. Непридатна для споживання. }
 
@@ -1856,9 +1857,9 @@ item_chunnaic_diamond_name { Діамант Чуннайка }
 
 item_roastedMeat_t2_name { Соковите смажене м'ясо }
 
-item_roastedTrout_name { Смажена Форель }
+item_roastedTrout_name { Смажена форель }
 
-recipe_meat_cooked_name { Рецепт: Смажене М'ясо }
+recipe_meat_cooked_name { Рецепт: Смажене м'ясо }
 
 recipe_meat_2_name { Рецепт: Соковите смажене м'ясо }
 
@@ -1880,7 +1881,7 @@ item_letter_foresttavern_chapter1_name { Полювання на Риппера 
 
 item_letter_foresttavern_chapter3_name { Полювання на Риппера 2 }
 
-category_traps { Використовувані предмети }
+category_traps { Корисні речі }
 
 item_MeriksBusiness_name { Лист до Меріка }
 
@@ -1920,11 +1921,11 @@ flow_bruntShot_description { Ви випускаєте стрілу, яка за
 
 recipe_flow_bruntShot_name { Спосіб: Ударний Стріл }
 
-flow_poisonArrow_name { Отруєна Стріла }
+flow_poisonArrow_name { Отруєна стріла }
 
 flow_poisonArrow_description { Ви випускаєте стрілу, яка завдає [WeaponDamagePercent] пошкоджень від зброї і отруює супротивників. }
 
-recipe_flow_poisonArrow_name { Спосіб: Отруєна Стріла }
+recipe_flow_poisonArrow_name { Спосіб: Отруєна стріла }
 
 key_tavernKey_Cellar_name { Ключ від підвалу }
 

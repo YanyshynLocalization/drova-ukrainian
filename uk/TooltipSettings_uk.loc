@@ -86,7 +86,7 @@ craftingItem { Матеріал для крафту }
 
 saleitem { Товар на продаж }
 
-weaponDamage_single { Шкода зброєю [VALUE] }
+weaponDamage_single { Шкода [VALUE] }
 
 critchance { Шанс крит. удару }
 
