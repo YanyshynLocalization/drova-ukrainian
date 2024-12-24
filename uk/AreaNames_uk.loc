@@ -18,7 +18,7 @@ Tavern { Таверна }
 
 Heide { Пустош }
 
-FriendlyMoor { Червоний Мур }
+FriendlyMoor { Червоне багновище }
 
 Nemeton { Неметон }
 
@@ -26,13 +26,13 @@ EntryNemeton { Вхід до Неметону }
 
 NemetonHain { Святе Гайно }
 
-DeathMoor { Морбідне болото }
+DeathMoor { Зловісне багновище }
 
-RottenMoor { Гниле болото }
+RottenMoor { Криваве багновище }
 
-Auwald { Лісовий низовий ліс }
+Auwald { Заплавний ліс }
 
-Leuchtwald { Первісний ліс }
+Leuchtwald { Праліс }
 
 Mutter { Мати }
 
@@ -42,9 +42,9 @@ RedTower { Червона Вежа }
 
 Library { Бібліотека }
 
-CityDungeon { Міський підземелля в лісі }
+CityDungeon { Поселення в Пралісі }
 
-SpiderDungeon { Кіл в лісовій низині }
+SpiderDungeon { Пагорб у заплавному лісі }
 
 Cave { Печера }
 
