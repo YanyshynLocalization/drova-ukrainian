@@ -174,7 +174,7 @@ weapon_axe_broadAxe_name { Широка сокира }
 
 weapon_axe_highlandAxe_name { Гірська сокира }
 
-weapon_axe_coarseDoubleAxe_name { Розчленувальний топір }
+weapon_axe_coarseDoubleAxe_name { Розколювач черепів }
 
 weapon_axe_doubleAxe_name { Груба залізна сокира }
 
@@ -184,7 +184,7 @@ weapon_axe_coarseWarAxe_name { Залізна сокира }
 
 weapon_axe_warAxe_name { Іржава бойова сокира }
 
-weapon_axe_bearSlaughtererAxe_name { Сокира для різання ведмедів }
+weapon_axe_bearSlaughtererAxe_name { Ведмедебій }
 
 weapon_axe_greatAxe_name { Велика сокира }
 
@@ -1248,9 +1248,9 @@ item_karottegladius_broken_description { Чуннайк має змогу від
 
 item_letterboard_fragment_name { Фрагмент таблиці }
 
-item_atlanter_coin_name { Стародавні Монети }
+item_atlanter_coin_name { Стародавні монети }
 
-item_engraving_stones_name { Вигравійовані Камені }
+item_engraving_stones_name { Вигравіювані камені}
 
 item_sealstone_past_name { Печатка Минулого }
 
