@@ -850,7 +850,7 @@ item_butterfliesAllAround_name { Метелики }
 
 item_rootTrap_name { Коренева пастка }
 
-item_rootTrap_description { При активації імунізує всіх ворогів на [TimeAbs] секунд. }
+item_rootTrap_description { При активації знерухомлює всіх ворогів на [TimeAbs] секунд. }
 
 item_poisonedThrowingKnife_name { Отруєний кинджал }
 
