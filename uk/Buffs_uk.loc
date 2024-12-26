@@ -2,7 +2,7 @@ SleepBuff { Відпочилий }
 
 SleepBuffDescription { Збільшує швидкість руху на [MovementPercent]. }
 
-Poison { Отрута }
+Poison { Отруєння }
 
 PoisonDescription { Знижує вашу швидкість пересування на [MovementPercent] і вашу броню на [ArmorReduce]. }
 
@@ -12,17 +12,17 @@ BleedingDescription { Ви періодично втрачаєте здоров'
 
 SleepBuff_T2 { Добре відпочилий }
 
-Veil_Name { Чорний полум'я }
+Veil_Name { Чорне полум'я }
 
 Veil_Desc { Ви постійно отримуєте шкоду. }
 
 Intoxicated_Name { Сп'яніння }
 
-Intoxicated_Desc { Все виглядає якось розмитим... }
+Intoxicated_Desc { Все виглядає якимось розмитим... }
 
-NoFood_Name { Порожній шлунок }
+NoFood_Name { Голоднеча }
 
-NoFood_Desc { З'їжте щось, щоб заповнити шлунок. Якщо ви насититесь, ваші сили відновлюватимуться з часом. }
+NoFood_Desc { З'їжте що-небудь, щоб не подорожувати голодним. Якщо ви будете ситі - сили відновлюватимуться з часом. }
 
 waterbarrel { Вода }
 
