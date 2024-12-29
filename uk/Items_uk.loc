@@ -400,7 +400,7 @@ item_slingermunition_description { Боєприпаси для пращі. Мо�
 
 item_ironore_name { Залізна руда }
 
-item_ironlump_name { Залізний брикет }
+item_ironlump_name { Шматок заліза }
 
 item_frogleg_name { Лапка жаби }
 
@@ -440,13 +440,13 @@ item_potion_health_0_name { Зцілювальне зілля }
 
 item_potion_health_1_name { Потужне зцілювальне зілля }
 
-item_permapotion_life_name { Еліксир Життя }
+item_permapotion_life_name { Еліксир життя }
 
-item_permapotion_strength_name { Еліксир Сили }
+item_permapotion_strength_name { Еліксир сили }
 
-item_permapotion_mind_name { Еліксир Розуму }
+item_permapotion_mind_name { Еліксир розуму }
 
-item_permapotion_skill_name { Еліксир Спритності }
+item_permapotion_skill_name { Еліксир спритності }
 
 item_permaherb_strength_name { Базальтовий корінь }
 
@@ -886,7 +886,7 @@ item_shiningfur_name { Світна шкіра }
 
 item_gnarlyroot_name { Викривлені корені }
 
-item_silverlump_name { Кусок срібла }
+item_silverlump_name { Шматок срібла }
 
 item_bellow_name { Повітряний насос }
 
@@ -950,7 +950,7 @@ item_golemsalve_name { Мазь Голема }
 
 item_golemsalve_description { Зменшує фізичні пошкодження, що отримуються, на [DamageResPhysPercent], але тимчасово збільшує отримувані магічні пошкодження на [DamageResMagicPercent]. Ефект триває [TimeAbs] секунд. }
 
-item_agilostew_name { Странний суп Агілоса }
+item_agilostew_name { Дивне рагу Агило }
 
 item_foodpile_name { Омлет з риби }
 
@@ -970,7 +970,7 @@ item_troutskewersbombus_name { Смертельні шампури à la Bombus 
 
 item_aditroast_name { Печений суп у печері }
 
-armor_chest_leather_name_name { Кожаний бронежилет }
+armor_chest_leather_name_name { Шкіряні обладунки }
 
 armor_chest_leather_name_description { Моя перша справжня броня. }
 
@@ -1363,29 +1363,29 @@ recipe_bomb_name { Рецепт: Кластерна бомба }
 
 recipe_crowfeettrap_name { Рецепт: Пташині лапки }
 
-recipe_elixier_concentration_name { Рецепт: Еліксир Концентрації }
+recipe_elixier_concentration_name { Рецепт: Еліксир концентрації }
 
-recipe_elixier_life_name { Рецепт: Еліксир Життя }
+recipe_elixier_life_name { Рецепт: Еліксир життя }
 
-recipe_elixier_skill_name { Рецепт: Еліксир Спритності }
+recipe_elixier_skill_name { Рецепт: Еліксир спритності }
 
-recipe_elixier_spirit_name { Рецепт: Еліксир Духу }
+recipe_elixier_spirit_name { Рецепт: Еліксир розуму }
 
-recipe_elixier_strength_name { Рецепт: Еліксир Сили }
+recipe_elixier_strength_name { Рецепт: Еліксир сили }
 
-recipe_farmersmeal_name { Рецепт: Страва Фермера }
+recipe_farmersmeal_name { Рецепт: Обід фермера }
 
 recipe_fishpan_name { Рецепт: Риба по-стріфре }
 
-recipe_flowpotion_0_name { Рецепт: Еліксир Концентрації }
+recipe_flowpotion_0_name { Рецепт: Еліксир концентрації }
 
-recipe_flowpotion_1_name { Рецепт: Потужний Еліксир Концентрації }
+recipe_flowpotion_1_name { Рецепт: Потужний еліксир концентрації }
 
-recipe_fogstew_name { Рецепт: Похмуре Стю }
+recipe_fogstew_name { Рецепт: Похмуре рагу }
 
 recipe_foodpile_name { Рецепт: Рибний омлет }
 
-recipe_golemsalve_name { Рецепт: Омінт Голеґа }
+recipe_golemsalve_name { Рецепт: Мазь голема }
 
 recipe_harpybrew_name { Рецепт: Харпібрю }
 
@@ -1439,7 +1439,7 @@ recipe_rustymosspipe_name { Рецепт: Іржавий мох }
 
 recipe_silberringmind_0_name { Рецепт: Кільце Духів }
 
-recipe_silberringmind_1_name { Рецепт: Тонке кільце Духів }
+recipe_silberringmind_1_name { Рецепт: Витончене кільце Духів }
 
 recipe_silberringskill_0_name { Рецепт: Срібний перстень бандита }
 
@@ -1451,7 +1451,7 @@ recipe_silverlump_name { Рецепт: Шматок срібла }
 
 recipe_silverringstrength_0_name { Рецепт: Кільце насильства }
 
-recipe_silverringstrength_1_name { Рецепт: Велике Кільце насильства }
+recipe_silverringstrength_1_name { Рецепт: Велике кільце насильства }
 
 recipe_silverstone_name { Рецепт: Срібні кулі }
 
@@ -1459,7 +1459,7 @@ recipe_smashironbar_name { Рецепт: Злиток заліза }
 
 recipe_spiritamulet_0_name { Рецепт: Амулет Духу }
 
-recipe_spiritamulet_1_name { Рецепт: Амулет Покращеного Духу }
+recipe_spiritamulet_1_name { Рецепт: Амулет покращеного Духу }
 
 recipe_splittertrap_name { Рецепт: Кластерна пастка  }
 
@@ -1937,11 +1937,11 @@ recipe_silverringstrength_2_name { Рецепт: Кільце з вузлом Д
 
 recipe_silverringstrength_2_description { recipe_silverringstrength_2_description }
 
-recipe_silberringskill_2_name { Рецепт: Срібне Кільце Найманого Вбивці }
+recipe_silberringskill_2_name { Рецепт: Срібне кільце найманого вбивці }
 
 recipe_silberringskill_2_description { recipe_silberringskill_2_description }
 
-recipe_silberringmind_2_name { Рецепт: Вишукане Кільце Духів }
+recipe_silberringmind_2_name { Рецепт: Вишукане кільце Духів }
 
 recipe_silberringmind_2_description { recipe_silberringmind_2_description }
 
