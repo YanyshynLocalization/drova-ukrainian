@@ -338,7 +338,7 @@ weapon_spear_ger_name { Гер }
 
 weapon_spear_bronzeSpear_name { Залізне списе }
 
-weapon_spear_spear_name { Кабаняче списе }
+weapon_spear_spear_name { Кабанячий спис }
 
 weapon_spear_deathRitualSpear_name { Іржавий спис }
 
@@ -630,7 +630,7 @@ item_energycrystal_brutus_charged_name { Заряджений Божествен
 
 item_secret_foglets_name { Секреція Туманників }
 
-item_ripper_head_name { Клешня Гігантського Різуна }
+item_ripper_head_name { Лапа гігантського рипера }
 
 item_essence_atlanter_name { Древня Суть }
 
@@ -974,7 +974,7 @@ armor_chest_leather_name_name { Шкіряні обладунки }
 
 armor_chest_leather_name_description { Моя перша справжня броня. }
 
-armor_chest_miner_name_name { Костюм каменяра }
+armor_chest_miner_name_name { Вбрання каменяра }
 
 armor_chest_miner_name_description { Не забезпечує великої захисту від кігтів, але зручний для роботи. }
 
@@ -1497,7 +1497,7 @@ category_weapons { Зброя, щити та боєприпаси }
 
 category_consumables { Зілля, лікування та їжа }
 
-item_ripper_head_huntTheRipper_name { Голова ватажка Риперів }
+item_ripper_head_huntTheRipper_name { Голова ватажка риперів }
 
 item_ripper_head_huntTheRipper_description { Цей рипер більше не буде тероризувати околиці таверни Олафа. }
 
@@ -1585,15 +1585,15 @@ armor_chest_bandit_T2_name { Середня броня бандитів }
 
 armor_chest_bandit_T2_description { Служить більше як засіб для залякування, а не для захисту. }
 
-armor_chest_bandit_T4_name { Важка броня бандитів }
+armor_chest_bandit_T4_name { Важкі обладунки бандитів }
 
-armor_chest_bandit_T4_description { Символ статусу і захист в одному зручному пакеті. }
+armor_chest_bandit_T4_description { Символ статусу і чудовий захист в одному комплекті. }
 
-helmet_crown_name_name { Древнє Головне Убрання }
+helmet_crown_name_name { Древній головний убір }
 
 helmet_crown_name_description { Хто міг би носити це колись? }
 
-helmet_mask_empathetic_name_name { Маска Співчуття }
+helmet_mask_empathetic_name_name { Маска співчуття }
 
 helmet_mask_empathetic_name_description { Тільки ті, хто слухає своїх ближніх, зрозуміють цінність цієї маски. }
 
@@ -1825,17 +1825,17 @@ helmet_earprotection_name_description { Деякі шуми просто бол�
 
 armor_chest_lendha_dylara_name { Броня та черевики Ділари }
 
-item_stalker_egg_name { Яйце Снектора }
+item_stalker_egg_name { Яйце снектора }
 
-item_headleshen_name { Голова Лешого }
+item_headleshen_name { Голова лешені }
 
-item_shadowfur_name { Тіньовий Шерст }
+item_shadowfur_name { Тіньова шерсть }
 
 item_fogears_name { Вуха Туману }
 
-item_foxpaw_name { Лисиний Слід }
+item_foxpaw_name { Лапа лисиці }
 
-item_foodpile_strong_name { Стрибучий Бас }
+item_foodpile_strong_name { Стрибучий бас }
 
 item_fish_trout_name { Форель }
 
@@ -1845,13 +1845,13 @@ item_fish_dead_name { Мертва риба }
 
 item_fish_dead_description { Сира риба. Непридатна для споживання. }
 
-recipe_foodpile_strong_name { Рецепт: Стрибучий Бас }
+recipe_foodpile_strong_name { Рецепт: Стрибучий бас }
 
 letter_leru_hint03_name { Третій малюнок сну Лортіза }
 
 key_chest_BanditCamp_name { Важкий ключ }
 
-key_chest_BanditCamp_description { Великий ключ, який я відібрав у банди. }
+key_chest_BanditCamp_description { Великий ключ, який я відібрав у ватаги розбійників. }
 
 item_chunnaic_diamond_name { Діамант Чуннайка }
 
