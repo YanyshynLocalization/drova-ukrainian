@@ -24,7 +24,7 @@ Nemeton { Неметон }
 
 EntryNemeton { Вхід до Неметону }
 
-NemetonHain { Святе Гайно }
+NemetonHain { Священний Гай }
 
 DeathMoor { Зловісне багновище }
 
@@ -44,7 +44,7 @@ Library { Бібліотека }
 
 CityDungeon { Поселення в Пралісі }
 
-SpiderDungeon { Пагорб у заплавному лісі }
+SpiderDungeon { Пагорб у Заплавному лісі }
 
 Cave { Печера }
 

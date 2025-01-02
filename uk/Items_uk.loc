@@ -50,7 +50,7 @@ item_healthPlant_1_name { Велика лікувальна рослина }
 
 item_lanternFruit_name { Ліхтарний фрукт }
 
-item_lanternFruit_description { Можна знайти на деревах у прадавньому лісі. }
+item_lanternFruit_description { Можна знайти на деревах у Пралісі. }
 
 item_lyra_name { Ліра }
 
@@ -116,7 +116,7 @@ item_letterMehlunaToBady_name { Лист кохання від Мелуни }
 
 item_earthroot_name { Земляний корінь }
 
-item_earthroot_description { Росте біля річок у лісі Плавні. }
+item_earthroot_description { Росте біля річок у Заплавному лісі. }
 
 item_wine_name { Вино }
 
@@ -516,7 +516,7 @@ item_mushroom_name { Звичайний гриб }
 
 item_berry_name { Ягода }
 
-item_berry_description { Зростає в Лісовій заплаві. }
+item_berry_description { Зростає в Заплавному лісі. }
 
 item_fish_bass_name { Бас }
 
@@ -562,7 +562,7 @@ misc_bagOfCurrency_name { Шурхотливий мішечок }
 
 item_diaryKora_name { Щоденник Кори }
 
-item_treasureMap_auwald_name { Мапа скарбу: Лісова заплава }
+item_treasureMap_auwald_name { Мапа скарбів: Заплавний ліс }
 
 misc_map_tristan_name { мапа Трістана }
 
@@ -616,11 +616,11 @@ weapon_shield_atlanterShield_description { Хай живе обраний Бог
 
 misc_writing_importantdocument_name { Місцезнаходження Божественних Кристалів. }
 
-item_energycrystal_cityDungeon_empty_name { Порожній Божественний Кристал із Лісу Праймевал }
+item_energycrystal_cityDungeon_empty_name { Порожній Божественний Кристал із Пралісу }
 
-item_energycrystal_cityDungeon_charged_name { Заряджений Божественний Кристал із Лісу Праймевал }
+item_energycrystal_cityDungeon_charged_name { Заряджений Божественний Кристал із Пралісу }
 
-item_energycrystal_aufwald_charged_name { Заряджений Божественний Кристал із Лісової заплави }
+item_energycrystal_aufwald_charged_name { Заряджений Божественний Кристал із Заплавного лісу }
 
 item_energycrystal_aufwald_charged_description { Цей Божественний Кристал пульсує магічною силою. }
 
@@ -672,7 +672,7 @@ cons_Familiar_Firefly_description { Моя іскристий маленький
 
 item_bear_claw_name { Кігті ведмедя }
 
-item_energycrystal_aufwald_empty_name { Порожній Божественний Кристал із Лісової заплави }
+item_energycrystal_aufwald_empty_name { Порожній Божественний Кристал із Заплавного лісу }
 
 item_energycrystal_aufwald_empty_description { Цей Божественний Кристал відчувається порожнім. }
 
@@ -916,15 +916,15 @@ item_bogwheat_name { Мурова пшениця }
 
 item_bogwheat_description { Росте на болотах біля ферми. }
 
-item_glauglocke_name { Лілійний сірий }
+item_glauglocke_name { Сіра лілія }
 
-item_glauglocke_description { Росте в Лісах Праймевал. }
+item_glauglocke_description { Росте в Пралісі. }
 
 item_riverbedmoss_name { Мох з русла річки }
 
 item_needlelichen_name { Голковидний лишайник }
 
-item_needlelichen_description { Росте на деревах у хвойному лісі. }
+item_needlelichen_description { Росте на деревах у Хвойному лісі. }
 
 item_povage_name { Клевер }
 
@@ -1164,9 +1164,9 @@ item_talismanJourneyToTheRoots_description { Талісман, отримани�
 
 armor_chest_leather_strong_name_name { Сильна шкіряна броня }
 
-armor_chest_leather_magielager_name_name { Одяг Зв'язаних }
+armor_chest_leather_magielager_name_name { Одяг Пов'язаних }
 
-armor_chest_leather_magielager_name_description { Тепер я єдине ціле з Лісом Давнини. }
+armor_chest_leather_magielager_name_description { Тепер я єдине ціле з Пралісом. }
 
 armor_chest_nemeton_merchant_name_name { Торговий одяг Наметону }
 
@@ -1274,7 +1274,7 @@ item_herb_past_description { Давні, але вони все ще мають 
 
 item_headdress_magicamp_name { Головний Убрасиок Зв'язаних }
 
-item_headdress_magicamp_description { Головний убір, що символізує зв'язок з Лісом Давнини. }
+item_headdress_magicamp_description { Головний убір, що символізує зв'язок з Пралісом. }
 
 item_brutus_seal_active_name { Активна Печатка Дриваніуса }
 
@@ -1348,8 +1348,7 @@ recipe_acidtrap_name { Рецепт: Кислотна пастка }
 
 recipe_aditroast_name { Рецепт: Печерне рагу }
 
-recipe_agilostew_name { Рецепт: Дивне рагу 
-Агило }
+recipe_agilostew_name { Рецепт: Дивне рагу Агило }
 
 recipe_beartrap_name { Рецепт: Ведмежа пастка }
 
@@ -1475,7 +1474,7 @@ recipe_woodenarrow_name { Рецепт: Дерев'яна стріла }
 
 ring_tuz_name_name { Брудне кільце }
 
-ring_tuz_name_description { Воно смердить. Я знайшов його на Пустирі. }
+ring_tuz_name_description { Воно смердить. Я знайшов його на Пустищі. }
 
 item_letterfromolafaboutBrutus_name { Лист від Дріванія }
 
@@ -1563,7 +1562,7 @@ key_sleepingTavernKey_name { Ключ від Кімнати }
 
 key_sleepingTavernKey_description { Я орендував кімнату на горі таверни Олафа на одну ніч. }
 
-item_strangeFossil_name { Дивний Фосил }
+item_strangeFossil_name { Дивна скам'янілість }
 
 letter_leru_hint01_name { Перший Малюнок Сну Лортіза }
 
@@ -1695,7 +1694,7 @@ misc_map_nemeton_name { Мапа Неметону }
 
 misc_map_ruincamp_name { Мапа табору Вцілілих }
 
-misc_map_leuchtwald_name { Мапа Лісу Древніх }
+misc_map_leuchtwald_name { Мапа Пралісу }
 
 misc_worldmap_detailed_name { Мапа Дрови }
 
@@ -1805,7 +1804,7 @@ item_letterCelts_SafeHaven_name { Мета Притулку }
 
 item_letterCelts_Treason_name { Мета Притулку }
 
-item_HiddenTreasure_name { Сховане Скарб }
+item_HiddenTreasure_name { Прихований Скарб }
 
 item_blackboard_Butterflies_name { Оголошення: Допомогти Гаю }
 
@@ -1987,19 +1986,19 @@ item_splittertrap_npc_ebru_single_name { Ідентифікатор: item_splitt
 
 flow_battleCry_npc_name { Ідентифікатор: flow_battleCry_npc }
 
-item_Map_Treasure_Forest_name { Скарб: Хвойний Ліс }
+item_Map_Treasure_Forest_name { Мапа скарбів: Хвойний ліс }
 
-item_Map_Treasure_Garden_name { Скарб: Руїни }
+item_Map_Treasure_Garden_name { Мапа скарбів: Руїни }
 
-item_Map_Treasure_GeorgsFarm_name { Скарб: Ферма Джорджа }
+item_Map_Treasure_GeorgsFarm_name { Мапа скарбів: Ферма Джорджа }
 
-item_Map_Treasure_Heath_name { Скарб: Торфовище }
+item_Map_Treasure_Heath_name { Мапа скарбів: Пустище }
 
-item_Map_Treasure_PrimevalForest_name { Скарб: Ліс Першозвірів }
+item_Map_Treasure_PrimevalForest_name { Мапа скарбів: Праліс }
 
-item_Map_Treasure_Rotmoor_name { Скарб: Червоний Мох }
+item_Map_Treasure_Rotmoor_name { Мапа скарбів: Червоне багновище }
 
-item_Map_Treasure_WayToMine_name { Скарб: Шлях до Шахти }
+item_Map_Treasure_WayToMine_name { Мапа скарбів: Шлях до Шахти }
 
 item_trinket_doriansHeirloom_name { Спадщина Доріана }
 

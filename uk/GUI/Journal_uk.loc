@@ -28,14 +28,14 @@ Group_Magielager { Притулок }
 
 Group_RedTower { Червона Вежа }
 
-Group_Mine { Шахта }
+Group_Mine { Яма }
 
 Group_MainQuest { Головне завдання }
 
 Group_Dungeon_Library { Бібліотека }
 
-Group_Dungeon_City { Місто в Лісовому Світі }
+Group_Dungeon_City { Місто в Пралісі }
 
-Group_Dungeon_Auwald { Пагорб у Лісовій Затопленій Долині }
+Group_Dungeon_Auwald { Пагорб у Заплавному лісі }
 
 Group_TreasureMaps { Мапи скарбів }

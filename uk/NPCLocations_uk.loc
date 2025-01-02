@@ -70,7 +70,7 @@ Neutral_Maw { Прірва }
 
 Nemeton_WarriorQuarter { Наметон: квартал воїнів }
 
-Nemeton_SacredGrove { Наметон: Священний гай }
+Nemeton_SacredGrove { Наметон: Священний Гай }
 
 Neutral_River_WoodcampAndRemnants { Біля річки між табором Лісорубів і табором Вцілілих }
 
@@ -78,11 +78,11 @@ Nemeton_AppleGrove { Яблуневий сад поблизу Наметону }
 
 Nemeton_BridgeToDruids { Наметон: Міст до кварталу друїдів }
 
-Neutral_FloodplainForest_Plateau_Ruins { Підземні руїни на пагорбі в лісі на заплаві }
+Neutral_FloodplainForest_Plateau_Ruins { Підземні руїни на пагорбі в Заплавному лісі }
 
 Nemeton_Gate_South { Наметон: Південні ворота }
 
-Neutral_ForestPrimeval_Border { Первісний ліс: Край }
+Neutral_ForestPrimeval_Border { Праліс: Край }
 
 Neutral_Cave_Woodcamp_South { Біля табору Лісорубів }
 
@@ -94,13 +94,13 @@ Riverbed_North { Русло річки на півночі }
 
 TravelingMerchants { Табір Вцілілих: Вхід; Наметон: Вхід; Таверна; На захід від ферми Джорджа }
 
-Neutral_Heath { Пустоші }
+Neutral_Heath { Пустище }
 
-Neutral_ForestPrimeval { Первісний ліс }
+Neutral_ForestPrimeval { Праліс }
 
 Remnants_Underground { Табір Вцілілих: підземелля }
 
-Neutral_Forest_Camp { Табір в хвойному лісі }
+Neutral_Forest_Camp { Табір в Хвойному лісі }
 
 Unknown { ??? }
 

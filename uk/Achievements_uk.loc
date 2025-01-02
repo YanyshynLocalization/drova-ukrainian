@@ -40,11 +40,11 @@ Achievement_CompletedLibrary_desc { Завершіть бібліотеку. }
 
 Achievement_CompletedAuwald_name { Наодинці в лісі }
 
-Achievement_CompletedAuwald_desc { Знайдіть Божественний Кристал у Лісовій низовині. }
+Achievement_CompletedAuwald_desc { Знайдіть Божественний Кристал у Заплавному лісі. }
 
 Achievement_CompletedCityDungeon_name { Сліди минулого }
 
-Achievement_CompletedCityDungeon_desc { Знайдіть Божественний Кристал у Лісі первісному. }
+Achievement_CompletedCityDungeon_desc { Знайдіть Божественний Кристал у Пралісі. }
 
 Achievement_EnteredRedTower_name { У Червоній Вежі! }
 
@@ -122,7 +122,7 @@ Achievement_LeftMine100Silver_name { Це моє срібло! }
 
 Achievement_LeftMine100Silver_desc { Покинути Яму в таборі Вцілілих з 100 срібними в кишенях. }
 
-Achievement_UndertookJourneyToRoots_name { Одне з Лісом первісним }
+Achievement_UndertookJourneyToRoots_name { Один із Пралісом }
 
 Achievement_UndertookJourneyToRoots_desc { Відправитись в подорож до коренів Матері. }
 
