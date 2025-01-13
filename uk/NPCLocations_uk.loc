@@ -12,7 +12,7 @@ Woodcamp { Табір Лісорубів }
 
 Remnants_Mine { Копальня Вцілілих }
 
-Remnants_MinerArea { Табір Вцілілих: квартал Гірників }
+Remnants_MinerArea { Табір Вцілілих: Квартал каменярів }
 
 Nemeton_Palisades_North { Наметон: Палісадова північна стіна }
 
@@ -44,7 +44,7 @@ Remnants_LostQuater { Табір Вцілілих: Темний квартал }
 
 Nemeton_FrontCamp { Табір за межами Наметону }
 
-Nemeton_CraftingQuarter { Наметон: квартал ремісників }
+Nemeton_CraftingQuarter { Наметон: Квартал ремісників }
 
 Nemeton_Market { Наметон: Ринкова площа }
 
@@ -60,7 +60,7 @@ Remnants_Entry { Табір Вцілілих: Вхід }
 
 Remnants_Global { Табір Вцілілих }
 
-Nemeton_MarketAndCrafting { Наметон: Ринкова площа / квартал ремісників }
+Nemeton_MarketAndCrafting { Наметон: Ринкова площа / Квартал ремісників }
 
 Nemeton_Moor_South { Болото на південь від Наметону }
 
@@ -68,7 +68,7 @@ Nemeton_Garden { Наметон: Сад на сході }
 
 Neutral_Maw { Прірва }
 
-Nemeton_WarriorQuarter { Наметон: квартал воїнів }
+Nemeton_WarriorQuarter { Наметон: Квартал воїнів }
 
 Nemeton_SacredGrove { Наметон: Священний Гай }
 
@@ -98,7 +98,7 @@ Neutral_Heath { Пустище }
 
 Neutral_ForestPrimeval { Праліс }
 
-Remnants_Underground { Табір Вцілілих: підземелля }
+Remnants_Underground { Табір Вцілілих: Підземелля }
 
 Neutral_Forest_Camp { Табір в Хвойному лісі }
 

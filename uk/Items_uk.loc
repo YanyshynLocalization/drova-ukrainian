@@ -120,7 +120,7 @@ item_earthroot_description { Росте біля річок у Заплавно�
 
 item_wine_name { Вино }
 
-note_mineInformation_name { Шукаємо Гірників }
+note_mineInformation_name { Шукаємо каменярів }
 
 item_entryMine_name { Нотатка від Левіна }
 
@@ -1210,7 +1210,7 @@ item_letterAuwaldDungeon_5_name { Один з Останніх Оживших }
 
 key_ShadyDistrict_name { Ключ до Темного кварталу }
 
-item_rustmoss_BadFromGera_name { Нарізаний Іржавий Мох }
+item_rustmoss_BadFromGera_name { Нарізаний іржавий мох }
 
 item_rustmoss_BadFromGera_description { Гера хоче, щоб я "втратила" цей іржавий мох у постачанні Лейни. }
 
@@ -1304,7 +1304,7 @@ recipe_flow_conflagration_name { Заклинання: Пожежа }
 
 recipe_flow_dash_name { Здібність: Ривок }
 
-recipe_flow_energyProjectile_name { Заклинання: Енергетична Стріла }
+recipe_flow_energyProjectile_name { Заклинання: Магічна стріла }
 
 recipe_flow_execute_name { Здібність: Кровава Лють }
 
@@ -2020,7 +2020,7 @@ item_ironore_description { Потрібно очистити на рудні. }
 
 item_trinket_pureDmg_name { Помста Майстра }
 
-item_trinket_pureDmg_description { Збільшує шкоду від пасток і кинутих предметів на 100%. }
+item_trinket_pureDmg_description { Збільшує шкоду, завдану пастками та метальною зброєю, на [DamageValuePercent]. }
 
 item_VoragoFragment_0_name { Фрагмент Емблеми }
 
