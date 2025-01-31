@@ -1258,7 +1258,7 @@ item_sealstone_past_description { Складно прикрашений камі
 
 item_brutus_seal_inactive_name { Неактивна Печатка Дриваніуса }
 
-item_brutus_seal_inactive_description { Не всі кристали, вбудовані у сім печаток, активні. }
+item_brutus_seal_inactive_description { Лише $GVAR:QuestVars_Brutus.ActivateShrine$ із семи вбудованих кристалів світяться на цей момент. }
 
 item_shell_01_name { Мушля }
 
