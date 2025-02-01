@@ -234,7 +234,7 @@ weapon_sword_swordOfNemeton_name { Тупий меч воїна }
 
 weapon_sword_swordOfTheFaithful_name { Меч Віри }
 
-weapon_sword_runeSword_name { Рунний меч }
+weapon_sword_runeSword_name { Рунічний меч }
 
 weapon_sword_moonSword_name { Місячний меч }
 
@@ -576,19 +576,19 @@ key_chest_mineBanditMainKey_description { Я взяв це у банди бан�
 
 item_mineRelic_name { Дивний реліквія }
 
-item_mineRelic_description { Давня реліквія часів Творців }
+item_mineRelic_description { Давня реліквія часів Древніх }
 
 item_rubble_name { Руїни }
 
-Note_BanditMine_name { Реліквія Творців }
+Note_BanditMine_name { Реліквія Древніх }
 
-item_spiritVessel_greatTusk_name { Судно духа }
+item_spiritVessel_greatTusk_name { Вмістилище духа }
 
 item_atlanterRune_name { Дивна руна }
 
-item_runestone_name { Рунний камінь }
+item_runestone_name { Рунічний камінь }
 
-item_runestone_empty_name { Порожній рунний камінь }
+item_runestone_empty_name { Порожній рунічний камінь }
 
 item_packageBrutusMineWeapons_name { Пакунок зі зброєю }
 
@@ -598,7 +598,7 @@ key_chest_mineBanditEntry_name { Іржавий ключ }
 
 key_chest_mineBanditEntry_description { Знайдено на тілі бандита. }
 
-item_runestone_description { Цей рунний камінь забезпечує прямий зв'язок з магічними силами Могутнього Кабана. Користуючись ним, я можу наводити закляття в будь-який час. }
+item_runestone_description { Цей рунічний камінь забезпечує прямий зв'язок з магічними силами Могутнього Кабана. Користуючись ним, я можу наводити закляття в будь-який час. }
 
 cons_Familiar_Firefly_name { Іскорка }
 
@@ -716,7 +716,7 @@ cons_flow_bloodRage_description { Важка атака, що завдає [Weap
 
 item_rubin_name { Рубін }
 
-item_atlanterAcademyText_name { Подорож Стародавніх до Дрови }
+item_atlanterAcademyText_name { Подорож Древніх до Дрови }
 
 cons_flow_blink_name { Туманний крок }
 
@@ -800,7 +800,7 @@ item_traps_name { Повідомлення: Нам потрібно більше
 
 cons_flow_obsidianSpear_name { Призвати Обсидіанову Пику }
 
-cons_flow_obsidianSpear_description { Ви викликаєте спис Стародавніх, що генерує концентрацію в зоні навколо себе. }
+cons_flow_obsidianSpear_description { Ви викликаєте спис Древніх, що генерує концентрацію в зоні навколо себе. }
 
 item_playWithKids_name { Повідомлення: Гра з дітьми }
 
@@ -958,7 +958,7 @@ item_fishpan_name { Рибна смажена їжа }
 
 item_roastedcallamushroom_name { Смажені Калашгриби }
 
-item_roastofthepast_name { Смажене м'ясо минулого }
+item_roastofthepast_name { Печеня Древніх }
 
 item_mudmash_name { Олафовий м'ясний суп }
 
@@ -1016,7 +1016,7 @@ armor_chest_tunic_name_description { Робочий одяг. Не дає баг
 
 helmet_antlers_name_name { Шолом оленя }
 
-helmet_draugr_silver_name_name { Шолом Стародавнього }
+helmet_draugr_silver_name_name { Шолом Древніх }
 
 helmet_earprotection_name_name { Захист для вух }
 
@@ -1232,7 +1232,7 @@ item_paperchasestone_rune_description { Завдяки моїм художнім
 
 misc_riddle_deer_name { Срібні Роги }
 
-misc_riddle_deer_description { Магічний артефакт Стародавніх. Нагадує Божественне створіння. }
+misc_riddle_deer_description { Магічний артефакт Древніх. Нагадує Божественне створіння. }
 
 misc_riddle_fox_name { Срібна Лапа }
 
@@ -1252,7 +1252,7 @@ item_atlanter_coin_name { Стародавні монети }
 
 item_engraving_stones_name { Вигравіювані камені}
 
-item_sealstone_past_name { Печатка Минулого }
+item_sealstone_past_name { Печатка Древніх }
 
 item_sealstone_past_description { Складно прикрашений камінь з вбудованим кристалом. }
 
@@ -1268,7 +1268,7 @@ item_atlanter_wine_name { Вино Древніх }
 
 item_atlanter_wine_description { Рік випуску: Невідомо. }
 
-item_herb_past_name { Лікувальні трави древніх }
+item_herb_past_name { Лікувальні трави Древніх }
 
 item_herb_past_description { Давні, але вони все ще мають деякі лікувальні властивості. }
 
@@ -1286,7 +1286,7 @@ item_letterTableBrutus_1_name { Остаточне Дослідження Дри
 
 item_letterTableBrutus_2_name { Остаточне Дослідження Дриваніуса IV }
 
-item_atlanteanarmorparts_name { Частини Броні Древніх }
+item_atlanteanarmorparts_name { Частини броні Древніх }
 
 item_atlanteanarmorparts_description { Виглядає цінно. Можливо, ковалю вдасться щось зробити з цими частинами. }
 
@@ -1430,7 +1430,7 @@ recipe_rivercharm_name { Рецепт: Амулет Річки }
 
 recipe_roastedcallamushroom_name { Рецепт: Смажені Калашрелі }
 
-recipe_roastofthepast_name { Рецепт: Печеня Старовини }
+recipe_roastofthepast_name { Рецепт: Печеня Древніх }
 
 recipe_rootstew_name { Рецепт: Туманне Стю }
 
@@ -1504,35 +1504,35 @@ item_letter_sick_siser_name { Запис Друїда }
 
 SickSiser { Лист з Лагеру Бандитів }
 
-armor_chest_light_atlanter_name { Рунна Броня Стародавніх }
+armor_chest_light_atlanter_name { Рунічна Броня Древніх }
 
-armor_chest_heavy_atlanter_name { Рунне Обладунки Стародавніх }
+armor_chest_heavy_atlanter_name { Рунічне Обладунки Древніх }
 
-armor_chest_druid_atlanter_name { Рунна Роба Стародавніх }
+armor_chest_druid_atlanter_name { Рунічна Роба Древніх }
 
 armor_chest_druid_atlanter_description { Древня броня, створена заново. Її вигляд сам по собі свідчить про її силу. }
 
-item_letter_library_0_name { Історія Рунної Магії I }
+item_letter_library_0_name { Історія Рунічної Магії I }
 
-item_letter_library_1_name { Історія Рунної Магії II }
+item_letter_library_1_name { Історія Рунічної Магії II }
 
-item_letter_library_2_name { Історія Рунної Магії III }
+item_letter_library_2_name { Історія Рунічної Магії III }
 
-item_letter_library_3_name { Історія Рунної Магії IV }
+item_letter_library_3_name { Історія Рунічної Магії IV }
 
 item_letter_library_circleRoom_note1_name { Круг Телепортації }
 
 item_letter_library_circleRoom_note2_name { Темне Срібло }
 
-item_letter_library_energyRoom_note_name { Рунні камені }
+item_letter_library_energyRoom_note_name { Рунічні камені }
 
 item_letter_library_golemRoom_note1_name { Дослідження: Магія Природи }
 
 item_letter_library_golemRoom_note2_name { Дослідження: Магія Сили }
 
-item_letter_library_golemRoom_note3_name { Аварія Рунної Магії в Гоґемі }
+item_letter_library_golemRoom_note3_name { Випадок з вогняною руною }
 
-item_letter_library_golemRoom_note4_name { Перший Рунний Голем }
+item_letter_library_golemRoom_note4_name { Перший Рунічний Голем }
 
 item_letter_library_natureRoom_note_name { Серце Спригги }
 
@@ -1540,9 +1540,9 @@ item_letter_library_soundRoom_note_name { Проблеми з Звуками }
 
 item_letter_library_spearRoom_note1_name { Екстрактор I }
 
-item_letter_library_spearRoom_note2_name { Рунні Списи I }
+item_letter_library_spearRoom_note2_name { Рунічні Списи I }
 
-item_letter_library_spearRoom_note3_name { Рунні Списи II }
+item_letter_library_spearRoom_note3_name { Рунічні Списи II }
 
 item_letter_shrine_apus_circinus_name { Святилище Аписа }
 
@@ -1630,7 +1630,7 @@ helmet_blindfold_dark_name_description { Ви все одно можете ба�
 
 helmet_blindfold_light_name_name { Яскрава пов'язка на очі }
 
-helmet_atlanter_name_name { Шолом Стародавніх }
+helmet_atlanter_name_name { Шолом Древніх }
 
 helmet_atlanter_name_description { Древній шолом, ймовірно, не носився вже століттями. }
 
@@ -1676,9 +1676,9 @@ helmet_mushroom_name_name { Шапка Гриба }
 
 helmet_mushroom_name_description { Якщо я покрию себе піском, залишаючи лише голову — чи хтось мене зіб'є? }
 
-helmet_draugr_dark_name_name { Темний Шолом Стародавніх }
+helmet_draugr_dark_name_name { Темний шолом Древніх }
 
-helmet_draugr_mage_name_name { Темний Шолом Магістра Стародавніх }
+helmet_draugr_mage_name_name { Темний шолом чаклуна Древніх }
 
 item_sheepfur_name { Вівчарка }
 
@@ -1724,15 +1724,15 @@ item_letterRedTower_5_name { Падіння I }
 
 item_AldriksNote_name { Записка від Альдрика }
 
-item_letterAtlanter_AtlanterCreation_name { Створення Стародавніх }
+item_letterAtlanter_AtlanterCreation_name { Творіння Древніх }
 
-item_letterAtlanter_AtlanterProblems_name { Проблеми Стародавніх }
+item_letterAtlanter_AtlanterProblems_name { Складнощі Древніх }
 
-item_letterAtlanter_AtlanterRevolt_name { Бунт Стародавніх }
+item_letterAtlanter_AtlanterRevolt_name { Повстання Древніх }
 
 item_letterAtlanter_CancelledResearch_name { Скасування Досліджень }
 
-item_letterAtlanter_DangerousRunes_name { Небезпеки Руної Магії }
+item_letterAtlanter_DangerousRunes_name { Небезпеки Рунічної Магії }
 
 item_letterAtlanter_DangerousTravels_name { Небезпечна Подорож I }
 
@@ -1766,9 +1766,9 @@ item_letterAtlanter_Revolt2_name { Безлад у Дрові II }
 
 item_letterAtlanter_Revolt3_name { Безлад у Дрові III }
 
-item_letterAtlanter_RuneVessel_Nemeton_name { Посібник по Руним Судинам }
+item_letterAtlanter_RuneVessel_Nemeton_name { Посібник по Рунічних посудинах }
 
-item_letterAtlanter_RuneVessel_Ruinenlager_name { Посібник по Руним Судинам }
+item_letterAtlanter_RuneVessel_Ruinenlager_name { Посібник по Рунічних посудинах }
 
 item_letterAtlanter_Senat_name { Лист від Сенату }
 
@@ -1778,7 +1778,7 @@ item_letterAtlanter_SpreadingDanger_name { Небезпека Поширюєть
 
 item_letterAtlanter_Stars_name { Що Написано на Зірках? }
 
-item_letterAtlanter_ThirdDownfall_name { Падіння Третьої Божественності }
+item_letterAtlanter_ThirdDownfall_name { Падіння Третього Божества }
 
 item_letterAtlanter_ToTheRuinRaiders_name { До Рейдерів Руїн }
 
@@ -1794,7 +1794,7 @@ item_letterCelts_BoundaryStone_name { Камені Межі та Неметон 
 
 item_letterCelts_Diemo_name { Думки Діємо про Неметон }
 
-item_letterCelts_Jero_name { Оцінка Єро щодо Божественних }
+item_letterCelts_Jero_name { Оцінка Єро щодо Божеств }
 
 item_letterCelts_Nemeton_name { Заснування Неметону }
 
@@ -1808,7 +1808,7 @@ item_HiddenTreasure_name { Прихований Скарб }
 
 item_blackboard_Butterflies_name { Оголошення: Допомогти Гаю }
 
-item_letterAtlanter_Arrival_name { Прибуття Стародавніх }
+item_letterAtlanter_Arrival_name { Прибуття Древніх }
 
 category_keysAndQuestItems { Ключі та квестові предмети }
 
@@ -1894,9 +1894,9 @@ category_crafting { Матеріали для крафту }
 
 category_saleitems { Різне, товари на продаж, непотріб }
 
-item_letterAtlanter_Shrines_name { Святилища Стародавніх }
+item_letterAtlanter_Shrines_name { Святилища Древніх }
 
-item_letterCityDungeon_GodPaintings_name { Мурали, що зображають Божеств }
+item_letterCityDungeon_GodPaintings_name { Мурали, що зображають Божественних }
 
 item_letter_Reija_name { Дивні Спостереження Дріванія }
 
@@ -2038,7 +2038,7 @@ recipe_throwingknife_name { Рецепт: Метальний ніж }
 
 item_letterAtlanter_Extractor2_description {  }
 
-item_letterAtlanter_Armor_name { Броня Стародавніх }
+item_letterAtlanter_Armor_name { Броня Древніх }
 
 item_letterAtlanter_Armor_description {  }
 

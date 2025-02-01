@@ -26,13 +26,13 @@ Achievement_GotFamiliar_name { Мій палаючий маленький Спа
 
 Achievement_GotFamiliar_desc { Будьте вибрані Спарком. }
 
-Achievement_CaughtBoar_name { Божественність належить нам! }
+Achievement_CaughtBoar_name { Божество належить нам! }
 
 Achievement_CaughtBoar_desc { Перемогти Могутнього Кабана. }
 
-Achievement_GotYourRunestone_name { Лише з Рунним Каменем }
+Achievement_GotYourRunestone_name { Лише з Рунічним Каменем }
 
-Achievement_GotYourRunestone_desc { Отримати свій Рунний Камінь. }
+Achievement_GotYourRunestone_desc { Отримати свій Рунічний Камінь. }
 
 Achievement_CompletedLibrary_name { Бібліофіл }
 
@@ -144,21 +144,21 @@ Achievement_TookAllDrugs_desc { Отримати всі наркотики в Д
 
 Achievement_GotRelicFromRuinenraeuber_name { Зникле, але не забуте }
 
-Achievement_GotRelicFromRuinenraeuber_desc { Завершити релікт для Рейдерів Руїн. }
+Achievement_GotRelicFromRuinenraeuber_desc { Завершити реліквію для Рейдерів Руїн. }
 
 Achievement_FinishedPwyllConversation_name { Все почалося з... }
 
 Achievement_FinishedPwyllConversation_desc { Отримати унікальний подарунок від Пвілла. }
 
-Achievement_FoundAtlanterWeapon_name { Спадок минулого }
+Achievement_FoundAtlanterWeapon_name { Спадок Древніх }
 
 Achievement_FoundAtlanterWeapon_desc { Знайти давню зброю. }
 
 Achievement_CraftedEpicArmor_name { Нічого не може зашкодити! }
 
-Achievement_CraftedEpicArmor_desc { Отримати обладунки минулого. }
+Achievement_CraftedEpicArmor_desc { Отримати обладунки Древніх. }
 
-Achievement_WonAgainstBrutus_name { Останній суверен минулого }
+Achievement_WonAgainstBrutus_name { Останній Правитель Древніх }
 
 Achievement_WonAgainstBrutus_desc { Перемогти Дріванія. }
 

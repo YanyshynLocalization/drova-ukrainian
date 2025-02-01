@@ -596,7 +596,7 @@ Spitter_Weak { Отруйний ткач }
 
 Ripper_Shadow { Тіньовий рипер }
 
-Boar_Luminous { Світящийся кабан }
+Boar_Luminous { Сяючий кабан }
 
 Mortarshroom { Споровий повзун }
 
@@ -618,22 +618,22 @@ Worm { Сріблястий черв'як }
 
 Leshen { Лісовий }
 
-Golem { Рунический голем }
+Golem { Рунічний голем }
 
 ChaosSpirit { ??? }
 
-Draugr_Sword { Стародавній Воїн }
+Draugr_Sword { Древній Воїн }
 
-Draugr_Spear { Стародавній Боєць }
+Draugr_Spear { Древній Боєць }
 
-Draugr_Mage { Стародавній Маг }
+Draugr_Mage { Древній Чаклун }
 
-Draugr_Axe { Стародавній Берсеркер }
+Draugr_Axe { Древній Берсеркер }
 
 Rat { Щур }
 
 Snake { Гадюка }
 
-Draugr_Axe_Legendary { Стародавній Генерал }
+Draugr_Axe_Legendary { Древній Генерал }
 
-Draugr_Dagger { Стародавній Убивця }
+Draugr_Dagger { Древній Убивця }
