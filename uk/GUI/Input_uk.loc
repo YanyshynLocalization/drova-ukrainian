@@ -64,9 +64,9 @@ action_Journal { Журнал }
 
 action_PerceptionMode { Режим дослідження }
 
-action_QuickSave { Швидке збереження }
+action_QuickSave { Шв. збереження }
 
-action_QuickLoad { Швидке завантаження }
+action_QuickLoad { Шв. завантаження }
 
 action_SwapWeaponSet { Змінити набір зброї }
 
@@ -158,7 +158,11 @@ action_CraftingMenu { Меню ремесла }
 
 action_ToggleGarbageVisibility { Показати/сховати непотріб }
 
-action_UIDelete { Видалити }
+action_UIDelete { Закрити інтерфейс }
+
+action_CamZoom { Змінити масштабування }
+
+action_toggleCraftables { Показувати лише рецепти, які можна створити }
 
 dialogoption_1 { Опція діалогу 1 }
 
@@ -172,7 +176,23 @@ dialogoption_5 { Опція діалогу 5 }
 
 dialogoption_6 { Опція діалогу 6 }
 
-action_CamZoom { Змінити масштабування }
+leftcontrol { LCtrl }
 
-action_toggleCraftables { Показувати лише рецепти, які можна створити }
+leftalt { LAlt }
+
+leftshift { LShift }
+
+rightcontrol { RCtrl }
+
+rightalt { RAlt }
+
+rightshift { RShift }
+
+action_uiSubmit { Підтвердити }
+
+action_minigameSubmit { Дія в Міні-грі }
+
+action_PrevNavigation { Попередня вкладка }
+
+action_NextNavigation { Наступна вкладка }
 

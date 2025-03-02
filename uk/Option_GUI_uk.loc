@@ -24,7 +24,7 @@ category_guimenus { Меню інтерфейсу }
 
 category_shotcuts { Різне }
 
-Label_Volume_Master { Всі }
+Label_Volume_Master { Загалом }
 
 Label_Volume_Sound { Звукові ефекти }
 
@@ -46,7 +46,7 @@ audio { Аудіо }
 
 Zoom { Масштабування }
 
-ShowPlayerHealth { Показувати панель здоров'я, фокус і інші показники }
+ShowPlayerHealth { Показувати панель здоров'я, концентрації та інше }
 
 ShowLootFeedback { Кожного разу, коли ваш персонаж щось підбирає, отримує нову інформацію або стає сильнішим, на екрані з'являється додаткове повідомлення. }
 
@@ -196,15 +196,15 @@ KeyPreset_LeftHanded { Ліворукий }
 
 Toggle_ScrollAbilities { Перемикати активні здібності за допомогою колеса миші }
 
-Parent_BasicHudElements { Основні елементи HUD }
+Parent_BasicHudElements { Основні елементи інтерфейсу }
 
 Parent_CharacterFeedback { Зворотний зв'язок персонажа }
 
-Title_ScreenHUD { Елементи HUD в кутку екрану }
+Title_ScreenHUD { Інтерфейс в кутку екрану }
 
-Title_PlayerHUD { Елементи HUD, прив'язані до персонажа гравця }
+Title_PlayerHUD { Інтерфейс персонажа гравця }
 
-Title_EnemyHUD { Елементи HUD, прив'язані до неігрових персонажів }
+Title_EnemyHUD { Інтерфейс неігрових персонажів }
 
 ShowNPCNames { Показувати імена персонажів }
 
@@ -228,7 +228,7 @@ Dropdown_DisplayMode { Режим екрану }
 
 DisplayMode_Windowed { Віконний режим }
 
-DisplayMode_Borderless { Безрамковий віконний режим }
+DisplayMode_Borderless { Безрамкове вікно }
 
 DisplayMode_Fullscreen { Повноекранний режим }
 

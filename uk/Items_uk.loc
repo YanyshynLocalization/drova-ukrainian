@@ -978,17 +978,17 @@ armor_chest_miner_name_name { Вбрання каменяра }
 
 armor_chest_miner_name_description { Не забезпечує великої захисту від кігтів, але зручний для роботи. }
 
-armor_chest_nemeton_guardian_druid_name_name { Броня Друїда Наметону }
+armor_chest_nemeton_guardian_druid_name_name { Броня Друїда Неметону }
 
-armor_chest_nemeton_guardian_druid_name_description { Тільки охоронці Наметону можуть носити цю броню. }
+armor_chest_nemeton_guardian_druid_name_description { Тільки охоронці Неметону можуть носити цю броню. }
 
-armor_chest_nemeton_guardian_heavy_name_name { Важка броня охоронця Наметону }
+armor_chest_nemeton_guardian_heavy_name_name { Важка броня охоронця Неметону }
 
-armor_chest_nemeton_guardian_light_name_name { Легка броня охоронця Наметону }
+armor_chest_nemeton_guardian_light_name_name { Легка броня охоронця Неметону }
 
 armor_chest_lendha_heavy_name_name { Важка броня Лендхи }
 
-armor_chest_lendha_heavy_name_description { Ця броня призначена для членів Наметону. Вона виявляє мою лояльність до Наметону. }
+armor_chest_lendha_heavy_name_description { Ця броня призначена для членів Неметону. Вона виявляє мою лояльність до Неметону. }
 
 armor_chest_lendha_name_name { Легка броня Лендхи }
 
@@ -1168,11 +1168,11 @@ armor_chest_leather_magielager_name_name { Одяг Пов'язаних }
 
 armor_chest_leather_magielager_name_description { Тепер я єдине ціле з Пралісом. }
 
-armor_chest_nemeton_merchant_name_name { Торговий одяг Наметону }
+armor_chest_nemeton_merchant_name_name { Торговий одяг Неметону }
 
-armor_chest_nemeton_craftsman_name_name { Одяг Майстра Наметону }
+armor_chest_nemeton_craftsman_name_name { Одяг Майстра Неметону }
 
-armor_chest_nemeton_chief_name_name { Броня Лідера Наметону }
+armor_chest_nemeton_chief_name_name { Броня Лідера Неметону }
 
 armor_chest_ruinenlager_chief_name_name { Броня Лідера Вцілілих }
 
@@ -1306,39 +1306,39 @@ recipe_flow_dash_name { Здібність: Ривок }
 
 recipe_flow_energyProjectile_name { Заклинання: Магічна стріла }
 
-recipe_flow_execute_name { Здібність: Кровава Лють }
+recipe_flow_execute_name { Здібність: Кровава лють }
 
-recipe_flow_ferventCry_name { Здібність: Гарячий Крик }
+recipe_flow_ferventCry_name { Здібність: Гарячий крик }
 
-recipe_flow_fireCry_name { Заклинання: Вогняний Крик }
+recipe_flow_fireCry_name { Заклинання: Вогняний крик }
 
-recipe_flow_flowForm_name { Заклинання: Форма Фокусу }
+recipe_flow_flowForm_name { Заклинання: Форма фокусу }
 
-recipe_flow_fogForm_name { Заклинання: Туманна Форма }
+recipe_flow_fogForm_name { Заклинання: Туманна форма }
 
-recipe_flow_heavyBlow_name { Здібність: Могутній Удар }
+recipe_flow_heavyBlow_name { Здібність: Могутній удар }
 
 recipe_flow_infection_name { Здібність: Зараження }
 
-recipe_flow_magicVision_name { Заклинання: Магічне Бачення }
+recipe_flow_magicVision_name { Заклинання: Магічне бачення }
 
-recipe_flow_obsidianSpear_name { Заклинання: Призвати Обсидіанове Списо }
+recipe_flow_obsidianSpear_name { Заклинання: Призвати обсидіановий спис }
 
 recipe_flow_pierce_name { Здібність: Прокол }
 
-recipe_flow_root_aoe_name { Заклинання: Коло Коренів }
+recipe_flow_root_aoe_name { Заклинання: Коло коренів }
 
-recipe_flow_root_cone_name { Заклинання: Конус Коренів }
+recipe_flow_root_cone_name { Заклинання: Конус коренів }
 
-recipe_flow_shockingBlow_name { Здібність: Розривний Удар }
+recipe_flow_shockingBlow_name { Здібність: Розривний удар }
 
 recipe_flow_spartanKick_name { Здібність: Ривок }
 
 recipe_flow_thunderstorm_name { Заклинання: Гроза }
 
-recipe_flow_venomCry_name { Заклинання: Отруйний Крик }
+recipe_flow_venomCry_name { Заклинання: Отруйний крик }
 
-recipe_flow_whirlingEnergy_name { Заклинання: Вихор Енергії }
+recipe_flow_whirlingEnergy_name { Заклинання: Вихор енергії }
 
 recipe_flow_wound_name { Здібність: Рана }
 
@@ -1390,13 +1390,13 @@ recipe_harpybrew_name { Рецепт: Харпібрю }
 
 recipe_healingsalve_name { Рецепт: Лікувальна мазь }
 
-recipe_healingsalve_2_name { Рецепт: Настоянка Червоного Грибка }
+recipe_healingsalve_2_name { Рецепт: Настоянка червоного грибка }
 
-recipe_healingsalve_3_name { Рецепт: Темне Вариво }
+recipe_healingsalve_3_name { Рецепт: Темне вариво }
 
 recipe_honeybeer_name { Рецепт: Медовуха }
 
-recipe_hunterstrophy_name { Рецепт: Трофей Мисливця }
+recipe_hunterstrophy_name { Рецепт: Трофей мисливця }
 
 recipe_ironarrow_name { Рецепт: Залізні стріли }
 
@@ -1412,7 +1412,7 @@ recipe_leather_name { Рецепт: Шкіра }
 
 recipe_lockpick_name { Рецепт: Відмичка }
 
-recipe_marinatedmeatleg_name { Рецепт: Маринована М'ясна Лопатка Тіаа }
+recipe_marinatedmeatleg_name { Рецепт: Маринована м'ясна лопатка Тіаа }
 
 recipe_mediumquiver_name { Рецепт: Середній сагайдак }
 
@@ -1420,25 +1420,25 @@ recipe_mudmash_name { Рецепт: М'ясне Стю Олафа }
 
 recipe_poisonedthrowingknife_name { Рецепт: Отруєний метальний ніж }
 
-recipe_potion_health_0_name { Рецепт: Лікувальна Рідина }
+recipe_potion_health_0_name { Рецепт: Лікувальна рідина }
 
-recipe_potion_health_1_name { Рецепт: Потужна Лікувальна Рідина }
+recipe_potion_health_1_name { Рецепт: Потужна лікувальна рідина }
 
-recipe_potion_windwalker_name { Рецепт: Еліксир Блукаючого Перо }
+recipe_potion_windwalker_name { Рецепт: Еліксир блукаючого пера }
 
-recipe_rivercharm_name { Рецепт: Амулет Річки }
+recipe_rivercharm_name { Рецепт: Амулет річки }
 
 recipe_roastedcallamushroom_name { Рецепт: Смажені Калашрелі }
 
 recipe_roastofthepast_name { Рецепт: Печеня Древніх }
 
-recipe_rootstew_name { Рецепт: Туманне Стю }
+recipe_rootstew_name { Рецепт: Туманне рагу }
 
 recipe_rustymosspipe_name { Рецепт: Іржавий мох }
 
-recipe_silberringmind_0_name { Рецепт: Кільце Духів }
+recipe_silberringmind_0_name { Рецепт: Кільце духів }
 
-recipe_silberringmind_1_name { Рецепт: Витончене кільце Духів }
+recipe_silberringmind_1_name { Рецепт: Витончене кільце духів }
 
 recipe_silberringskill_0_name { Рецепт: Срібний перстень бандита }
 
@@ -1466,7 +1466,7 @@ recipe_thronyvine_name { Рецепт: Колючі ліани }
 
 recipe_thrownet_name { Рецепт: Накидна сітка }
 
-recipe_troutskewersbombus_name { Рецепт: Смертельні шашлики від Бомбаса }
+recipe_troutskewersbombus_name { Рецепт: Смертельні шашлики від Бомбуса }
 
 recipe_whispersilkbag_name { Рецепт: Мішок з Шепотливої Шовку }
 
