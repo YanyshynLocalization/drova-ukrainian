@@ -80,7 +80,7 @@ item_alraune_name { Мандрагора }
 
 item_alraune_description { Кричущий корінь. Цікаво, для чого він... }
 
-item_callashroom_name { Калашрум }
+item_callashroom_name { Червоний гриб }
 
 item_callashroom_description { Гриб з болот. }
 
@@ -94,7 +94,7 @@ item_beer_description { Просте пиво. Чим більше п’єш, т
 
 item_apple_name { Яблуко }
 
-item_callashroom_extract_name { Екстракт калашруму }
+item_callashroom_extract_name { Екстракт червоного гриба }
 
 item_callashroom_extract_description { Екстракт, необхідний для талісмана Гельми. }
 
@@ -506,11 +506,11 @@ weapon_barehands_name { Руки }
 
 weapon_barehands_description { Пошкодження від беззбройних атак залежить від сили. }
 
-item_stew_tiaa_name { Тушковане м'ясо Тіаа }
+item_stew_tiaa_name { Тушковане м'ясо Тії }
 
 item_stew_tiaa_manipulated_name { Маніпульована їжа }
 
-item_stew_tiaa_manipulated_description { Внутрішності Беді не будуть раді. }
+item_stew_tiaa_manipulated_description { Внутрішності Баді не будуть раді. }
 
 item_mushroom_name { Звичайний гриб }
 
@@ -554,7 +554,7 @@ item_lyra_description { Говорить мовою, яку розуміє ко�
 
 tool_torch_name { Факел }
 
-tool_torch_description { Освітлює темні місця та печери. Витягнення зброї змушує вас упустити факел. }
+tool_torch_description { Освітлює темні місця та печери. Оголення зброї, змушує вас кинути факел на землю. }
 
 item_claw_name { Кігті }
 
@@ -604,7 +604,7 @@ cons_Familiar_Firefly_name { Іскорка }
 
 key_tavernKey_name { Ключ від таверни }
 
-key_tavernKey_description { Ключ від заднього виходу таверни "Безголовий розбійник". }
+key_tavernKey_description { Ключ від заднього виходу таверни "Безголовий рипер". }
 
 weapon_bow_atlanterBow_name { Посланець Богів }
 
@@ -648,7 +648,7 @@ item_essence_stone_description { Цю суть можна отримати ли�
 
 item_salivate_worm_name { Слиновиділення черв'яка }
 
-item_spider_thread_name { Павуча нитка }
+item_spider_thread_name { Павутина }
 
 item_essence_void_name { Частинка тіні }
 
@@ -738,7 +738,7 @@ cons_flow_root_cone_description { У конічній зоні перед вам
 
 cons_flow_conjure_pack_name { Виклик: Пакет }
 
-cons_flow_conjure_pack_description { Викликає зграю різунів, щоб можуть розірвати ворогів. }
+cons_flow_conjure_pack_description { Викликає зграю риперів, що можуть розірвати ворогів. }
 
 cons_flow_conjure_insects_name { Виклик: Комахи }
 
@@ -746,7 +746,7 @@ cons_flow_conjure_insects_description { Викликає комах, що мож
 
 cons_flow_conjure_rats_name { Виклик: Щури }
 
-cons_flow_conjure_rats_description { Викликає щурів, які можуть завдати ворогам Кровотечу. }
+cons_flow_conjure_rats_description { Викликає щурів, які можуть завдати ворогам кровотечу. }
 
 cons_flow_venomCry_name { Отруйний крик }
 
@@ -802,7 +802,7 @@ cons_flow_obsidianSpear_name { Призвати Обсидіанову Пику 
 
 cons_flow_obsidianSpear_description { Ви викликаєте спис Древніх, що генерує концентрацію в зоні навколо себе. }
 
-item_playWithKids_name { Повідомлення: Гра з дітьми }
+item_playWithKids_name { Повідомлення: Ґра з дітьми }
 
 item_mikeschLetter_name { Борг }
 
@@ -876,7 +876,7 @@ item_silverStone_name { Срібні кулі }
 
 item_diamond_name { Діамант }
 
-item_ripperfur_name { Шкіра різуна }
+item_ripperfur_name { Шкіра рипера }
 
 item_pigfur_name { Шкіра кабана }
 
@@ -920,7 +920,7 @@ item_glauglocke_name { Сіра лілія }
 
 item_glauglocke_description { Росте в Пралісі. }
 
-item_riverbedmoss_name { Мох з русла річки }
+item_riverbedmoss_name { Річковий мох }
 
 item_needlelichen_name { Голковидний лишайник }
 
@@ -956,7 +956,7 @@ item_foodpile_name { Омлет з риби }
 
 item_fishpan_name { Рибна смажена їжа }
 
-item_roastedcallamushroom_name { Смажені Калашгриби }
+item_roastedcallamushroom_name { Смажені червоні гриби }
 
 item_roastofthepast_name { Печеня Древніх }
 
@@ -1098,11 +1098,11 @@ item_shaftofpurefury_name { Важіль чистого люті }
 
 item_shaftofpurefury_description { За кожен втрачений [HealthPercent] відсоток здоров'я, ви завдаєте [DamagePercent] більше шкоди. }
 
-item_bloodbornering_name { Перстень Крові }
+item_bloodbornering_name { Перстень крові }
 
 item_bloodbornering_description { Після того, як ви отримали удар, у вас є короткий проміжок часу для відновлення втраченого здоров'я, завдаючи шкоди супротивнику. Остерігайтесь старої крові. }
 
-item_whispersilkbag_name { Мішечок з Шепочучого Шовку }
+item_whispersilkbag_name { Мішечок з Шепочучого шовку }
 
 item_whispersilkbag_description { Ви відновлюєте [StaminaValueAbsolut] витривалості кожну секунду. }
 
@@ -1124,9 +1124,9 @@ item_spiritamulet_0_name { Амулет Духа }
 
 item_spiritamulet_1_name { Амулет Посиленного Духа }
 
-item_silverringstrength_0_name { Перстень насильства }
+item_silverringstrength_0_name { Перстень сили }
 
-item_silverringstrength_1_name { Великий перстень насильства }
+item_silverringstrength_1_name { Великий перстень сили }
 
 item_silverringstrength_2_name { Перстень з вузлом Дари }
 
@@ -1136,11 +1136,11 @@ item_silberringskill_1_name { Срібний перстень вбивці }
 
 item_silberringskill_2_name { Срібний перстень найманого вбивці }
 
-item_silberringmind_0_name { Перстень Спритних }
+item_silberringmind_0_name { Перстень розуму }
 
-item_silberringmind_1_name { Тонкий Перстень Спритних }
+item_silberringmind_1_name { Тонкий перстень розуму }
 
-item_silberringmind_2_name { Вишуканий Перстень Спритних }
+item_silberringmind_2_name { Вишуканий перстень розуму }
 
 item_armorring_0_name { Залізний Трискеліон }
 
@@ -1412,7 +1412,7 @@ recipe_leather_name { Рецепт: Шкіра }
 
 recipe_lockpick_name { Рецепт: Відмичка }
 
-recipe_marinatedmeatleg_name { Рецепт: Маринована м'ясна лопатка Тіаа }
+recipe_marinatedmeatleg_name { Рецепт: Маринована м'ясна лопатка Тія }
 
 recipe_mediumquiver_name { Рецепт: Середній сагайдак }
 
@@ -1428,7 +1428,7 @@ recipe_potion_windwalker_name { Рецепт: Еліксир блукаючог�
 
 recipe_rivercharm_name { Рецепт: Амулет річки }
 
-recipe_roastedcallamushroom_name { Рецепт: Смажені Калашрелі }
+recipe_roastedcallamushroom_name { Рецепт: Смажені червоні гриби }
 
 recipe_roastofthepast_name { Рецепт: Печеня Древніх }
 
@@ -1794,7 +1794,7 @@ item_letterCelts_BoundaryStone_name { Камені Межі та Неметон 
 
 item_letterCelts_Diemo_name { Думки Діємо про Неметон }
 
-item_letterCelts_Jero_name { Оцінка Єро щодо Божеств }
+item_letterCelts_Jero_name { Оцінка Джеро щодо Божеств }
 
 item_letterCelts_Nemeton_name { Заснування Неметону }
 
@@ -1876,9 +1876,9 @@ helmet_brutus_name_name { Шолом Нексуса }
 
 helmet_brutus_name_description { Странний шолом, прикрашений безліччю рун. }
 
-item_letter_foresttavern_chapter1_name { Полювання на Риппера 1 }
+item_letter_foresttavern_chapter1_name { Полювання на рипера 1 }
 
-item_letter_foresttavern_chapter3_name { Полювання на Риппера 2 }
+item_letter_foresttavern_chapter3_name { Полювання на рипера 2 }
 
 category_traps { Корисні речі }
 
@@ -2012,7 +2012,7 @@ weapon_sword_carimasoldsword_name { Старий Меч Каріми }
 
 weapon_sword_carimasoldsword_description {  }
 
-item_wine_description { Ви повинні насолодитися цим. }
+item_wine_description { Можете насолодитися ним. }
 
 item_silverore_description { Потрібно очистити на рудні. }
 

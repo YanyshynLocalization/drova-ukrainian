@@ -52,7 +52,7 @@ Achievement_EnteredRedTower_desc { Вступіть у Червону Вежу. 
 
 Achievement_FirstDeath_name { Ласкаво просимо в Дрову }
 
-Achievement_FirstDeath_desc { Смерть вперше. }
+Achievement_FirstDeath_desc { Помріть вперше. }
 
 Achievement_FirstArenaFight_name { Не розважаєш мене? }
 
@@ -60,7 +60,7 @@ Achievement_FirstArenaFight_desc { Перемогти в першому бою �
 
 Achievement_GraWonArenaFight_name { Для Непереможного }
 
-Achievement_GraWonArenaFight_desc { Ви допомогли Гра виграти бій. Естер задоволена. }
+Achievement_GraWonArenaFight_desc { Ви допомогли Ґра виграти бій. Естер задоволена. }
 
 Achievement_BloodborneAchievement_name { Остерігайтесь Старої Крові }
 
