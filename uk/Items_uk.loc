@@ -126,7 +126,7 @@ item_entryMine_name { Нотатка від Левіна }
 
 item_silverore_name { Срібна руда }
 
-tool_pickaxe_silberhauer_name { Срібний молот }
+tool_pickaxe_silberhauer_name { Руйнівник Срібла }
 
 tool_pickaxe_silberhauer_description { Дуже гарне кайло, яке мені продав Мерик. }
 
@@ -936,13 +936,13 @@ item_skulldew_description { Знайдена в найглибших болот�
 
 item_rustymosspipe_name { Іржавий мох }
 
-item_rustymosspipe_description { Розслаблює і допомагає забути про щоденні турботи. }
+item_rustymosspipe_description { Розслабляє і допомагає забути про щоденні турботи. }
 
 item_potion_windwalker_name { Еліксир блукаючого пера }
 
 item_potion_windwalker_description { Збільшує швидкість руху на [MovePercent] на [TimeAbs] секунд. }
 
-item_harpybrew_name { Гарпібрю }
+item_harpybrew_name { Відвар з гарпії }
 
 item_harpybrew_description { Обмінює концентрацію на здоров'я. Я впевнений, це не зовсім безглуздо, так? }
 
@@ -1386,11 +1386,11 @@ recipe_foodpile_name { Рецепт: Рибний омлет }
 
 recipe_golemsalve_name { Рецепт: Мазь голема }
 
-recipe_harpybrew_name { Рецепт: Харпібрю }
+recipe_harpybrew_name { Рецепт: Відвар з гарпії }
 
 recipe_healingsalve_name { Рецепт: Лікувальна мазь }
 
-recipe_healingsalve_2_name { Рецепт: Настоянка червоного грибка }
+recipe_healingsalve_2_name { Рецепт: Настоянка червоного гриба }
 
 recipe_healingsalve_3_name { Рецепт: Темне вариво }
 
@@ -1818,7 +1818,7 @@ weapon_spear_draugr_name { Спис Драугра }
 
 weapon_shield_draugr_name { Щит Драугра }
 
-weapon_axe_improvisedpickaxe_name { Ідентифікатор: Оружжя-Лопата }
+weapon_axe_improvisedpickaxe_name { Id: weapon_axe_improvisedpickaxe }
 
 helmet_earprotection_name_description { Деякі шуми просто болючі. Ці воскові грудки допомагають зменшити їх. }
 
@@ -1912,19 +1912,19 @@ flow_ricochet_name { Рикошет }
 
 flow_ricochet_description { Ви випускаєте снаряд, який завдає [WeaponDamagePercent] пошкоджень від зброї перед тим, як рикошетити від цілі і вражати додаткових супротивників поруч. }
 
-recipe_flow_ricochet_name { Спосіб: Рикошет }
+recipe_flow_ricochet_name { Здібність: Рикошет }
 
 flow_bruntShot_name { Оглушливий постріл }
 
 flow_bruntShot_description { Ви випускаєте стрілу, яка завдає [WeaponDamagePercent] пошкоджень від зброї і паралізує супротивників на [StunTime] секунд. }
 
-recipe_flow_bruntShot_name { Спосіб: Ударний Стріл }
+recipe_flow_bruntShot_name { Здібність: Ударний Стріл }
 
 flow_poisonArrow_name { Отруєна стріла }
 
 flow_poisonArrow_description { Ви випускаєте стрілу, яка завдає [WeaponDamagePercent] пошкоджень від зброї і отруює супротивників. }
 
-recipe_flow_poisonArrow_name { Спосіб: Отруєна стріла }
+recipe_flow_poisonArrow_name { Здібність: Отруєна стріла }
 
 key_tavernKey_Cellar_name { Ключ від підвалу }
 

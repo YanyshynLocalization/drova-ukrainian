@@ -56,7 +56,7 @@ talent_bow_02 { Мистецтво стрільби з лука }
 
 talent_bow_01_additionale_headline { Могутній постріл }
 
-talent_bow_01_additionale_desc { Під час прицілювання з лука ви випускаєте могутній постріл у саме правильне мгновення, що завдає [WeaponDamagePercent] шкоди. }
+talent_bow_01_additionale_desc { Під час прицілювання з лука ви випускаєте могутній постріл саме у правильний момент, що завдає [WeaponDamagePercent] шкоди. }
 
 talent_bow_01_desc { Збільшує шкоду, яку ви завдаєте, на [DamageValuePercent]. Тепер ви можете виконати могутній постріл з лука. }
 
