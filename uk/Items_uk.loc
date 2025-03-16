@@ -518,7 +518,7 @@ item_berry_name { Ягода }
 
 item_berry_description { Зростає в Заплавному лісі. }
 
-item_fish_bass_name { Бас }
+item_fish_bass_name { Окунь }
 
 item_bottlePost_name { Лист в пляшці }
 
@@ -838,7 +838,7 @@ throwing_ensnare_description { Ви кидаєте сітку, яка знеру
 
 item_permapotion_flow_name { Еліксир концентрації }
 
-item_permaherb_flow_name { Сяючий Бас }
+item_permaherb_flow_name { Сяючий Окунь }
 
 item_potion_flow_0_name { Еліксир концентрації }
 
@@ -926,7 +926,7 @@ item_needlelichen_name { Голковидний лишайник }
 
 item_needlelichen_description { Росте на деревах у Хвойному лісі. }
 
-item_povage_name { Клевер }
+item_povage_name { Любисток }
 
 item_povage_description { Росте біля таверни. }
 
@@ -1824,7 +1824,7 @@ helmet_earprotection_name_description { Деякі шуми просто бол�
 
 armor_chest_lendha_dylara_name { Броня та черевики Ділари }
 
-item_stalker_egg_name { Яйце снектора }
+item_stalker_egg_name { Яйце снептора }
 
 item_headleshen_name { Голова лешені }
 
@@ -1834,7 +1834,7 @@ item_fogears_name { Вуха Туману }
 
 item_foxpaw_name { Лапа лисиці }
 
-item_foodpile_strong_name { Стрибучий бас }
+item_foodpile_strong_name { Стрибучий окунь }
 
 item_fish_trout_name { Форель }
 
@@ -1844,7 +1844,7 @@ item_fish_dead_name { Мертва риба }
 
 item_fish_dead_description { Сира риба. Непридатна для споживання. }
 
-recipe_foodpile_strong_name { Рецепт: Стрибучий бас }
+recipe_foodpile_strong_name { Рецепт: Стрибучий окунь }
 
 letter_leru_hint03_name { Третій малюнок сну Лортіза }
 
@@ -1854,13 +1854,13 @@ key_chest_BanditCamp_description { Великий ключ, який я віді
 
 item_chunnaic_diamond_name { Діамант Чуннайка }
 
-item_roastedMeat_t2_name { Соковите смажене м'ясо }
+item_roastedMeat_t2_name { Смажене соковите м'ясо }
 
 item_roastedTrout_name { Смажена форель }
 
 recipe_meat_cooked_name { Рецепт: Смажене м'ясо }
 
-recipe_meat_2_name { Рецепт: Соковите смажене м'ясо }
+recipe_meat_2_name { Рецепт: Смажене соковите м'ясо }
 
 item_ring_god_name { Благословення Божественних }
 

@@ -30,7 +30,7 @@ learningpoints { ОН }
 
 talentlearned { Вивчено }
 
-talentcannotlearned { Ще не можна вивчити }
+talentcannotlearned { Поки не можна вивчити }
 
 talentcanbelearned { Можна вивчити }
 
