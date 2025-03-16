@@ -123,3 +123,5 @@ strength_value { Сила [VALUE] }
 dex_value { Спритність [VALUE] }
 
 mind_value { Розум [VALUE] }
+
+trinket_equipable { Навіть якщо у вас є кілька копій цього предмета, ви можете спорядити лише один. }

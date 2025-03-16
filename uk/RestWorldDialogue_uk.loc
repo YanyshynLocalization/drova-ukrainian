@@ -654,7 +654,7 @@ R_Working_RunIntoRoom_326 { Що це? }
 
 R_Working_RunIntoRoom_327 { Тут може бути щось цікаве. Допоможіть нам пошукати. }
 
-R_Working_RunIntoRoom_WarningPlayer_328 { Обережно! Не хочемо, щоб охоронець нас зловив! }
+R_Working_RunIntoRoom_WarningPlayer_328 { Обережно! Потрібно не попастися вартовим! }
 
 GoToEggs_329 { Ось тут! }
 
