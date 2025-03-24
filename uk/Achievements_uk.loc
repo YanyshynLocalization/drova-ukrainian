@@ -201,3 +201,7 @@ Achievement_ClassicMode_desc { Завершіть Drova в Класичному 
 Achievement_InsaneMode_name { Неймовірний }
 
 Achievement_InsaneMode_desc { Завершіть Drova в Неймовірному режимі. Не зараховується до базових досягнень. }
+
+Achievement_DefeatedFleshBoss_name { Визволити Божество у Кривавому багновищі. }
+
+Achievement_DefeatedFleshBoss_desc { Переконайтесь, що Криваве багновище може відновитись. Не зараховується до основних досягнень. }

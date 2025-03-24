@@ -374,7 +374,7 @@ weapon_shield_theWall_name { Стіна }
 
 weapon_shield_protection_name { Залізний щит }
 
-weapon_axe_snaga_name { Снага }
+weapon_axe_snaga_name { Снаґа }
 
 weapon_sword_branch_name { Гілка }
 
@@ -818,7 +818,7 @@ cons_flow_aggressiveCry_description { Ви ревете в конічній зо
 
 cons_flow_battleCry_name { Бойовий крик }
 
-cons_flow_battleCry_description { Збільшує завдані пошкодження на [DamagePercent], швидкість руху і атаки на [MovePercent], але ви також отримаєте на [ReceiveDamagePercent] більше пошкоджень. Ефект триває [TimeAbs] секунд. }
+cons_flow_battleCry_description { Збільшує завдані фізичні пошкодження на [DamagePercent], швидкість руху і атаки на [MovePercent], але ви також отримаєте на [ReceiveDamagePercent] більше пошкоджень. Ефект триває [TimeAbs] секунд. }
 
 cons_flow_bullRush_name { Заряд }
 
@@ -1930,7 +1930,7 @@ key_tavernKey_Cellar_name { Ключ від підвалу }
 
 key_tavernKey_Cellar_description { Ключ від підвалу таверни в таборі Вцілілих. }
 
-helmet_none_name { Ідентифікатор: Шолом_Відсутній }
+helmet_none_name { Id: Шолом_Відсутній }
 
 recipe_silverringstrength_2_name { Рецепт: Кільце з вузлом Дари }
 
@@ -1958,33 +1958,19 @@ item_bigligering_description {  }
 
 recipe_yggdrasil_name { Рецепт: Кільце Іггдрасиля }
 
-misc_key_locked_door_name { [LOCA] Ключ не знайдений: misc_key_locked_door_name. Шлях: Предмети }
+cons_flow_natureSpirit_npc_name { Id: cons_flow_natureSpirit_npc }
 
-misc_key_locked_door_description { [LOCA] Ключ не знайдений: misc_key_locked_door_description. Шлях: Предмети }
+cons_flow_aggressiveCry_npc_name { Id: cons_flow_aggressiveCry_npc }
 
-cons_flow_conjure_ripper_name { Ідентифікатор: cons_flow_conjure_ripper }
+cons_flow_bullRush_bady_name { Id: cons_flow_bullRush_bady }
 
-cons_flow_natureSpirit_npc_name { Ідентифікатор: cons_flow_natureSpirit_npc }
+cons_flow_heavyBlow_bady_name { Id: cons_flow_heavyBlow_bady }
 
-cons_flow_aggressiveCry_npc_name { Ідентифікатор: cons_flow_aggressiveCry_npc }
+cons_flow_infection_bady_name { Id: cons_flow_infection_bady }
 
-cons_flow_bullRush_bady_name { Ідентифікатор: cons_flow_bullRush_bady }
+cons_flow_shockingBlow_bady_name { Id: cons_flow_shockingBlow_bady }
 
-cons_flow_heavyBlow_bady_name { Ідентифікатор: cons_flow_heavyBlow_bady }
-
-cons_flow_infection_bady_name { Ідентифікатор: cons_flow_infection_bady }
-
-cons_flow_shockingBlow_bady_name { Ідентифікатор: cons_flow_shockingBlow_bady }
-
-item_poisonedThrowingKnife_npc_fan_name { Ідентифікатор: item_poisonedThrowingKnife_npc_fan }
-
-item_poisonedThrowingKnife_npc_fast_name { Ідентифікатор: item_poisonedThrowingKnife_npc_fast }
-
-item_splittertrap_npc_ebru_all_arena_name { Ідентифікатор: item_splittertrap_npc_ebru_all_arena }
-
-item_splittertrap_npc_ebru_single_name { Ідентифікатор: item_splittertrap_npc_ebru_single }
-
-flow_battleCry_npc_name { Ідентифікатор: flow_battleCry_npc }
+flow_battleCry_npc_name { Id: flow_battleCry_npc }
 
 item_Map_Treasure_Forest_name { Мапа скарбів: Хвойний ліс }
 
@@ -2063,3 +2049,77 @@ weapon_dagger_draugr_name { Кинджали Драуґра }
 weapon_axe_draugr_name { Сокира Драуґра }
 
 weapon_bow_draugr_name { Лук Драуґра }
+
+cons_flow_magicNuke_name { Магічний розряд }
+
+cons_flow_magicNuke_description { Потужне закляття, що завдає [DamageFlexAbs] магічного пошкодження та [PoiseDamageAbs] пошкодження стійкості. }
+
+flow_sunder_name { Магічний удар }
+
+flow_sunder_description { Широкий розмах мечем, що завдає [WeaponDamagePercent] магічного пошкодження. Масштабується від Сили та Розуму. }
+
+flow_ballista_name { Балліста }
+
+flow_ballista_description { Атака списом з великою дальністю та віддачею, що завдає [WeaponDamagePercent] магічного пошкодження. Масштабується від Сили та Розуму. }
+
+flow_cyclone_name { Вихор }
+
+flow_cyclone_description { Кругова атака сокирою, що завдає [WeaponDamagePercent] магічного пошкодження. Масштабується від Сили та Розуму. }
+
+flow_dashStab_name { Тіньовий заряд }
+
+flow_dashStab_description { Ви мчите вперед по прямій у напрямку погляду, ігноруючи зіткнення з іншими істотами, завдаючи [WeaponDamagePercent] магічного пошкодження. Масштабується від Сили та Розуму. }
+
+flow_blast_name { Удар листя }
+
+flow_blast_description { Ви концентруєте первинну магічну енергію та вивільняєте її у напрямку погляду. Завдає [DamageFlexAbs] магічного пошкодження. }
+
+flow_graspingRoots_name { Виклик коренів }
+
+flow_graspingRoots_description { Ви концентруєте первинну магічну енергію, щоб корені попросли із землі. Тримають супротивників протягом [TimeAbs] секунд. }
+
+flow_travelForm_name { Дар вовка }
+
+flow_travelForm_description { Ви концентруєте первинну магічну енергію, щоб перетворитись на дух вовка. Збільшує вашу швидкість руху на [MovementPercent]. }
+
+flow_natureTouch_name { Обійми природи }
+
+flow_natureTouch_description { Ви концентруєте первинну магічну енергію, щоб відновити [HealValueAbsolut] здоров’я протягом [TimeAbs] секунд. Масштабується від Розуму. }
+
+flow_conjure_spiritCall_name { Поклик Пралісу }
+
+flow_conjure_spiritCall_description { Ви концентруєте первинну магічну енергію, щоб викликати духів Пралісу, які допоможуть вам у бою. }
+
+key_extractor_name { Ключ Екстрактора }
+
+key_extractor_description { Складається з трьох частин, з’єднаних зверху і відкритих знизу. }
+
+flow_spiritShot_name { Заряд Кабана }
+
+flow_spiritShot_description { Ви концентруєте первинну магічну енергію, щоб викликати дух кабана, який мчить у напрямку погляду та завдає [DamageFlexAbs] магічного пошкодження. }
+
+helmet_atlanter_champion_name { Образ Чемпіона }
+
+helmet_atlanter_champion_description { Спеціальний шолом Древніх, як винагорода за видатні досягнення в бою. }
+
+recipe_flow_magicnuke_name { Заклинання: Магічний розряд }
+
+recipe_flow_dashstab_name { Заклинання: Тіньовий заряд }
+
+recipe_flow_sunder_name { Заклинання: Магічний удар }
+
+recipe_flow_cyclone_name { Заклинання: Циклон }
+
+recipe_flow_ballista_name { Заклинання: Балліста }
+
+weapon_sword_ancientRitualSword_name { Стародавній ритуальний меч }
+
+weapon_sword_ancientRitualSword_description {}
+
+weapon_sword_ancientSword_name { Стародавній меч }
+
+weapon_sword_ancientSword_description {}
+
+weapon_axe_ancientAxe_name { Стародавня сокира }
+
+weapon_axe_ancientAxe_description {}
