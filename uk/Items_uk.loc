@@ -22,7 +22,7 @@ item_meat_raw_name { Соковите м'ясо }
 
 item_meat_raw_description { Сире м'ясо. Непридатне для споживання. }
 
-item_farmersFood_name { Їжа фермера }
+item_farmersFood_name { Обід фермера }
 
 item_bogIron_name { Болотне залізо }
 
@@ -912,7 +912,7 @@ item_acidbomb_name { Кислотна бомба }
 
 item_acidbomb_description { При вибусі бомби, утворюється отруйна хмара, котра сповільнює всіх ворогів у зоні дії. }
 
-item_bogwheat_name { Мурова пшениця }
+item_bogwheat_name { Болотна пшениця }
 
 item_bogwheat_description { Росте на болотах біля ферми. }
 
@@ -1636,7 +1636,7 @@ helmet_atlanter_name_description { Древній шолом, ймовірно, 
 
 helmet_straw_name_name { Солом'яний капелюх }
 
-helmet_straw_name_description { Цей солом'яний капелюх все ще виглядає досить гостро, хоча його часто ремонтували. Хтось дуже добре за ним доглядав. }
+helmet_straw_name_description { Цей солом'яний капелюх все ще виглядає досить гарно, хоча його часто ремонтували. Хтось дуже добре за ним доглядав. }
 
 helmet_hood_bandit_name_name { Каптур бандитів }
 
@@ -1852,7 +1852,7 @@ key_chest_BanditCamp_name { Важкий ключ }
 
 key_chest_BanditCamp_description { Великий ключ, який я відібрав у ватаги розбійників. }
 
-item_chunnaic_diamond_name { Діамант Чуннайка }
+item_chunnaic_diamond_name { Діамант Чуннайк }
 
 item_roastedMeat_t2_name { Смажене соковите м'ясо }
 
@@ -2050,7 +2050,7 @@ weapon_axe_draugr_name { Сокира Драуґра }
 
 weapon_bow_draugr_name { Лук Драуґра }
 
-cons_flow_magicNuke_name { Магічний розряд }
+cons_flow_magicNuke_name { Розряд блискавки }
 
 cons_flow_magicNuke_description { Потужне закляття, що завдає [DamageFlexAbs] магічного пошкодження та [PoiseDamageAbs] пошкодження стійкості. }
 
@@ -2102,7 +2102,7 @@ helmet_atlanter_champion_name { Образ Чемпіона }
 
 helmet_atlanter_champion_description { Спеціальний шолом Древніх, як винагорода за видатні досягнення в бою. }
 
-recipe_flow_magicnuke_name { Заклинання: Магічний розряд }
+recipe_flow_magicnuke_name { Заклинання: Розряд блискавки }
 
 recipe_flow_dashstab_name { Заклинання: Тіньовий заряд }
 

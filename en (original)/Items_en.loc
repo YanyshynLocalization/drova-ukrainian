@@ -2050,7 +2050,7 @@ weapon_axe_draugr_name { Draugr Axe }
 
 weapon_bow_draugr_name { Draugr Bow }
 
-cons_flow_magicNuke_name { Magical Discharge }
+cons_flow_magicNuke_name { Lightning Strike }
 
 cons_flow_magicNuke_description { A powerful spell that inflicts [DamageFlexAbs] magical damage and [PoiseDamageAbs] stance damage. }
 
@@ -2102,7 +2102,7 @@ helmet_atlanter_champion_name { Countenance of the Champion }
 
 helmet_atlanter_champion_description { A special helmet of the Bygones, awarded for outstanding feats in battle. }
 
-recipe_flow_magicnuke_name { Spell: Magical Discharge }
+recipe_flow_magicnuke_name { Spell: Lightning Strike }
 
 recipe_flow_dashstab_name { Spell: Shadowcharge }
 
