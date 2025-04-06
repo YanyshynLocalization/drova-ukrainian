@@ -16,15 +16,12 @@
 P.S. В міру виходу оновлень гри та власного проходження старатимуся оновлювати та підкоректовувати переклад
 
 <br>
-<br>
-<br>
-   
 
 ## English
 
 ### About
 
-It is Ukrainian machine translation of [Drova - Forsaken Kin](https://www.gog.com/en/game/drova_forsaken_kin).
+It is Ukrainian translation for game [Drova - Forsaken Kin](https://www.gog.com/en/game/drova_forsaken_kin).
 
 
 ### How to Install
