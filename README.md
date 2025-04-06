@@ -2,7 +2,7 @@
 
 ### Про проєкт
 
-Це український машинний переклад відеогри [Drova - Forsaken Kin](https://www.gog.com/en/game/drova_forsaken_kin).
+Українська локалізація (Українізатор) — для гри [Drova - Forsaken Kin](https://www.gog.com/en/game/drova_forsaken_kin).
 
 ### Як встановити
 
@@ -11,7 +11,7 @@
 3. Запустіть гру та виберіть у налаштуваннях українську мову
 4. Насолоджуйтесь!
 
-**ПРИМІТКА:** Поточна локалізація — це доволі якісний машинний автоматичний переклад із невеликими ручними виправленнями, що базується на англійській мові та додає українську мову в грі
+**ПРИМІТКА:** Повна українська локалізація гри — це ручний переклад із корегуванням машинного автоматичного перекладу, що базується на англійській мові та додає українську мову в грі
 
 P.S. В міру виходу оновлень гри та власного проходження старатимуся оновлювати та підкоректовувати переклад
 
@@ -34,7 +34,17 @@ It is Ukrainian machine translation of [Drova - Forsaken Kin](https://www.gog.co
 3. Launch the game and select Ukrainian language in settings
 4. Enjoy!
 
-**NOTE:** Current localization is nice-quality machine auto translation with small custom edits, it is based on English and adds Ukrainian language in game
+**NOTE:** Current localization is a manual translation with corrections from machine translation, based on English and adding Ukrainian to the game.
 
 ----------------------------------------------------
 
+### Change log
+
+ - v1.3 (28/03/25) - fully translated all new text in big game update v1.3
+ - v1.24 (10/03/25) - lot of fixed and updates in naming, dialogues
+ - v1.2.3 (01/02/25) - updated to game version v1.2.3, a small fixes in item naming, a lot of fixes in dialogues
+ - v1.2.2 (13/01/25) - updated to game version v1.2.2, a small fixes in location and items naming, dialogues
+ - v1.2.1.2 (03/01/25) - updated to game version v1.2.1.2, a lot of small fixes in location naming, npc names, dialogues
+ - v1.2.1 (22/12/24) - updated to game version v1.2.1, fixes in achievements and UI namings
+ - v1.1.5 (11/12/24) - updated to game version v1.1.5, fixes in UI and general namings
+ - v1.0.6 (19/11/24) - fully auto-translated all in-game texts
