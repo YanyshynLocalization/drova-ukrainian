@@ -184,9 +184,9 @@ IdleWeaponDuringQuest_91 { Як мені це пояснити... }
 
 IdleWeaponDuringQuest_92 { Ні, тільки не знову... }
 
-TalkToMombert_93 { Ти повинен бути обережнішим, Лукани! }
+TalkToMombert_93 { Ти повинен бути обережнішим, Лукане! }
 
-TalkToMombert_94 { Ангус вирішує, хто може пройти. }
+TalkToMombert_94 { Анґус вирішує, хто може пройти. }
 
 TalkToMombert_95 { НЕ ти! }
 
@@ -198,7 +198,7 @@ TalkToMombert_98 { Друїди покладаються на тебе. }
 
 TalkToMombert_99 { Так! }
 
-Kendrick_Start_100 { Просто слухай мене, Ангусе... }
+Kendrick_Start_100 { Просто слухай мене, Анґусе... }
 
 Kendrick_Start_101 { Просто знайди злодія. }
 
@@ -214,9 +214,9 @@ GoToAdwinWithPlayer_106 { Слідуй за мною. }
 
 GoToAdwinWithPlayer_107 { Вічний Вогонь тут. }
 
-GoToAdwinWithPlayer_108 { Мірте наглядає за ним. }
+GoToAdwinWithPlayer_108 { Мірта наглядає за ним. }
 
-GoToAdwinWithPlayer_109 { Це майстерня Чаннайка. }
+GoToAdwinWithPlayer_109 { Це майстерня Чуннаїк. }
 
 GoToAdwinWithPlayer_110 { Якщо тобі коли-небудь знадобиться зброя. }
 
@@ -224,9 +224,9 @@ GoToAdwinWithoutPlayer_111 { Слідуй за мною. }
 
 GoToAdwinWithoutPlayer_112 { Вічний Вогонь тут. }
 
-GoToAdwinWithoutPlayer_113 { Мірте наглядає за ним. }
+GoToAdwinWithoutPlayer_113 { Мірта наглядає за ним. }
 
-GoToAdwinWithoutPlayer_114 { Це майстерня Чаннайка. }
+GoToAdwinWithoutPlayer_114 { Це майстерня Чуннаїк. }
 
 GoToAdwinWithoutPlayer_115 { Якщо тобі коли-небудь знадобиться зброя. }
 
@@ -258,7 +258,7 @@ GoToRuraFromEntrance_128 { Вибач, Рура... }
 
 GoToRuraFromEntrance_129 { Забудь. Працюй. }
 
-FavourOfCraftsmenGardenerAct1Intro_130 { Геріон сказав, що я повинен це забрати. }
+FavourOfCraftsmenGardenerAct1Intro_130 { Ґеріон сказав, що я повинен це забрати. }
 
 FavourOfCraftsmenGardenerAct1Intro_131 { І цього недостатньо! }
 
@@ -268,7 +268,7 @@ FavourOfCraftsmenGardenerAct1Intro_133 { Я маю витягнути це з с
 
 FavourOfCraftsmenGardenerAct1Intro_134 { Чорт його знає. }
 
-FavourOfCraftsmenGardenerAct1Intro_135 { Вирішуй це з Геріоном. }
+FavourOfCraftsmenGardenerAct1Intro_135 { Вирішуй це з Ґеріоном. }
 
 MorningMiddayAfternoonEvening_136 { Ці товари вже приїхали, але ті товари ще не приїхали... }
 

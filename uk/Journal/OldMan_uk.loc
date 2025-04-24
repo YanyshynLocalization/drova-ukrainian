@@ -1,6 +1,6 @@
 Title { Старий чоловік на ринку }
 
-Entry_01 { Я зустрів старого чоловіка, який хоче, щоб я приніс йому різні речі з ринку. Він попросив мене купити для нього $GVAR:QuestVars_OldMan_Config.AmountApple$ яблук, $GVAR:QuestVars_OldMan_Config.AmountDagger$ хлібний ніж, $GVAR:QuestVars_OldMan_Config.AmountQuellWurz$ весняного зілля та ведмежу шкуру. Він каже, що все це можна купити на ринку. }
+Entry_01 { Я зустрів старого чоловіка, який хоче, щоб я приніс йому різні речі з ринку. Він попросив мене купити для нього $GVAR:QuestVars_OldMan_Config.AmountApple$ яблук, $GVAR:QuestVars_OldMan_Config.AmountDagger$ ніж для хліба, $GVAR:QuestVars_OldMan_Config.AmountQuellWurz$ кореня весноцвіту та ведмежу шкуру. Він каже, що все це можна купити на ринку. }
 
 Entry_02 { Фемке не хоче продавати мені ведмежу шкуру. Він сказав, що можна підсунути старому овечу шкуру, замість ведмежої. Він все одно не помітить різниці. }
 

@@ -38,7 +38,7 @@ item_honey_name { Мед }
 
 item_packageToMoorlager_name { Пакунок з товарами }
 
-item_packageToMoorlager_description { Товари від Джорджа для Ангуса у Неметоні. }
+item_packageToMoorlager_description { Товари від Джорджа для Анґуса у Неметоні. }
 
 item_letterToAsmus_sealed_name { Лист для Асмуса }
 
@@ -96,7 +96,7 @@ item_apple_name { Яблуко }
 
 item_callashroom_extract_name { Екстракт червоного гриба }
 
-item_callashroom_extract_description { Екстракт, необхідний для талісмана Гельми. }
+item_callashroom_extract_description { Екстракт, необхідний для талісмана Хельми. }
 
 item_ironbar_name { Залізний злиток }
 
@@ -692,7 +692,7 @@ cons_flow_heavyBlow_description { Важка атака, що завдає [Weap
 
 cons_flow_shockingBlow_name { Вражаючий удар }
 
-cons_flow_shockingBlow_description { Ви завдаєте [WeaponDamagePercent] пошкодження і ошелешуєте ворогів на [StunTime] секунд. }
+cons_flow_shockingBlow_description { Ви завдаєте [WeaponDamagePercent] пошкодження і ошелешуєте ворогів на [StunTime] секунду. }
 
 cons_flow_spartanKick_name { Удар ногою }
 
@@ -1102,7 +1102,7 @@ item_bloodbornering_name { Перстень крові }
 
 item_bloodbornering_description { Після того, як ви отримали удар, у вас є короткий проміжок часу для відновлення втраченого здоров'я, завдаючи шкоди супротивнику. Остерігайтесь старої крові. }
 
-item_whispersilkbag_name { Мішечок з Шепочучого шовку }
+item_whispersilkbag_name { Мішечок з Шепітливого шовку }
 
 item_whispersilkbag_description { Ви відновлюєте [StaminaValueAbsolut] витривалості кожну секунду. }
 
@@ -1244,7 +1244,7 @@ weapon_sword_karottegladius_description { Зручна зброя, в яку в�
 
 item_karottegladius_broken_name { Пошкоджена Зброя Каротте }
 
-item_karottegladius_broken_description { Чуннайк має змогу відремонтувати цю зброю. }
+item_karottegladius_broken_description { Чуннаїк має змогу відремонтувати цю зброю. }
 
 item_letterboard_fragment_name { Фрагмент таблиці }
 
@@ -1448,9 +1448,9 @@ recipe_silverarrow_name { Рецепт: Срібні стріли }
 
 recipe_silverlump_name { Рецепт: Шматок срібла }
 
-recipe_silverringstrength_0_name { Рецепт: Кільце насильства }
+recipe_silverringstrength_0_name { Рецепт: Перстень сили }
 
-recipe_silverringstrength_1_name { Рецепт: Велике кільце насильства }
+recipe_silverringstrength_1_name { Рецепт: Великий перстень сили }
 
 recipe_silverstone_name { Рецепт: Срібні кулі }
 
@@ -1468,7 +1468,7 @@ recipe_thrownet_name { Рецепт: Накидна сітка }
 
 recipe_troutskewersbombus_name { Рецепт: Смертельні шашлики від Бомбуса }
 
-recipe_whispersilkbag_name { Рецепт: Мішок з Шепотливої Шовку }
+recipe_whispersilkbag_name { Рецепт: Мішечок з Шепітливого шовку }
 
 recipe_woodenarrow_name { Рецепт: Дерев'яна стріла }
 
@@ -1680,7 +1680,7 @@ helmet_draugr_dark_name_name { Темний шолом Древніх }
 
 helmet_draugr_mage_name_name { Темний шолом чаклуна Древніх }
 
-item_sheepfur_name { Вівчарка }
+item_sheepfur_name { Овеча шкура }
 
 note_naughty_male_name { Голі Факти }
 
@@ -1852,7 +1852,7 @@ key_chest_BanditCamp_name { Важкий ключ }
 
 key_chest_BanditCamp_description { Великий ключ, який я відібрав у ватаги розбійників. }
 
-item_chunnaic_diamond_name { Діамант Чуннайк }
+item_chunnaic_diamond_name { Діамант Чуннаїк }
 
 item_roastedMeat_t2_name { Смажене соковите м'ясо }
 
@@ -1932,7 +1932,7 @@ key_tavernKey_Cellar_description { Ключ від підвалу таверни
 
 helmet_none_name { Id: Шолом_Відсутній }
 
-recipe_silverringstrength_2_name { Рецепт: Кільце з вузлом Дари }
+recipe_silverringstrength_2_name { Рецепт: Перстень з вузлом Дари }
 
 recipe_silverringstrength_2_description { recipe_silverringstrength_2_description }
 
