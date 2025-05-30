@@ -66,9 +66,9 @@ talent_slingshot_01 { Основи стрільби з пращі }
 
 talent_slingshot_02 { Мистецтво стрільби з пращі }
 
-talent_slingshot_01_desc { Збільшує шкоду, яку ви завдаєте, на [DamageValuePercent], а також шкоду від позиції на [PoiseValuePercent]. Ви вивчите вміння зброї "Відскок". }
+talent_slingshot_01_desc { Збільшує шкоду, яку ви завдаєте, на [DamageValuePercent], а також шкоду стійкості на [PoiseValuePercent]. Ви вивчите вміння зброї "Відскок". }
 
-talent_slingshot_02_desc { Збільшує шкоду, яку ви завдаєте, на [DamageValuePercent], а також шкоду від позиції на [PoiseValuePercent]. }
+talent_slingshot_02_desc { Збільшує шкоду, яку ви завдаєте, на [DamageValuePercent], а також шкоду стійкості на [PoiseValuePercent]. }
 
 talent_axe_01 { Основи фехтування сокирою }
 
