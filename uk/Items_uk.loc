@@ -134,7 +134,7 @@ item_logwood_name { Колода }
 
 item_salve_healing_name { Лікувальна мазь }
 
-item_pigglet_food_name { Зміцнене корм }
+item_pigglet_food_name { Зміцнений корм }
 
 item_pigglet_food_description { Це допоможе поросятам відновити силу. }
 
@@ -262,13 +262,13 @@ weapon_dagger_sacrificialDagger_name { Жертвені кинджали }
 
 weapon_dagger_shortBlade_name { Зубчасті кинджали }
 
-weapon_dagger_coarseDagger_name { Москітний жалюгідник }
+weapon_dagger_coarseDagger_name { Москітне жало }
 
 weapon_dagger_ironSpike_name { Залізний шпиль }
 
 weapon_dagger_mosquitoSting_name { Іржаві кинджали }
 
-weapon_dagger_ironDagger_name { Туманний жалюгідник }
+weapon_dagger_ironDagger_name { Туманне жало }
 
 weapon_dagger_blackKnife_name { Чорні ножі }
 
@@ -276,7 +276,7 @@ weapon_dagger_eviscerator_name { Той, що вивертає нутрощі }
 
 weapon_dagger_silence_name { Тупі залізні кинджали }
 
-weapon_dagger_heartSeeker_name { Пошуковець серця }
+weapon_dagger_heartSeeker_name { Шукач серця }
 
 weapon_dagger_theKingslayer_name { Кровавий кинджал }
 
@@ -290,7 +290,7 @@ weapon_sling_simpleSlingshot_name { Проста праща }
 
 weapon_sling_heavySlingshot_name { Важка праща }
 
-weapon_sling_headSlingshot_name { Голова праща }
+weapon_sling_headSlingshot_name { Головна праща }
 
 weapon_sling_battleSlingshot_name { Бойова праща }
 
@@ -736,7 +736,7 @@ cons_flow_root_cone_name { Корінь-конус }
 
 cons_flow_root_cone_description { У конічній зоні перед вами ви викликаєте корені, що захоплюють ворогів на [TimeAbs] секунд. }
 
-cons_flow_conjure_pack_name { Виклик: Пакет }
+cons_flow_conjure_pack_name { Виклик: Зграя }
 
 cons_flow_conjure_pack_description { Викликає зграю риперів, що можуть розірвати ворогів. }
 
@@ -882,7 +882,7 @@ item_pigfur_name { Шкіра кабана }
 
 item_bearfur_name { Шкіра ведмедя }
 
-item_shiningfur_name { Світна шкіра }
+item_shiningfur_name { Сяюча шкіра }
 
 item_gnarlyroot_name { Викривлені корені }
 
@@ -916,7 +916,7 @@ item_bogwheat_name { Болотна пшениця }
 
 item_bogwheat_description { Росте на болотах біля ферми. }
 
-item_glauglocke_name { Сіра лілія }
+item_glauglocke_name { Туманна лілія }
 
 item_glauglocke_description { Росте в Пралісі. }
 
@@ -986,11 +986,11 @@ armor_chest_nemeton_guardian_heavy_name_name { Важка броня охоро�
 
 armor_chest_nemeton_guardian_light_name_name { Легка броня охоронця Неметону }
 
-armor_chest_lendha_heavy_name_name { Важка броня Лендхи }
+armor_chest_lendha_heavy_name_name { Важка броня Неметону }
 
 armor_chest_lendha_heavy_name_description { Ця броня призначена для членів Неметону. Вона виявляє мою лояльність до Неметону. }
 
-armor_chest_lendha_name_name { Легка броня Лендхи }
+armor_chest_lendha_name_name { Легка броня Неметону }
 
 armor_chest_shirt_ragged_name_name { Лахміття }
 
@@ -1798,7 +1798,7 @@ item_letterCelts_Jero_name { Оцінка Джеро щодо Божеств }
 
 item_letterCelts_Nemeton_name { Заснування Неметону }
 
-item_letterCelts_Roarke_name { Дивні Ідеї Роарка }
+item_letterCelts_Roarke_name { Дивні Ідеї Рорка }
 
 item_letterCelts_SafeHaven_name { Мета Притулку }
 
