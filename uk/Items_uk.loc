@@ -264,7 +264,7 @@ weapon_dagger_shortBlade_name { Зубчасті кинджали }
 
 weapon_dagger_coarseDagger_name { Москітне жало }
 
-weapon_dagger_ironSpike_name { Залізний шпиль }
+weapon_dagger_ironSpike_name { Залізне вістря }
 
 weapon_dagger_mosquitoSting_name { Іржаві кинджали }
 
@@ -390,7 +390,7 @@ item_roastedMeat_description { Не дуже смачно, але хоча б т
 
 item_signOfAtonement_name { Символ каяття }
 
-item_signOfAtonement_description { Мої злочини у Притулку тепер прощені. }
+item_signOfAtonement_description { Мої злочини у Прихистку тепер прощені. }
 
 item_luminousTruffle_name { Трюфель }
 
@@ -574,7 +574,7 @@ key_chest_mineBanditMainKey_name { Іржавий ключ }
 
 key_chest_mineBanditMainKey_description { Я взяв це у банди бандитів. }
 
-item_mineRelic_name { Дивний реліквія }
+item_mineRelic_name { Дивна реліквія }
 
 item_mineRelic_description { Давня реліквія часів Древніх }
 
@@ -782,7 +782,7 @@ item_escortLetter_name { Повідомлення: Ескортування до
 
 item_blackboard_woodcamp_name { Повідомлення: табір Лісорубів }
 
-cons_flow_flowForm_name { Образ потоку }
+cons_flow_flowForm_name { Форма фокусу }
 
 cons_flow_flowForm_description { Збільшує фізичне пошкодження на [DamagePercent], збільшує швидкість руху та атаки на [MovePercent] і знижує споживання витривалості для всіх дій на [StaminaValuePercent].<br><br>Витрата концентрації відбуватиметься поступово. Ефект триває, поки вся концентрація не буде витрачена. }
 
@@ -954,7 +954,7 @@ item_agilostew_name { Дивне рагу Агило }
 
 item_foodpile_name { Омлет з риби }
 
-item_fishpan_name { Рибна смажена їжа }
+item_fishpan_name { Смажена риба }
 
 item_roastedcallamushroom_name { Смажені червоні гриби }
 
@@ -1044,7 +1044,7 @@ item_bigquiver_description { Цей сагайдак вміщує сім стр�
 
 item_rivercharm_name { Амулет річки }
 
-item_rivercharm_description { Після успішного удару, атаки генерують більше фокусу. }
+item_rivercharm_description { Після успішного удару, атаки генерують більше концентрації. }
 
 item_thornfetish_name { Колючий оберіг }
 
@@ -1060,7 +1060,7 @@ item_vipertooth_description { Сповільнює отруєння ще на [S
 
 item_mastersmemory_name { Пояс майстра }
 
-item_mastersmemory_description { Останній удар комбінації мечем або сокирою завдає [DamageValuePercent] більше пошкоджень і генерує [FocusValuePercent] більше фокусу. }
+item_mastersmemory_description { Останній удар комбінації мечем або сокирою завдає [DamageValuePercent] більше пошкоджень і генерує [FocusValuePercent] більше концентрації. }
 
 item_cleavageskull_name { Черепоріз }
 
@@ -1146,9 +1146,9 @@ item_armorring_0_name { Залізний Трискеліон }
 
 item_armorring_1_name { Срібний Трискеліон }
 
-item_magicresring_0_name { Трікетра }
+item_magicresring_0_name { Трикветр }
 
-item_magicresring_1_name { Світлова Трікетра }
+item_magicresring_1_name { Сяючий Трикветр }
 
 item_harpyiefeather_name { Перо гарпії }
 
@@ -1256,7 +1256,7 @@ item_sealstone_past_name { Печатка Древніх }
 
 item_sealstone_past_description { Складно прикрашений камінь з вбудованим кристалом. }
 
-item_brutus_seal_inactive_name { Неактивна Печатка Дриваніуса }
+item_brutus_seal_inactive_name { Неактивна Печатка Дриванія }
 
 item_brutus_seal_inactive_description { Лише $GVAR:QuestVars_Brutus.ActivateShrine$ із семи вбудованих кристалів світяться на цей момент. }
 
@@ -1272,19 +1272,19 @@ item_herb_past_name { Лікувальні трави Древніх }
 
 item_herb_past_description { Давні, але вони все ще мають деякі лікувальні властивості. }
 
-item_headdress_magicamp_name { Головний Убрасиок Зв'язаних }
+item_headdress_magicamp_name { Головний убір Пов'язаних }
 
 item_headdress_magicamp_description { Головний убір, що символізує зв'язок з Пралісом. }
 
-item_brutus_seal_active_name { Активна Печатка Дриваніуса }
+item_brutus_seal_active_name { Активна Печатка Дриванія }
 
 item_brutus_seal_active_description { Усі сім вбудованих кристалів світяться. }
 
-item_letterTableBrutus_0_name { Остаточне Дослідження Дриваніуса II }
+item_letterTableBrutus_0_name { Остаточне Дослідження Дриванія II }
 
-item_letterTableBrutus_1_name { Остаточне Дослідження Дриваніуса III }
+item_letterTableBrutus_1_name { Остаточне Дослідження Дриванія III }
 
-item_letterTableBrutus_2_name { Остаточне Дослідження Дриваніуса IV }
+item_letterTableBrutus_2_name { Остаточне Дослідження Дриванія IV }
 
 item_atlanteanarmorparts_name { Частини броні Древніх }
 
@@ -1374,7 +1374,7 @@ recipe_elixier_strength_name { Рецепт: Еліксир сили }
 
 recipe_farmersmeal_name { Рецепт: Обід фермера }
 
-recipe_fishpan_name { Рецепт: Риба по-стріфре }
+recipe_fishpan_name { Рецепт: Смажена риба }
 
 recipe_flowpotion_0_name { Рецепт: Еліксир концентрації }
 
@@ -1476,7 +1476,7 @@ ring_tuz_name_name { Брудне кільце }
 
 ring_tuz_name_description { Воно смердить. Я знайшов його на Пустищі. }
 
-item_letterfromolafaboutBrutus_name { Лист від Дріванія }
+item_letterfromolafaboutBrutus_name { Лист від Дриванія }
 
 item_ruinenlager_bandit_name { Хто кого нападає }
 
@@ -1738,7 +1738,7 @@ item_letterAtlanter_DangerousTravels_name { Небезпечна Подорож 
 
 item_letterAtlanter_DangerousTravels2_name { Небезпечна Подорож II }
 
-item_letterAtlanter_DrivaniusAttitude_name { Переконання Дріванія }
+item_letterAtlanter_DrivaniusAttitude_name { Переконання Дриванія }
 
 item_letterAtlanter_EmergingFog_name { Туман Наближається }
 
@@ -1782,9 +1782,9 @@ item_letterAtlanter_ThirdDownfall_name { Падіння Третього Бож�
 
 item_letterAtlanter_ToTheRuinRaiders_name { До Рейдерів Руїн }
 
-item_letterAtlanter_WhereIsDrivanius_name { Де Дріваній? I }
+item_letterAtlanter_WhereIsDrivanius_name { Де Дриваній? I }
 
-item_letterAtlanter_WhereIsDrivanius2_name { Де Дріваній? II }
+item_letterAtlanter_WhereIsDrivanius2_name { Де Дриваній? II }
 
 item_letterAtlanter_Workerletter_name { Лист від Робітника }
 
@@ -1800,9 +1800,9 @@ item_letterCelts_Nemeton_name { Заснування Неметону }
 
 item_letterCelts_Roarke_name { Дивні Ідеї Рорка }
 
-item_letterCelts_SafeHaven_name { Мета Притулку }
+item_letterCelts_SafeHaven_name { Мета Прихистку }
 
-item_letterCelts_Treason_name { Мета Притулку }
+item_letterCelts_Treason_name { Мета Прихистку }
 
 item_HiddenTreasure_name { Прихований Скарб }
 
@@ -1870,7 +1870,7 @@ key_harald_name { Ключ до Шахти }
 
 key_harald_description { Цей ключ дозволяє мені увійти в шахту Гаральда та шукати срібло. }
 
-item_letterTableBrutus_3_name { Останнє Дослідження Дріванія I }
+item_letterTableBrutus_3_name { Останнє Дослідження Дриванія I }
 
 helmet_brutus_name_name { Шолом Нексуса }
 
@@ -1898,7 +1898,7 @@ item_letterAtlanter_Shrines_name { Святилища Древніх }
 
 item_letterCityDungeon_GodPaintings_name { Мурали, що зображають Божественних }
 
-item_letter_Reija_name { Дивні Спостереження Дріванія }
+item_letter_Reija_name { Дивні Спостереження Дриванія }
 
 weapon_spear_georg_name { Спис Джорджа }
 
@@ -1988,7 +1988,7 @@ item_Map_Treasure_WayToMine_name { Мапа скарбів: Шлях до Шах
 
 item_trinket_doriansHeirloom_name { Спадщина Доріана }
 
-item_trinket_doriansHeirloom_description { Зменшує отримувану шкоду стійкості і шкоду від фокусу на [PoiseValuePercent]. }
+item_trinket_doriansHeirloom_description { Зменшує отримувану шкоду стійкості і шкоду від концентрації на [PoiseValuePercent]. }
 
 weapon_axe_blaansoldsword_name { Стара сокира Блаана }
 
