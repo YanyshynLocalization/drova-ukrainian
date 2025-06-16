@@ -300,17 +300,17 @@ RuinEntranceLeuchtwald_149 { Пам'ятай. }
 
 RuinEntranceLeuchtwald_150 { Люди покладаються на нас. }
 
-RuinEntranceLeuchtwald_151 { Продовжуй! }
+RuinEntranceLeuchtwald_151 { Продовжуємо! }
 
-RuinEntranceLeuchtwald_152 { Ах, Пустище. }
+RuinEntranceLeuchtwald_152 { Ох, Пустище. }
 
 RuinEntranceLeuchtwald_153 { Насолоджуйтесь видом. }
 
 RuinEntranceLeuchtwald_154 { Перш ніж почнуться неприємності. }
 
-LeaveLeuchtwald_02_155 { Чорний Вогонь... }
+LeaveLeuchtwald_02_155 { Чорне Полумя... }
 
-LeaveLeuchtwald_02_156 { Вони повністю зникли. }
+LeaveLeuchtwald_02_156 { Воно повністю зникло. }
 
 LeaveLeuchtwald_02_157 { Це, мабуть, через відсутність Божества. }
 
@@ -318,7 +318,7 @@ StopAtTavern_158 { Тіньові рипери? Тут? }
 
 StopAtTavern_159 { Вони ніколи не наважуються заходити так далеко. }
 
-StopAtTavern_160 { Хто турбується! Продовжуймо! }
+StopAtTavern_160 { Пізно хвилюватися! Продовжуймо! }
 
 TalkToKarotte_161 { Дивись, Каротте. }
 
@@ -370,33 +370,33 @@ R_JurekGoToJola_184 { Добре, дякую. }
 
 RunToFirstMobsIntent_185 { Йди за мною, я знаю коротший шлях! }
 
-PanicAtFirstMobs_186 { ТУМАННИКИ! РОБІТЬ ЩО-НЕБУДЬ! }
+PanicAtFirstMobs_186 { ТУМАННИКИ! РОБИ ЩО-НЕБУДЬ! }
 
 PanicAtFirstMobs_187 { ЩЕ ОДИН! }
 
 RunToSecondMobs_188 { Нарешті... }
 
-RunToSecondMobs_189 { Наступного разу вбивайте їх швидше! }
+RunToSecondMobs_189 { Наступного разу вбивай їх швидше! }
 
-RunToSecondMobs_190 { Інакше забудьте про свою оплату. }
+RunToSecondMobs_190 { Інакше забудь про свою оплату. }
 
 PanicAtSecondMobs_191 { Чорт! Ще більше їх! }
 
-PanicAtSecondMobs_192 { Ви повинні мене захищати! }
+PanicAtSecondMobs_192 { Ти повен мене захищати! }
 
-PanicAtSecondMobs_193 { Ви хоч щось робите? }
+PanicAtSecondMobs_193 { Та зроби хоч щось? }
 
 RunToThirdMobs_194 { Ці туманники... страшні. }
 
-RunToThirdMobs_195 { Прокляті мухи. Вбивайте їх! }
+RunToThirdMobs_195 { Прокляті мухи. Вбий їх! }
 
-RunToThirdMobs_196 { ВИ БУДЕТЕ ВБИВАТИ ЦІХ ШКІДНИКІВ ВЖЕ? }
+RunToThirdMobs_196 { ТА ТИ БУДЕШ ВБИВАТИ ЦИХ ШКІДНИКІВ? }
 
-RunToNarrativePoint_197 { Нарешті. Це не було так важко. }
+RunToNarrativePoint_197 { Нарешті. Це було не так важко. }
 
 RunToFourthMobs_198 { Працюй, боєць. }
 
-HideAtFourthMobs_199 { Ви вже б'єтесь? }
+HideAtFourthMobs_199 { Ти вже б'єшся? }
 
 HideAtFourthMobs_200 { Перестань базікати! }
 
@@ -686,7 +686,7 @@ HitReceiver_Reija_Dialog_PictureWall_01_342 { Ось там, біля стіни
 
 HitReceiver_Reija_Dialog_DoorOpen_343 { Двері щойно відчинилися! }
 
-HitReceiver_Reija_Dialog_Spear_344 { Цей матеріал... я ніколи не бачив нічого схожого. }
+HitReceiver_Reija_Dialog_Spear_344 { Цей матеріал... я ніколи не бачила нічого схожого. }
 
 HitReceiver_Reija_Dialog_EndRoom_345 { Нам слід уважніше оглянути це місце. }
 

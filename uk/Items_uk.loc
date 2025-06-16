@@ -966,7 +966,7 @@ item_fogstew_name { Похмурий суп }
 
 item_rootstew_name { Туманний суп }
 
-item_troutskewersbombus_name { Смертельні шампури à la Bombus }
+item_troutskewersbombus_name { Смертельні шашлики аля Бомбус }
 
 item_aditroast_name { Печений суп у печері }
 
@@ -1112,7 +1112,7 @@ item_rubintalisman_description { Підсилює ефекти всіх крик
 
 item_flowcatchertalisman_name { Талісман Ловця Потоку }
 
-item_flowcatchertalisman_description { Використання здатності з фокусом тимчасово збільшує шкоду, яку завдає ваш наступний ближній удар, на [DamageValuePercent]. }
+item_flowcatchertalisman_description { Використання здатності за концентрацію тимчасово збільшує шкоду, яку завдає ваш наступний ближній удар, на [DamageValuePercent]. }
 
 item_windtalisman_name { Талісман Вітру }
 
@@ -1466,7 +1466,7 @@ recipe_thronyvine_name { Рецепт: Колючі ліани }
 
 recipe_thrownet_name { Рецепт: Накидна сітка }
 
-recipe_troutskewersbombus_name { Рецепт: Смертельні шашлики від Бомбуса }
+recipe_troutskewersbombus_name { Рецепт: Смертельні шашлики аля Бомбус }
 
 recipe_whispersilkbag_name { Рецепт: Мішечок з Шепітливого шовку }
 
@@ -1826,11 +1826,11 @@ armor_chest_lendha_dylara_name { Броня та черевики Ділари }
 
 item_stalker_egg_name { Яйце снептора }
 
-item_headleshen_name { Голова лешені }
+item_headleshen_name { Голова Лісового }
 
 item_shadowfur_name { Тіньова шерсть }
 
-item_fogears_name { Вуха Туману }
+item_fogears_name { Вуха Туманника }
 
 item_foxpaw_name { Лапа лисиці }
 
