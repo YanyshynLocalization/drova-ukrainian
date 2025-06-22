@@ -37,7 +37,10 @@ It is Ukrainian translation for game [Drova - Forsaken Kin](https://www.gog.com/
 
 ### Change log
 
- - v1.3 (28/03/25) - fully translated all new text in big game update v1.3
+ - v1.3.2.1 (22/06/25) - updated to game version v1.3.2.1, ﻿fixes in dialogues
+﻿ - v1.3.2 (31/05/25) - updated to game version v1.3.2
+ - v1.3.1 (24/04/25) - updated to game version v1.3.1, fixes in dialogues
+ - v1.3.0 (28/03/25) - fully translated all new text in big game update v1.3
  - v1.24 (10/03/25) - lot of fixed and updates in naming, dialogues
  - v1.2.3 (01/02/25) - updated to game version v1.2.3, a small fixes in item naming, a lot of fixes in dialogues
  - v1.2.2 (13/01/25) - updated to game version v1.2.2, a small fixes in location and items naming, dialogues
