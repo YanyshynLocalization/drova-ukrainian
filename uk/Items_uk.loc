@@ -1096,7 +1096,7 @@ item_tendonofglory_description { Дальнобійні атаки пробив�
 
 item_shaftofpurefury_name { Важіль чистого люті }
 
-item_shaftofpurefury_description { За кожен втрачений [HealthPercent] відсоток здоров'я, ви завдаєте [DamagePercent] більше шкоди. }
+item_shaftofpurefury_description { За кожні втрачені [HealthPercent] відсотків здоров'я, ви завдаєте на [DamagePercent] більше шкоди. }
 
 item_bloodbornering_name { Перстень крові }
 
@@ -1188,7 +1188,7 @@ item_letterCityDungeon_1_name { Неспокій у Дрові V }
 
 item_letterCityDungeon_2_name { Неспокій у Дрові VI }
 
-item_letterCityDungeon_3_name { Стара Ноти Музика }
+item_letterCityDungeon_3_name { Старі Ноти Музики }
 
 item_letterCityDungeon_Underground_0_name { Кінець близький I }
 
