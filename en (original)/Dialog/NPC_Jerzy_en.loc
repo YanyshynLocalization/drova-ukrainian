@@ -108,7 +108,7 @@ Plh_29 { Small, brownish lumps. They always get plowed up to the surface. }
 
 Plh_31 { Chunnaic refines it into iron. It's not as good as the stuff from the mines, but it's usable. }
 
-Plh_32 { Bring me $GVAR:QuestVars_IronForFarmers.NumItemsNeeded$ pieces. I'll give to Muc at the next opportunity. }
+Plh_32 { Bring me $GVAR:QuestVars_IronForFarmers.NumItemsNeeded$ pieces. I'll give them Muc at the next opportunity. }
 
 Plh_51 { Why don't you just go to Nemeton? }
 

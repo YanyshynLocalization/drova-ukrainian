@@ -16,7 +16,7 @@ Plh_302 { I went to Evi. Liesl got away... and died. }
 
 Plh_14 { I'm looking for one Tristan here. }
 
-Plh_29 { Here's the money for my tab. (Pay $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$ coins) }
+Plh_29 { Here's the money for the tab. (Pay $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$ coins) }
 
 Plh_220 { You all right though? }
 

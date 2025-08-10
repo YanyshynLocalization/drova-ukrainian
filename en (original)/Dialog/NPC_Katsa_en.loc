@@ -60,7 +60,7 @@ Plh_47 { Good fortunes in the mines! Come along. I'll explain the rules around h
 
 Plh_48 { *Grumbles* Better listen to Trusty... }
 
-Plh_53 { Where is the silver? Have been snoozing all this time? Next time, I want to see some silver! }
+Plh_53 { Where is the silver? Have you been snoozing all this time? Next time, I want to see some silver! }
 
 Plh_54 { You hewed a total of $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ pieces of silver. $GVAR:EVars_Katsa.SilverDefaultAmount$ pieces of silver are for our coffers, the remaining $GVAR:EVars_Katsa.SilverAmountLeaveMine$ pieces of silver are yours. }
 

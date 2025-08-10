@@ -312,7 +312,7 @@ Plh_50 { More for me. }
 
 Plh_55 { Hmm. Someone sheemsa beaten us t' th' punch. Damn! Whosh lights 'm I suppos' to knock out now?! }
 
-Plh_56 { Don't want to fight? Until one of goes down. Or is bleeding too much. }
+Plh_56 { Don't want to fight? Until one of us goes down. Or is bleeding too much. }
 
 Plh_57 { Always! }
 
@@ -412,13 +412,13 @@ Plh_66 { Really makes you feel alive again. Nothing beats a good fight. *hic* Yo
 
 Plh_128 { *screams* I, EUGEN, SHALL SLAY EVERY LAST ONE OF YOU! }
 
-Plh_127 { I say it's time drink to victory! We've earned it! }
+Plh_127 { I say it's time we drink to victory! We've earned it! }
 
 Plh_126 { Let's head back. *hics* }
 
 Plh_65 { I showed them! *hic* And all you did was stand around gawking! For that you're going to buy me a drink! }
 
-Plh_108 { Wow... you really knocked me out cold. Jus' like... I dun' remember when. You've got to good punch! }
+Plh_108 { Wow... you really knocked me out cold. Jus' like... I dun' remember when. You've got a good punch! }
 
 Plh_111 { Didn't expect anything else. But still, you didn't do too badly! *hic* }
 
@@ -1016,7 +1016,7 @@ Plh_525 { You shall see how the spark protects me. (move out) }
 
 Plh_526 { Step aside. (move out) }
 
-Plh_527 { Astounding! $GVAR:EVars_Player.Name$! is unharmed! }
+Plh_527 { Astounding! $GVAR:EVars_Player.Name$ is unharmed! }
 
 Plh_770 { *smiles* That connection... }
 
@@ -1188,13 +1188,13 @@ Plh_1110 { So it'll go into its prison of its own accord? }
 
 Plh_1112 { Exactly. It will take a while, but then we've got it! }
 
-Plh_851 { Farlan, that's your task. Once Darwin gave the signal, you'll place the vessel in front of the boar. }
+Plh_851 { Farlan, that's your task. Once Darwin gives the signal, you'll place the vessel in front of the boar. }
 
 Plh_852 { Got it! }
 
 Plh_786 { Here, you'll need these. }
 
-Plh_1142 { Let nobody say that I would not take care of my people! }
+Plh_1142 { Let nobody say that I don't take care of my people! }
 
 Plh_1113 { As soon as Darwin begins, we'll spread out around him and provide him cover. When the Mighty Boar appears, we'll rush it, weaken it, and capture it! }
 
@@ -1364,7 +1364,7 @@ Plh_1175 { Then let's get going. }
 
 Plh_1176 { Maybe we shouldn't do this... We don't know how the Forest Primeval will be affected. }
 
-Plh_1177 { We mustn't allow ourselves to be distracted by this kind of thinking. We can only affect change if we're willing to take risks! }
+Plh_1177 { We mustn't allow ourselves to be distracted by this kind of thinking. We can only effect change if we're willing to take risks! }
 
 Plh_1183 { None of this is right... }
 
@@ -1374,7 +1374,7 @@ Plh_1185 { It's scary how fast the forest is perishing. I did not see this comin
 
 Plh_1189 { But let's remember why we did this. }
 
-Plh_1190 { Soon it be over. Soon we'll leave Drova. }
+Plh_1190 { Soon it'll be over. Soon we'll leave Drova. }
 
 Plh_1186 { Come. }
 
