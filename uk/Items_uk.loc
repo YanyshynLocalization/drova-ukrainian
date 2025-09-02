@@ -278,7 +278,7 @@ weapon_dagger_silence_name { Тупі залізні кинджали }
 
 weapon_dagger_heartSeeker_name { Шукач серця }
 
-weapon_dagger_theKingslayer_name { Кровавий кинджал }
+weapon_dagger_theKingslayer_name { Кривавий кинджал }
 
 weapon_dagger_bloodDagger_name { Кинджал короля }
 
@@ -698,7 +698,7 @@ cons_flow_spartanKick_name { Удар ногою }
 
 cons_flow_spartanKick_description { Ви завдаєте [DamageFlexAbs] пошкодження і відштовхуєте ворогів. }
 
-cons_flow_execute_name { Кровава Лють }
+cons_flow_execute_name { Кривава Лють }
 
 cons_flow_execute_description { Ви завдаєте [WeaponDamagePercent] пошкодження і додаткове [WeaponDamagePercent2] пошкодження за кожну активну Кровотечу у ворога. Додає ще один пункт Кровотечі }
 
@@ -1306,7 +1306,7 @@ recipe_flow_dash_name { Здібність: Ривок }
 
 recipe_flow_energyProjectile_name { Заклинання: Магічна стріла }
 
-recipe_flow_execute_name { Здібність: Кровава лють }
+recipe_flow_execute_name { Здібність: Кривава лють }
 
 recipe_flow_ferventCry_name { Здібність: Гарячий крик }
 
