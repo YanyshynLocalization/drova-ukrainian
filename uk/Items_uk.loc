@@ -772,7 +772,7 @@ misc_riddle_butterfly_name { Дивний метелик }
 
 item_searchingForArenaFighter_name { Повідомлення: Арена }
 
-item_letterFromEtzel_name { Лист від засідки }
+item_letterFromEtzel_name { Лист для засідки }
 
 cons_flow_root_aoe_name { Коло коренів }
 
@@ -1214,7 +1214,7 @@ item_rustmoss_BadFromGera_name { Нарізаний іржавий мох }
 
 item_rustmoss_BadFromGera_description { Гера хоче, щоб я "втратила" цей іржавий мох у постачанні Лейни. }
 
-item_kiepe_rubble_name { Панчоша }
+item_kiepe_rubble_name { Корзина сміття }
 
 item_paperchasestone_cleansed_name { Очищений Талісман }
 
