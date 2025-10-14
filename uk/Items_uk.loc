@@ -482,7 +482,7 @@ item_shinyStone_name { Таємничий кристал }
 
 item_shinyStone_description { Отримано від друїда. Мені потрібно віднести його до Неметону. }
 
-cons_flow_energyProjectile_name { Магічна ракета }
+cons_flow_energyProjectile_name { Магічний снаряд }
 
 cons_flow_energyProjectile_description { Ви стріляєте магічним снарядом, який вибухає при зіткненні і завдає [DamageFlexAbs] магічного пошкодження. }
 
@@ -798,7 +798,7 @@ item_searchingGraffiti_name { Повідомлення: Зіпсована ст�
 
 item_traps_name { Повідомлення: Нам потрібно більше пасток }
 
-cons_flow_obsidianSpear_name { Призвати Обсидіанову Пику }
+cons_flow_obsidianSpear_name { Призвати обсидіановий спис }
 
 cons_flow_obsidianSpear_description { Ви викликаєте спис Древніх, що генерує концентрацію в зоні навколо себе. }
 
@@ -824,7 +824,7 @@ cons_flow_bullRush_name { Заряд }
 
 cons_flow_bullRush_description { Ви кидаєтеся вперед, завдаючи [DamageFlexAbs] фізичних пошкоджень. }
 
-cons_flow_ferventCry_name { Запалений крик }
+cons_flow_ferventCry_name { Несамовитий крик }
 
 cons_flow_ferventCry_description { Збільшує ваш опір фізичним ушкодженням на [DamageResPercent] протягом [TimeAbs] секунд. }
 
@@ -1308,7 +1308,7 @@ recipe_flow_energyProjectile_name { Заклинання: Магічна стр�
 
 recipe_flow_execute_name { Здібність: Кривава лють }
 
-recipe_flow_ferventCry_name { Здібність: Гарячий крик }
+recipe_flow_ferventCry_name { Здібність: Несамовитий крик }
 
 recipe_flow_fireCry_name { Заклинання: Вогняний крик }
 
@@ -1544,15 +1544,15 @@ item_letter_library_spearRoom_note2_name { Рунічні Списи I }
 
 item_letter_library_spearRoom_note3_name { Рунічні Списи II }
 
-item_letter_shrine_apus_circinus_name { Святилище Аписа }
+item_letter_shrine_apus_circinus_name { Святилище Апуса }
 
-item_letter_shrine_bootes_auriga_name { Святилище Боотеса }
+item_letter_shrine_bootes_auriga_name { Святилище Боутіса }
 
-item_letter_shrine_cygnus_name { Святилище Лебедя }
+item_letter_shrine_cygnus_name { Святилище Сигнус }
 
 item_letter_shrine_luna_name { Святилище Луни }
 
-item_letter_shrine_sol_name { Святилище Сонця }
+item_letter_shrine_sol_name { Святилище Сола }
 
 item_letter_shrine_terra_borealis_name { Святилище Терри }
 

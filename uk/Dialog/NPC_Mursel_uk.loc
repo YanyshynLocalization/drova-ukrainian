@@ -72,7 +72,7 @@ Plh_60 { Як щодо того, щоб я дав тобі $GVAR:QuestVars_YouLo
 
 Plh_62 { Добре, ось $GVAR:QuestVars_YouLookTired_Config.FlatrateSleepingPrice$ срібла. Тепер тримайся від мене подалі. }
 
-Plh_9 { Ух. Ось, за вчорашній вечір. (віддає $GVAR:QuestVars_YouLookTired_Config.PriceForSleeping$ срібла) }
+Plh_9 { Ух. Ось, за вчорашній вечір. (віддати $GVAR:QuestVars_YouLookTired_Config.PriceForSleeping$ срібла) }
 
 Plh_10 { У мене немає $GVAR:QuestVars_YouLookTired_Config.PriceForSleeping$ срібла. }
 

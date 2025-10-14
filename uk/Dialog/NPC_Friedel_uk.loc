@@ -16,7 +16,7 @@ Plh_58 { Тоді віддай мені $GVAR:QuestVars_Debt_Config.HighAmountWi
 
 Plh_98 { Так багато?! }
 
-Plh_66 { Ось, візьми. (Віддає $GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ монет) }
+Plh_66 { Ось, візьми. (віддати $GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ монет) }
 
 Plh_62 { О, зараз їх у мене немає. Я принесу їх пізніше. }
 
@@ -30,7 +30,7 @@ Plh_59 { Тоді віддай мені $GVAR:QuestVars_Debt_Config.LowAmountWit
 
 Plh_100 { Це майже вдвічі більше! Лихварство! }
 
-Plh_61 { Ось, візьми їх. (віддає $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ монет) }
+Plh_61 { Ось, візьми їх. (віддати $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ монет) }
 
 Plh_101 { О так? Якщо тобі не подобається, не треба було позичати! Повір, не хочеш потрапити мені на погану сторону. }
 

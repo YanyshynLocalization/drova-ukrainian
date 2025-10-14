@@ -26,7 +26,7 @@ Plh_46 { Добре, йди за мною. }
 
 Plh_6 { Ось ліжко. Воно коштує $GVAR:EVars_Blanda.PriceBed$ монет. }
 
-Plh_10 { Добре, ось тобі. (віддає $GVAR:EVars_Blanda.PriceBed$ монет) }
+Plh_10 { Добре, ось тобі. (віддати $GVAR:EVars_Blanda.PriceBed$ монет) }
 
 Plh_11 { Я передумав. Ліжко мені не потрібно. }
 
