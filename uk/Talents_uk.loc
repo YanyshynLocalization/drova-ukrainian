@@ -88,7 +88,7 @@ talent_alchemy_desc { Ви можете варити зілля, що допом
 
 talent_lockpicking_01 { Відмикання складних замків }
 
-talent_lockpicking_01_desc { Тепер жоден замок не є безпечним для вас. }
+talent_lockpicking_01_desc { Жоден замок не зможе протистояти вам. }
 
 talent_extractsecretion { Витягнення Ікори }
 
