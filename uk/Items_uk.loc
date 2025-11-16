@@ -100,7 +100,7 @@ item_callashroom_extract_description { Екстракт, необхідний д
 
 item_ironbar_name { Залізний злиток }
 
-note_debtorlist_name { Список боржників Фріделя }
+note_debtorlist_name { Список боржників Фрідель }
 
 note_debtorlist_description { Багато людей в боргу. Чи я тепер колектор боргів? }
 
@@ -464,7 +464,7 @@ item_redmushroomtincture_name { Настоянка червоного гриба
 
 item_beartrap_name { Ведмежий капкан }
 
-item_beartrap_description { Послаблює ціль на [TimeAbs] секунд та викликає сильну кровотечу. }
+item_beartrap_description { Запаморочує ціль на [TimeAbs] секунд та викликає сильну кровотечу. }
 
 item_cavemushroom_name { Печерний гриб }
 
@@ -538,7 +538,7 @@ misc_riddle_conch_name { Раковина }
 
 misc_riddle_club_name { Церемоніальний меч }
 
-item_yellowGlyphStone_name { Жовтий, блискучий камінь }
+item_yellowGlyphStone_name { Блискучий жовтий камінь }
 
 item_yellowGlyphStone_description { Орнаментальний жовтий камінь. На ньому зображені дві руки, що перехрещуються під символом ворона. }
 
@@ -850,7 +850,7 @@ item_butterfliesAllAround_name { Метелики }
 
 item_rootTrap_name { Коренева пастка }
 
-item_rootTrap_description { При активації знерухомлює всіх ворогів на [TimeAbs] секунд. }
+item_rootTrap_description { При активації знерухомлює ворога на [TimeAbs] секунд. }
 
 item_poisonedThrowingKnife_name { Отруєний кинджал }
 
@@ -960,7 +960,7 @@ item_roastedcallamushroom_name { Смажені червоні гриби }
 
 item_roastofthepast_name { Печеня Древніх }
 
-item_mudmash_name { Олафовий м'ясний суп }
+item_mudmash_name { М'ясне рагу Олафа }
 
 item_fogstew_name { Похмурий суп }
 
@@ -1416,7 +1416,7 @@ recipe_marinatedmeatleg_name { Рецепт: Маринована м'ясна л
 
 recipe_mediumquiver_name { Рецепт: Середній сагайдак }
 
-recipe_mudmash_name { Рецепт: М'ясне Стю Олафа }
+recipe_mudmash_name { Рецепт: М'ясне рагу Олафа }
 
 recipe_poisonedthrowingknife_name { Рецепт: Отруєний метальний ніж }
 
