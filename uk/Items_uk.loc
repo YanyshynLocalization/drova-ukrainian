@@ -474,9 +474,9 @@ item_ruinherb_name { Квітка Руїн }
 
 item_tarnishedSilverCup_name { Тьм'яна срібна чаша }
 
-item_mudLotus_name { Брудний лотос }
+item_mudLotus_name { Багняний лотос }
 
-item_mudLotus_description { Зростає на болотистих вологих місцях. }
+item_mudLotus_description { Зростає на болотистих, вологих місцях. }
 
 item_shinyStone_name { Таємничий кристал }
 
@@ -564,7 +564,7 @@ item_diaryKora_name { Щоденник Кори }
 
 item_treasureMap_auwald_name { Мапа скарбів: Заплавний ліс }
 
-misc_map_tristan_name { мапа Трістана }
+misc_map_tristan_name { Мапа Трістана }
 
 item_claw_description { Можна отримати з тварин за допомогою навички "Вилучення кігтів". }
 
@@ -572,7 +572,7 @@ misc_bagOfCurrency_description { Мішечок, що дзвенить, коли
 
 key_chest_mineBanditMainKey_name { Іржавий ключ }
 
-key_chest_mineBanditMainKey_description { Я взяв це у банди бандитів. }
+key_chest_mineBanditMainKey_description { Я знайшов цей ключ у ватаги рабівників в шахті на болотах. }
 
 item_mineRelic_name { Дивна реліквія }
 
@@ -844,7 +844,7 @@ item_potion_flow_0_name { Еліксир концентрації }
 
 item_potion_flow_1_name { Потужний еліксир концентрації }
 
-item_fishing_name { Повідомлення: Ловити рибу для супу }
+item_fishing_name { Повідомлення: Лолвя риби для супу }
 
 item_butterfliesAllAround_name { Метелики }
 
@@ -940,7 +940,7 @@ item_rustymosspipe_description { Розслабляє і допомагає за
 
 item_potion_windwalker_name { Еліксир блукаючого пера }
 
-item_potion_windwalker_description { Збільшує швидкість руху на [MovePercent] на [TimeAbs] секунд. }
+item_potion_windwalker_description { Збільшує швидкість руху на [MovePercent] протягом [TimeAbs] секунд. }
 
 item_harpybrew_name { Відвар з гарпії }
 
@@ -1056,7 +1056,7 @@ item_riptoothchain_description { Ефекти кровотечі завдают�
 
 item_vipertooth_name { Зуб змії }
 
-item_vipertooth_description { Сповільнює отруєння ще на [SlowPercent]. }
+item_vipertooth_description { Сповільнює отруєння на [SlowPercent]. }
 
 item_mastersmemory_name { Пояс майстра }
 
@@ -1064,7 +1064,7 @@ item_mastersmemory_description { Останній удар комбінації 
 
 item_cleavageskull_name { Черепоріз }
 
-item_cleavageskull_description { Ви завдаєте [PoiseValuePercent] більше шкоди стійкості опонентів. }
+item_cleavageskull_description { Ви завдаєте на [PoiseValuePercent] більше шкоди до стійкості опонентів. }
 
 item_bloodthirstamulet_name { Амулет Кровожерливості }
 
@@ -1084,11 +1084,11 @@ item_sprigganheart_description { Кожна ближня атака, яка вр
 
 item_hunterquiver_name { Ріг мисливця }
 
-item_hunterquiver_description { Збільшує місткість сагайдак на 1 і прискорює перезарядку. }
+item_hunterquiver_description { Збільшує місткість сагайдаку на 1 та прискорює перезарядку. }
 
 item_boartooth_name { Череп дикого кабана }
 
-item_boartooth_description { Важкі атаки споживають [StaminaValuePercent] менше витривалості. }
+item_boartooth_description { Важкі атаки споживають на [StaminaValuePercent] менше витривалості. }
 
 item_tendonofglory_name { Стріла величі }
 
@@ -1558,15 +1558,15 @@ item_letter_shrine_terra_borealis_name { Святилище Терри }
 
 item_letter_shrine_vela_name { Святилище Вораго }
 
-key_sleepingTavernKey_name { Ключ від Кімнати }
+key_sleepingTavernKey_name { Ключ від кімнати }
 
-key_sleepingTavernKey_description { Я орендував кімнату на горі таверни Олафа на одну ніч. }
+key_sleepingTavernKey_description { Я орендував кімнату на одну ніч на другому поверсі таверни Олафа. }
 
 item_strangeFossil_name { Дивна скам'янілість }
 
-letter_leru_hint01_name { Перший Малюнок Сну Лортіза }
+letter_leru_hint01_name { Перший малюнок сну Лортіза }
 
-letter_leru_hint02_name { Другий Малюнок Сну Лортіза }
+letter_leru_hint02_name { Другий малюнок сну Лортіза }
 
 armor_chest_nemeton_social_name_name { Одяг Неметону }
 
@@ -1722,7 +1722,7 @@ item_letterRedTower_3_name { Загадкова Записка }
 
 item_letterRedTower_5_name { Падіння I }
 
-item_AldriksNote_name { Записка від Альдрика }
+item_AldriksNote_name { Записка від Альдріка }
 
 item_letterAtlanter_AtlanterCreation_name { Творіння Древніх }
 
@@ -1798,7 +1798,7 @@ item_letterCelts_Jero_name { Оцінка Джеро щодо Божеств }
 
 item_letterCelts_Nemeton_name { Заснування Неметону }
 
-item_letterCelts_Roarke_name { Дивні Ідеї Рорка }
+item_letterCelts_Roarke_name { Дивні ідеї Рорка }
 
 item_letterCelts_SafeHaven_name { Мета Прихистку }
 
