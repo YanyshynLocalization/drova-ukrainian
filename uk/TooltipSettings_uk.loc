@@ -116,7 +116,7 @@ LearnSpell { Навчає здатності до зброї }
 
 flowText { Генерує [HealValue] концентрації за [StackTime] секунд. }
 
-needrunestone { Потрібен Рунічний Камінь }
+needrunestone { Потрібен рунічний камінь }
 
 strength_value { Сила [VALUE] }
 
