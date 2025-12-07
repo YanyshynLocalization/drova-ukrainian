@@ -11,9 +11,11 @@
 3. Запустіть гру та виберіть у налаштуваннях українську мову
 4. Насолоджуйтесь!
 
-**ПРИМІТКА:** Повна українська локалізація гри — це ручний переклад із корегуванням машинного автоматичного перекладу, що базується на англійській мові та додає українську мову в грі
+### Примітки 
 
-P.S. В міру виходу оновлень гри та власного проходження старатимуся оновлювати та підкоректовувати переклад
+1. Цей переклад - текстова українська локалізація гри, машинний автоматичний переклад з корегуваннями, що базується на англійській мові та додає українську мову в гру
+2. Тексти гри перекладено українською з розрахунком на те, що головний герой - чоловік (в грі можна обрати стать персонажу, але англійська мова не враховує стать, на відміну від української).
+3. В міру виходу оновлень гри та власного проходження старатимуся оновлювати та підкоректовувати переклад
 
 <br>
 
@@ -31,7 +33,11 @@ It is Ukrainian translation for game [Drova - Forsaken Kin](https://www.gog.com/
 3. Launch the game and select Ukrainian language in settings
 4. Enjoy!
 
-**NOTE:** Current localization is a manual translation with corrections from machine translation, based on English and adding Ukrainian to the game.
+### Notes
+
+1. This translation is a text-based Ukrainian localisation of the game, a machine-generated automatic translation with corrections, based on the English language and adding Ukrainian to the game.
+2. The game texts have been translated into Ukrainian on the assumption that the main character is male (you can choose the gender of your character in the game, but the English language does not take gender into account, unlike Ukrainian).
+3. As game updates are released and I progress through the game, I will try to update and correct the translation.
 
 ----------------------------------------------------
 
