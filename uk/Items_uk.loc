@@ -192,7 +192,7 @@ weapon_axe_barbarianBattleAxe_name { Варварська бойова соки�
 
 weapon_axe_iron-BoundGreatAxe_name { Тупа велика сокира }
 
-weapon_axe_bloodReaper_name { Обсідовий жнець }
+weapon_axe_bloodReaper_name { Обсідіановий жнець }
 
 weapon_axe_berserkAxe_name { Виконавець }
 
@@ -202,7 +202,7 @@ weapon_sword_gildedSickle_name { Золотий серп }
 
 weapon_sword_nailClub_name { Поржавілий бронзовий меч }
 
-weapon_sword_heavyNailClub_name { Тупе бронзове лезо }
+weapon_sword_heavyNailClub_name { Тупий бронзовий клинок }
 
 weapon_sword_bronzeShortSword_name { Зношений короткий меч }
 
@@ -218,7 +218,7 @@ weapon_sword_scavengingScimitar_name { Грабіжнецька шабля  }
 
 weapon_sword_hawk'SClaw_name { Кіготь сокола }
 
-weapon_sword_crudeIronBlade_name { Сире залізне лезо }
+weapon_sword_crudeIronBlade_name { Грубий залізний клинок }
 
 weapon_sword_coarseBroadsword_name { Широкий меч }
 
@@ -226,9 +226,9 @@ weapon_sword_broadsword_name { Іржавий широкий меч }
 
 weapon_sword_longsword_name { Довгий меч }
 
-weapon_sword_battleBlade_name { Бойове лезо }
+weapon_sword_battleBlade_name { Бойовий клинок }
 
-weapon_sword_berserkBlade_name { Лезо берсерка }
+weapon_sword_berserkBlade_name { Клинок берсерка }
 
 weapon_sword_swordOfNemeton_name { Тупий меч воїна }
 
@@ -350,7 +350,7 @@ weapon_spear_wingSpear_name { Спис з крилами }
 
 weapon_spear_silverSpear_name { Тупий залізний спис }
 
-weapon_spear_bloodBlade_name { Криваве лезо }
+weapon_spear_bloodBlade_name { Кривавий клинок }
 
 weapon_spear_tipOfDeath_name { Спис Червоної Змії }
 
@@ -450,7 +450,7 @@ item_permapotion_skill_name { Еліксир спритності }
 
 item_permaherb_strength_name { Базальтовий корінь }
 
-item_permaherb_mind_name { Розвиваюча мозок рослина }
+item_permaherb_mind_name { Квітка прозріння }
 
 item_permaherb_life_name { Горіховий кущ }
 
@@ -522,7 +522,7 @@ item_fish_bass_name { Окунь }
 
 item_bottlePost_name { Лист в пляшці }
 
-item_auwaldDungeon_name { Кристалічний злодій }
+item_auwaldDungeon_name { Викрадач кристалу }
 
 misc_riddle_sundial_name { Фігурка барана }
 
@@ -614,7 +614,7 @@ weapon_shield_atlanterShield_name { Захист Богів }
 
 weapon_shield_atlanterShield_description { Хай живе обраний Богами. }
 
-misc_writing_importantdocument_name { Місцезнаходження Божественних Кристалів. }
+misc_writing_importantdocument_name { Місцезнаходження Божественних Кристалів }
 
 item_energycrystal_cityDungeon_empty_name { Порожній Божественний Кристал із Пралісу }
 
@@ -840,7 +840,7 @@ throwing_ensnare_description { Ви кидаєте сітку, яка знеру
 
 item_permapotion_flow_name { Еліксир концентрації }
 
-item_permaherb_flow_name { Сяючий Окунь }
+item_permaherb_flow_name { Сяючий окунь }
 
 item_potion_flow_0_name { Еліксир концентрації }
 
@@ -1078,7 +1078,7 @@ item_berserkerring_description { Відновлює [HealValueAbsolut] один�
 
 item_berserkerring_2_name { Розкішний перстень берсерка }
 
-item_berserkerring_2_description { Відновлює [HealValuePercent] одиниць здоров'я за кожного вбитого опонента. }
+item_berserkerring_2_description { Відновлює [HealValuePercent] здоров'я за кожного вбитого опонента. }
 
 item_sprigganheart_name { Сухе серце Спригги }
 
@@ -1178,37 +1178,37 @@ armor_chest_nemeton_chief_name_name { Броня Лідера Неметону }
 
 armor_chest_ruinenlager_chief_name_name { Броня Лідера Вцілілих }
 
-item_mumbertDiarrhoea_name { Прокисле Пиво }
+item_mumbertDiarrhoea_name { Прокисле пиво }
 
 item_mumbertDiarrhoea_description { Від Хамберта для Асмуса }
 
 item_marinatedmeatleg_name { Маринована гомілка Тії }
 
-item_letterCityDungeon_0_name { Неспокій у Дрові IV }
+item_letterCityDungeon_0_name { Безлад у Дрові IV }
 
-item_letterCityDungeon_1_name { Неспокій у Дрові V }
+item_letterCityDungeon_1_name { Безлад у Дрові V }
 
-item_letterCityDungeon_2_name { Неспокій у Дрові VI }
+item_letterCityDungeon_2_name { Безлад у Дрові VI }
 
-item_letterCityDungeon_3_name { Старі Ноти Музики }
+item_letterCityDungeon_3_name { Старий нотний аркуш }
 
-item_letterCityDungeon_Underground_0_name { Кінець близький I }
+item_letterCityDungeon_Underground_0_name { Кінець наближається I }
 
-item_letterCityDungeon_Underground_1_name { Кінець близький II }
+item_letterCityDungeon_Underground_1_name { Кінець наближається II }
 
-item_letterCityDungeon_Underground_2_name { Замкнена Кімната }
+item_letterCityDungeon_Underground_2_name { Зачинена кімната }
 
-item_letterAuwaldDungeon_0_name { Початок Маніпуляції Природою }
+item_letterAuwaldDungeon_0_name { Початок маніпуляції з Природою }
 
-item_letterAuwaldDungeon_1_name { Неочікувані Побічні Ефекти }
+item_letterAuwaldDungeon_1_name { Неочікувані побічні ефекти }
 
 item_letterAuwaldDungeon_2_name { Печери Павуків }
 
-item_letterAuwaldDungeon_3_name { Успіхи Маніпуляції Природою }
+item_letterAuwaldDungeon_3_name { Успіхи в маніпуляції з Природою }
 
-item_letterAuwaldDungeon_4_name { Спостереження за Павуками }
+item_letterAuwaldDungeon_4_name { Спостереження за павуками }
 
-item_letterAuwaldDungeon_5_name { Один з Останніх Оживших }
+item_letterAuwaldDungeon_5_name { Один з останніх вцілілих }
 
 key_ShadyDistrict_name { Ключ до Темного кварталу }
 
@@ -1480,7 +1480,7 @@ ring_tuz_name_description { Воно смердить. Я знайшов йог�
 
 item_letterfromolafaboutBrutus_name { Лист від Дриванія }
 
-item_ruinenlager_bandit_name { Хто кого нападає }
+item_ruinenlager_bandit_name { Хто на кого влаштовує засідку }
 
 speed_slow { Повільний }
 
@@ -1506,13 +1506,13 @@ item_letter_sick_siser_name { Запис Друїда }
 
 SickSiser { Лист з Лагеру Бандитів }
 
-armor_chest_light_atlanter_name { Рунічна Броня Древніх }
+armor_chest_light_atlanter_name { Рунічні обладунки Древніх }
 
-armor_chest_heavy_atlanter_name { Рунічне Обладунки Древніх }
+armor_chest_heavy_atlanter_name { Рунічні обладунки Древніх }
 
 armor_chest_druid_atlanter_name { Рунічна Роба Древніх }
 
-armor_chest_druid_atlanter_description { Древня броня, створена заново. Її вигляд сам по собі свідчить про її силу. }
+armor_chest_druid_atlanter_description { Древні обладунки, виковані наново. Сам їхній вигляд свідчить про їхню міць. }
 
 item_letter_library_0_name { Історія Рунічної Магії I }
 
@@ -1542,9 +1542,9 @@ item_letter_library_soundRoom_note_name { Проблеми з Звуками }
 
 item_letter_library_spearRoom_note1_name { Екстрактор I }
 
-item_letter_library_spearRoom_note2_name { Рунічні Списи I }
+item_letter_library_spearRoom_note2_name { Рунічні списи I }
 
-item_letter_library_spearRoom_note3_name { Рунічні Списи II }
+item_letter_library_spearRoom_note3_name { Рунічні списи II }
 
 item_letter_shrine_apus_circinus_name { Святилище Апуса }
 
@@ -1606,9 +1606,9 @@ helmet_mask_rational_name_name { Маска Проникливості }
 
 helmet_mask_rational_name_description { Тільки ті, хто мислять критично і аналітично, оцінять цінність цієї маски. }
 
-helmet_nemeton_guard1_name_name { Легка броня Неметону }
+helmet_nemeton_guard1_name_name { Легкий шолом Неметону }
 
-helmet_nemeton_guard2_name_name { Важка броня Неметону }
+helmet_nemeton_guard2_name_name { Важкий шолом Неметону }
 
 helmet_ruinenlager_guard1_name_name { Простий шолом Вцілілих }
 
@@ -1732,9 +1732,9 @@ item_letterAtlanter_AtlanterProblems_name { Складнощі Древніх }
 
 item_letterAtlanter_AtlanterRevolt_name { Повстання Древніх }
 
-item_letterAtlanter_CancelledResearch_name { Скасування Досліджень }
+item_letterAtlanter_CancelledResearch_name { Скасування досліджень }
 
-item_letterAtlanter_DangerousRunes_name { Небезпеки Рунічної Магії }
+item_letterAtlanter_DangerousRunes_name { Загрози Рунічної магії }
 
 item_letterAtlanter_DangerousTravels_name { Небезпечна Подорож I }
 
@@ -1742,7 +1742,7 @@ item_letterAtlanter_DangerousTravels2_name { Небезпечна Подорож
 
 item_letterAtlanter_DrivaniusAttitude_name { Переконання Дриванія }
 
-item_letterAtlanter_EmergingFog_name { Туман Наближається }
+item_letterAtlanter_EmergingFog_name { Туман наближається }
 
 item_letterAtlanter_Extractor2_name { Екстрактор II }
 
@@ -1774,11 +1774,11 @@ item_letterAtlanter_RuneVessel_Ruinenlager_name { Посібник по Руні
 
 item_letterAtlanter_Senat_name { Лист від Сенату }
 
-item_letterAtlanter_ShiftingPriorities_name { Зміна Пріоритетів }
+item_letterAtlanter_ShiftingPriorities_name { Зміна пріоритетів }
 
-item_letterAtlanter_SpreadingDanger_name { Небезпека Поширюється }
+item_letterAtlanter_SpreadingDanger_name { Небезпека поширюється }
 
-item_letterAtlanter_Stars_name { Що Написано на Зірках? }
+item_letterAtlanter_Stars_name { Що написано на Зірках? }
 
 item_letterAtlanter_ThirdDownfall_name { Падіння Третього Божества }
 
@@ -1878,9 +1878,9 @@ helmet_brutus_name_name { Шолом Нексуса }
 
 helmet_brutus_name_description { Странний шолом, прикрашений безліччю рун. }
 
-item_letter_foresttavern_chapter1_name { Полювання на рипера 1 }
+item_letter_foresttavern_chapter1_name { Полювання на рипера I }
 
-item_letter_foresttavern_chapter3_name { Полювання на рипера 2 }
+item_letter_foresttavern_chapter3_name { Полювання на рипера II }
 
 category_traps { Корисні речі }
 
@@ -2010,9 +2010,9 @@ item_trinket_pureDmg_name { Помста Майстра }
 
 item_trinket_pureDmg_description { Збільшує шкоду, завдану пастками та метальною зброєю, на [DamageValuePercent]. }
 
-item_VoragoFragment_0_name { Фрагмент Емблеми }
+item_VoragoFragment_0_name { Фрагмент емблеми }
 
-item_VoragoFragment_0_description { Інша половина, здається, зникла. Є символ, але він незрозумілий. Чи може це бути ракушка? }
+item_VoragoFragment_0_description { Здається, не вистачає іншої половини. На ньому є символ, але він незрозумілий. Хіба це не мушля? }
 
 item_letterAtlanter_Excalibur_name { Меч у Камені }
 
@@ -2042,7 +2042,7 @@ item_letterCelts_Spark_name { Іскра Бертіні }
 
 item_letterCelts_Spark_description { item_letterCelts_Spark_description }
 
-item_letter_library_soundRoom_note2_name { Резонансні Роги }
+item_letter_library_soundRoom_note2_name { Резонансні роги }
 
 item_letter_library_soundRoom_note2_description { item_letter_library_soundRoom_note2_description }
 
