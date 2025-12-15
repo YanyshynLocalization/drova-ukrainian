@@ -30,6 +30,6 @@ waterbarrel_description { Відновлює здоров'я протягом к
 
 HealReduction { Страждання Болота }
 
-HealReduction_Desc { Знижено силу лікування на [ValuePercent]. }
+HealReduction_Desc { Знижує силу лікування на [ValuePercent]. }
 
 BlackPuddle_Name { Кров Болота }

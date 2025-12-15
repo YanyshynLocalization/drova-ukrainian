@@ -496,7 +496,7 @@ Margitte { Маргітте }
 
 bandit_generic { Бандит }
 
-Leru { Лортиз }
+Leru { Лортіз }
 
 Cat { Кіт }
 
@@ -622,13 +622,13 @@ Golem { Рунічний голем }
 
 ChaosSpirit { ??? }
 
-Draugr_Sword { Древній Воїн }
+Draugr_Sword { Древній боєць }
 
-Draugr_Spear { Древній Боєць }
+Draugr_Spear { Древній воїн }
 
-Draugr_Mage { Древній Чаклун }
+Draugr_Mage { Древній чаклун }
 
-Draugr_Axe { Древній Берсеркер }
+Draugr_Axe { Древній берсеркер }
 
 Rat { Щур }
 

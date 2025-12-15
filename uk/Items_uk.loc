@@ -194,7 +194,7 @@ weapon_axe_iron-BoundGreatAxe_name { Тупа велика сокира }
 
 weapon_axe_bloodReaper_name { Обсідіановий жнець }
 
-weapon_axe_berserkAxe_name { Виконавець }
+weapon_axe_berserkAxe_name { Екзекутор }
 
 weapon_axe_berserkAxe_description { Ніхто не уникне його вироку. }
 
@@ -280,9 +280,9 @@ weapon_dagger_heartSeeker_name { Шукач серця }
 
 weapon_dagger_theKingslayer_name { Кривавий кинджал }
 
-weapon_dagger_bloodDagger_name { Кинджал короля }
+weapon_dagger_bloodDagger_name { Царевбивця }
 
-weapon_dagger_bloodDagger_description { Коли народ підніметься, король впаде. }
+weapon_dagger_bloodDagger_description { Коли народ повстане — король паде. }
 
 weapon_sling_coarseSling_name { Груба праща }
 
@@ -346,7 +346,7 @@ weapon_spear_partisan_name { Партизан }
 
 weapon_spear_pilum_name { Пілюм }
 
-weapon_spear_wingSpear_name { Спис з крилами }
+weapon_spear_wingSpear_name { Крилатий спис }
 
 weapon_spear_silverSpear_name { Тупий залізний спис }
 
@@ -608,7 +608,7 @@ key_tavernKey_description { Ключ від заднього виходу тав
 
 weapon_bow_atlanterBow_name { Посланець Богів }
 
-weapon_bow_atlanterBow_description { Їхнє послання вам може не сподобатися. Скажіть їм це самі. }
+weapon_bow_atlanterBow_description { Їхнє послання вам може не сподобатися. Скажіть їм про це самі. }
 
 weapon_shield_atlanterShield_name { Захист Богів }
 
@@ -1062,7 +1062,7 @@ item_vipertooth_description { Сповільнює отруєння на [SlowPe
 
 item_mastersmemory_name { Пояс майстра }
 
-item_mastersmemory_description { Останній удар комбінації мечем або сокирою завдає [DamageValuePercent] більше пошкоджень і генерує [FocusValuePercent] більше концентрації. }
+item_mastersmemory_description { Останній удар комбінації мечем або сокирою завдає на [DamageValuePercent] більше пошкоджень та відновлює на [FocusValuePercent] більше концентрації. }
 
 item_cleavageskull_name { Черепоріз }
 
@@ -1102,7 +1102,7 @@ item_shaftofpurefury_description { За кожні втрачені [HealthPerce
 
 item_bloodbornering_name { Перстень крові }
 
-item_bloodbornering_description { Після того, як ви отримали удар, у вас є короткий проміжок часу для відновлення втраченого здоров'я, завдаючи шкоди супротивнику. Остерігайтесь старої крові. }
+item_bloodbornering_description { Після того, як ви отримали удар, у вас є короткий проміжок часу для відновлення втраченого здоров'я, завдаючи шкоди супротивнику. Остерігайтесь старої крові! }
 
 item_whispersilkbag_name { Мішечок з Шепітливого шовку }
 
@@ -1280,13 +1280,13 @@ item_headdress_magicamp_description { Головний убір, що симво
 
 item_brutus_seal_active_name { Активна Печатка Дриванія }
 
-item_brutus_seal_active_description { Усі сім вбудованих кристалів світяться. }
+item_brutus_seal_active_description { Усі сім вставлених кристалів світяться. }
 
-item_letterTableBrutus_0_name { Остаточне Дослідження Дриванія II }
+item_letterTableBrutus_0_name { Останнє дослідження Дриванія II }
 
-item_letterTableBrutus_1_name { Остаточне Дослідження Дриванія III }
+item_letterTableBrutus_1_name { Останнє дослідження Дриванія III }
 
-item_letterTableBrutus_2_name { Остаточне Дослідження Дриванія IV }
+item_letterTableBrutus_2_name { Останнє дослідження Дриванія IV }
 
 item_atlanteanarmorparts_name { Частини броні Древніх }
 
@@ -1422,9 +1422,9 @@ recipe_mudmash_name { Рецепт: М'ясне рагу Олафа }
 
 recipe_poisonedthrowingknife_name { Рецепт: Отруєний метальний ніж }
 
-recipe_potion_health_0_name { Рецепт: Лікувальна рідина }
+recipe_potion_health_0_name { Рецепт: Зцілювальне зілля }
 
-recipe_potion_health_1_name { Рецепт: Потужна лікувальна рідина }
+recipe_potion_health_1_name { Рецепт: Потужне зцілювальне зілля }
 
 recipe_potion_windwalker_name { Рецепт: Еліксир блукаючого пера }
 
@@ -1522,7 +1522,7 @@ item_letter_library_2_name { Історія Рунічної Магії III }
 
 item_letter_library_3_name { Історія Рунічної Магії IV }
 
-item_letter_library_circleRoom_note1_name { Круг Телепортації }
+item_letter_library_circleRoom_note1_name { Коло Телепортації }
 
 item_letter_library_circleRoom_note2_name { Темне Срібло }
 
@@ -1872,11 +1872,11 @@ key_harald_name { Ключ до Шахти }
 
 key_harald_description { Цей ключ дозволяє мені увійти в шахту Гаральда та шукати срібло. }
 
-item_letterTableBrutus_3_name { Останнє Дослідження Дриванія I }
+item_letterTableBrutus_3_name { Останнє дослідження Дриванія I }
 
-helmet_brutus_name_name { Шолом Нексуса }
+helmet_brutus_name_name { Нексус-шолом }
 
-helmet_brutus_name_description { Странний шолом, прикрашений безліччю рун. }
+helmet_brutus_name_description { Дивний шолом, прикрашений безліччю рун. }
 
 item_letter_foresttavern_chapter1_name { Полювання на рипера I }
 

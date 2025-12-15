@@ -20,7 +20,7 @@ Plh_10 { Хм... не знаю... }
 
 Plh_11 { Повір мені, ти не пошкодуєш! }
 
-Plh_15 { Сьогодні о дев'ятій, $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ бій з $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. }
+Plh_15 { Сьогодні о дев'ятій: $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ б'ється з $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. }
 
 Plh_16 { Це якийсь натяк? }
 
