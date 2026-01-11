@@ -1,6 +1,6 @@
 Plh_74 { About getting into the Remnants' camp... }
 
-Plh_110 { I'm come to collect my daily pay. }
+Plh_110 { I've come to collect my daily pay. }
 
 Plh_112 { Your pay for today. Come back tomorrow. }
 
@@ -192,7 +192,7 @@ Plh_228 { A crystal? Hm. }
 
 Plh_229 { $GVAR:EVars_Player.Name$... Come here. Tell me, how did you get the crystal? }
 
-Plh_446 { A druid gave it to me as he was dying. I came to Drova with him. }
+Plh_446 { A druid gave it to me as she was dying. I came to Drova with her. }
 
 Plh_230 { A druid gave you the crystal... Let me take a closer look. }
 

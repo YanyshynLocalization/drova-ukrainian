@@ -92,3 +92,4 @@ Title_Insane_PopUp { Difficulty: Insane }
 
 Desc_Insane_PopUp { The "Insane" difficulty presents you with the most daring challenge in Drova so far.<br><br>In this mode, opponents are much more dangerous—their behavior, their position, and their numbers have all been updated. While we've equipped some creatures with new attacks, we've also created entirely new variants of existing creatures, who wield new special attacks.<br><br>In addition, you will suffer 30% more damage and inflict 20% less damage—and if this still isn't hard enough, you can further customize these numbers in the Options menu.<br><br>We've also made some minor adjustments in order to enhance the overall gameplay experience—just wait!<br><br>Are you sure you want to play the game in "Insane" mode? Once you've chosen this mode, you will not be able to change it during gameplay. }
 
+DefaultName { Arden }

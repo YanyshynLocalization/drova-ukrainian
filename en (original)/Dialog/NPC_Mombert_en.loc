@@ -44,7 +44,7 @@ Plh_803 { What exactly are we going to do on the Red Moor? }
 
 Plh_783 { A dangerous path lies ahead of us. It leads deep into the fog... and into the Knawd Moor. }
 
-Plh_784 { It's still uncharted territory — but now it's vital to reveal his secret. We shall be the vanguard — $GVAR:EVars_Player.Name$ will join us. We're going to secure everything. }
+Plh_784 { It's still uncharted territory — but now it's vital to reveal its secret. We shall be the vanguard — $GVAR:EVars_Player.Name$ will join us. We're going to secure everything. }
 
 Plh_786 { Henik? What's the matter? }
 
@@ -922,7 +922,7 @@ Plh_990 { Hopefully, they'll seize the opportunity to flee from the Forest Prime
 
 Plh_898 { I'm glad you returned. You're a vital part of the expedition. }
 
-Plh_900 { The Refuge is on its own now. Its fate is our of our hands by now. }
+Plh_900 { The Refuge is on its own now. Its fate is out of our hands by now. }
 
 Plh_941 { Soon, we'll face the Divinity. Are you ready? }
 

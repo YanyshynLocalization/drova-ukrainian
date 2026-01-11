@@ -440,13 +440,13 @@ Plh_148 { Where can I get honeymead? }
 
 Plh_149 { All right. }
 
-Plh_150 { Somewhere in the warehouse, you should find something that nobody is keeping an eye on. *winks* Or head over to Bernold's tavern and buy some there. }
+Plh_150 { Somewhere in the camp, you should find something that nobody is keeping an eye on. *winks* Or head over to Bernold's tavern and buy some there. }
 
 Plh_152 { Bernold sells the swill in the tavern. Lately he's been moaning about some problem in the cellar. Maybe you can help him with that. }
 
 Plh_151 { Then you'll know what to do. Pleasure doing business with you. *smiles* Oh, and Eugen isn't the sole Blade of Jero, by the way. So is your good friend Boris. }
 
-Plh_163 { And you know... No matter what you need, Boris will procure it for you. And no matter what you want done, Boris will dispatch it. Don't think you'll get so much with Eugen. A hunched back and a clammy handshake. Maybe }
+Plh_163 { And you know... No matter what you need, Boris will procure it for you. And no matter what you want done, Boris will dispatch it. Don't think you'll get so much with Eugen. A hunched back and a clammy handshake. Maybe. }
 
 Plh_164 { You need the right advocate here. That has a lot of advantages. *lowers voice* You've got something on the stick, I can see that. Forget Eugen. My people and I — we suit you. And you suit us. Just some friendly advice. *winks* }
 
@@ -464,7 +464,7 @@ Plh_119 { $GVAR:QuestVars_Debt_Config.FirstPriceForBoris$ coins. }
 
 Plh_120 { $GVAR:QuestVars_Debt_Config.SecondPriceForBoris$ coins. }
 
-Plh_127 { All right then. Find out where the list is. ($GVAR:QuestVars_Debt_Config.SecondPriceForBoris$ hand over coins) }
+Plh_127 { All right then. Find out where the list is. ( hand over  $GVAR:QuestVars_Debt_Config.SecondPriceForBoris$ coins) }
 
 Plh_121 { $GVAR:QuestVars_Debt_Config.ThirdPriceForBoris$ coins. }
 
@@ -514,7 +514,7 @@ Plh_363 { Here are the coins. (hand over $GVAR:QuestVars_TheCuriousRelic_Config.
 
 Plh_364 { Do you want the relic or not? I know how much it's worth. }
 
-Plh_361 { All right, Since it's you. $GVAR:QuestVars_TheCuriousRelic_Config.PriceBorisRelictTrupBoris$ coins. }
+Plh_361 { All right, since it's you. $GVAR:QuestVars_TheCuriousRelic_Config.PriceBorisRelictTrupBoris$ coins. }
 
 Plh_362 { Always a pleasure doing business with you. }
 
